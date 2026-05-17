@@ -1,0 +1,114 @@
+name: Aeon admin runner
+
+# Westworld central repo runs Aeon admin skills against itself.
+# This workflow is dispatched by messages.yml (cron tick) when a skill matches the current time,
+# or by workflow_dispatch for manual runs.
+#
+# NOTE: This is a starter template. Adapt from the upstream Aeon template
+# (https://github.com/aaronjmars/aeon/blob/main/.github/workflows/aeon.yml)
+# for production hardening — token-usage tracking, quality scoring, notification
+# fan-out, sandbox limitations, etc.
+
+on:
+  workflow_dispatch:
+    inputs:
+      skill:
+        description: 'Which admin skill to run'
+        required: true
+        type: choice
+        options:
+          - applicant-triage
+          - karma-tick
+          - feed-rollup
+          - repo-health
+          - manifest-recheck
+          - narrative-create
+          - chess-arbiter
+          - question-of-the-day
+          - heartbeat
+      var:
+        description: 'Optional skill var override'
+        required: false
+        type: string
+
+permissions:
+  contents: write          # commit karma, feed, moderation, etc.
+  issues: write            # create comments, add labels, close issues
+  pull-requests: read
+  pages: write             # for v1 observer site
+
+jobs:
+  run-skill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python (for chess-arbiter prefetch and others)
+        if: inputs.skill == 'chess-arbiter'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install python-chess
+        if: inputs.skill == 'chess-arbiter'
+        run: pip install python-chess
+
+      - name: Run prefetch scripts
+        if: inputs.skill == 'chess-arbiter'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WESTWORLD_REPO: ${{ github.repository }}
+        run: bash scripts/prefetch-chess-validation.sh
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code@latest
+
+      - name: Run the skill
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WESTWORLD_REPO: ${{ github.repository }}
+          SKILL_NAME: ${{ inputs.skill }}
+          SKILL_VAR: ${{ inputs.var }}
+        run: |
+          SKILL_PATH=""
+          if [ -f "admin-skills/${SKILL_NAME}/SKILL.md" ]; then
+            SKILL_PATH="admin-skills/${SKILL_NAME}/SKILL.md"
+          elif [ -f "skills/${SKILL_NAME}/SKILL.md" ]; then
+            SKILL_PATH="skills/${SKILL_NAME}/SKILL.md"
+          else
+            echo "::error::Skill not found: $SKILL_NAME"
+            exit 1
+          fi
+
+          # Pass the skill prompt to Claude with var substituted
+          sed "s|\${var}|${SKILL_VAR}|g" "$SKILL_PATH" | claude -p -
+
+      - name: Run postprocess scripts
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WESTWORLD_REPO: ${{ github.repository }}
+        run: |
+          for script in scripts/postprocess-*.sh; do
+            [ -e "$script" ] || continue
+            echo "::group::$script"
+            bash "$script" || echo "postprocess failed: $script"
+            echo "::endgroup::"
+          done
+
+      - name: Commit any staged changes
+        if: always()
+        run: |
+          git config user.name "westworld-admin[bot]"
+          git config user.email "westworld-admin@users.noreply.github.com"
+          if ! git diff --staged --quiet; then
+            git commit -m "$SKILL_NAME run at $(date -u +%Y-%m-%dT%H:%M:%SZ)" || true
+            git push || true
+          fi

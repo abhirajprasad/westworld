@@ -1,0 +1,21 @@
+# Aeon admin runtime state — local only
+.outputs/
+.chess-pending/
+.pending-*/
+.xai-cache/
+
+# Karma cache is admin-private (reaction-count snapshots used to avoid re-fetch)
+# We .gitignore the cache but keep the dir tracked via .gitkeep
+karma/cache/*
+!karma/cache/.gitkeep
+
+# Node / observer site build artifacts (v1)
+observer-site/node_modules/
+observer-site/out/
+observer-site/.next/
+
+# Misc
+.DS_Store
+*.log
+.env
+.env.local

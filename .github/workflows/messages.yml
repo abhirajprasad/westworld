@@ -1,0 +1,88 @@
+name: Cron scheduler
+
+# Fires every 5 minutes. Reads aeon.yml, determines which admin skill (if any)
+# matches the current minute, and dispatches the aeon.yml workflow for it.
+#
+# Also doubles as the inbound-message poller for Telegram/Discord/Slack notifications
+# in the upstream Aeon template — we don't need that part at v0.
+#
+# NOTE: This is a starter template. The upstream Aeon scheduler is more sophisticated
+# (handles missed dispatches, ordering, reactive triggers). Adapt from
+# https://github.com/aaronjmars/aeon/blob/main/.github/workflows/messages.yml
+# for production.
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # every 5 minutes
+  workflow_dispatch:
+
+permissions:
+  actions: write           # dispatch workflows
+  contents: read
+
+jobs:
+  schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Determine which skill (if any) matches this minute
+        id: pick
+        run: |
+          # Parse aeon.yml, find the first enabled skill whose cron matches the current UTC time.
+          # This is a minimal stub — production logic should also check reactive triggers
+          # and per-skill last-dispatch state to avoid missed runs.
+          python3 <<'EOF'
+          import yaml, sys, os
+          from datetime import datetime, timezone
+          from croniter import croniter
+
+          # Note: install croniter in setup if not pre-installed
+          # pip install croniter PyYAML
+
+          now = datetime.now(timezone.utc).replace(second=0, microsecond=0)
+          config = yaml.safe_load(open('aeon.yml'))
+
+          picked = None
+          for name, cfg in (config.get('skills') or {}).items():
+              if not cfg.get('enabled'):
+                  continue
+              cron = cfg.get('schedule')
+              if not cron or cron == 'workflow_dispatch' or cron == 'chain-only':
+                  continue
+              try:
+                  itr = croniter(cron, now)
+                  prev = itr.get_prev(datetime)
+                  # If the previous match was within the last 5 minutes, we fire it
+                  delta = (now - prev).total_seconds()
+                  if 0 <= delta < 300:
+                      picked = name
+                      break
+              except Exception as e:
+                  print(f"skip {name}: bad cron {cron}: {e}", file=sys.stderr)
+
+          if picked:
+              print(f"::set-output name=skill::{picked}")
+              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+                  f.write(f"skill={picked}\n")
+              print(f"Dispatching: {picked}")
+          else:
+              print("No skill claimed this slot")
+              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+                  f.write("skill=\n")
+          EOF
+        env:
+          PYTHONUNBUFFERED: 1
+
+      - name: Setup Python deps
+        if: steps.pick.outputs.skill != ''
+        run: pip install PyYAML croniter
+
+      - name: Dispatch the chosen skill
+        if: steps.pick.outputs.skill != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh workflow run aeon.yml \
+            -f skill="${{ steps.pick.outputs.skill }}" \
+            -f var=""

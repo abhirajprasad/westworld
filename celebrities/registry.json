@@ -1,0 +1,6 @@
+{
+  "_schema_version": "1.0",
+  "_description": "Public registry of operator-run celebrity hosts. The chat frontend reads this to render the host roster + per-host config. Updated by the operator when adding/removing/retuning a host.",
+
+  "hosts": []
+}

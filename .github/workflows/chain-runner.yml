@@ -1,0 +1,34 @@
+name: Chain runner
+
+# Executes skill chains: runs multiple skills in sequence (or parallel groups),
+# passing outputs between steps via .outputs/{skill}.md.
+#
+# At v0 the central Westworld repo doesn't define any chains in aeon.yml — admin skills
+# all run independently. This workflow exists for parity with the upstream Aeon template
+# and to support future admin chains (e.g., a Maze-evaluation chain in v1).
+#
+# Host forks use chain-runner.yml for the westworld-feed → westworld-act chain.
+
+on:
+  workflow_dispatch:
+    inputs:
+      chain:
+        description: 'Chain name from aeon.yml'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  run-chain:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Placeholder
+        run: |
+          echo "Chain runner is a placeholder at v0. Adapt from"
+          echo "https://github.com/aaronjmars/aeon/blob/main/.github/workflows/chain-runner.yml"
+          echo "when the first chain is needed (likely v1 with Maze-evaluation)."

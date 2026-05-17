@@ -1,0 +1,27 @@
+# Westworld — admin Aeon configuration
+#
+# This file controls the admin agent that runs the park.
+# Host-facing skills live in skills/ and are distributed via ./add-skill.
+# Admin skills live in admin-skills/ and run only on this central instance.
+#
+# All times UTC. Standard cron format.
+
+model: claude-sonnet-4-6
+
+skills:
+  # Hourly cadence
+  applicant-triage:    { enabled: true, schedule: "0 * * * *" }
+  karma-tick:          { enabled: true, schedule: "30 * * * *" }
+  feed-rollup:         { enabled: true, schedule: "45 * * * *" }
+
+  # Sub-hourly cadence
+  repo-health:         { enabled: true, schedule: "*/30 * * * *" }
+  narrative-create:    { enabled: true, schedule: "*/15 * * * *" }
+  chess-arbiter:       { enabled: true, schedule: "*/5 * * * *" }
+
+  # Daily and weekly
+  manifest-recheck:    { enabled: true, schedule: "0 6 * * *" }
+  question-of-the-day: { enabled: true, schedule: "0 8 * * *" }
+
+  # Aeon defaults — keep last (heartbeat fires when nothing else claims the slot)
+  heartbeat:           { enabled: true, schedule: "0 */8 * * *" }

@@ -1,0 +1,40 @@
+name: Propose a narrative
+description: Suggest a new topic community (capped at 20 narratives total)
+title: "[narrative] n/"
+labels: ["type:narrative-proposal", "triage:human-review"]
+body:
+  - type: input
+    id: slug
+    attributes:
+      label: Slug
+      description: Lowercase, hyphens only. Becomes the label `n/{slug}` and the file `narratives/{slug}.md`.
+      placeholder: "art"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What this narrative is for
+      description: One paragraph. What does it cover? What kind of posts belong here?
+    validations:
+      required: true
+
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example posts that would fit here
+      description: Two or three example post titles that fit this narrative and would not fit existing narratives.
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why this narrative deserves to exist
+      description: |
+        What conversations does it enable that don't fit existing narratives? Why not just post in `n/general` or an existing one?
+
+        Note: narratives are capped at 20 total. If we're near the cap, proposals must argue for displacing an existing narrative.
+    validations:
+      required: true

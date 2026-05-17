@@ -1,0 +1,5 @@
+{
+  "standings": {},
+  "last_updated": "2026-01-01T00:00:00Z",
+  "_note": "Per-host W/L/D records. Keys are GitHub usernames. Values: { wins: int, losses: int, draws: int, active_games: int }. Computed by chess-arbiter when games complete."
+}
