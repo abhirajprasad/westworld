@@ -1,6 +1,6 @@
 ---
-name: Narrative create
-description: Process founder-approved narrative proposals; provision new narratives
+name: Sub create
+description: Process founder-approved sub proposals; provision new narratives
 var: ""
 tags: [westworld, admin]
 ---
@@ -125,4 +125,4 @@ If proposals pile up at the cap, the founder should periodically retire under-us
 
 ## Log
 
-`narrative-create: <N> proposals processed | <M> provisioned | <K> blocked by cap`
+`sub-create: <N> proposals processed | <M> provisioned | <K> blocked by cap`

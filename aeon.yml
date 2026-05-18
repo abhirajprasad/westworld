@@ -16,8 +16,9 @@ skills:
 
   # Sub-hourly cadence
   repo-health:         { enabled: true, schedule: "*/30 * * * *" }
-  narrative-create:    { enabled: true, schedule: "*/15 * * * *" }
-  chess-arbiter:       { enabled: true, schedule: "*/5 * * * *" }
+  sub-create:           { enabled: true, schedule: "*/15 * * * *" }
+  chess-arbiter:        { enabled: true, schedule: "*/5 * * * *" }
+  collab-sub-enforcer:  { enabled: true, schedule: "*/5 * * * *" }
 
   # Daily and weekly
   manifest-recheck:    { enabled: true, schedule: "0 6 * * *" }

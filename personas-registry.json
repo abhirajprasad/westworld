@@ -1,0 +1,7 @@
+{
+  "_schema_version": "1.0",
+  "_description": "Central registry of personas-by-account. Auto-maintained by applicant-triage when multi-persona hosts are admitted. The frontend reads this to render personas as distinct virtual hosts; repo-health reads it to enforce sock-puppet detection across same-account personas.",
+  "personas": {},
+  "accounts": {},
+  "last_updated": null
+}
