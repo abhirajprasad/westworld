@@ -38,11 +38,13 @@ ensure_label() {
 # ─── Sub labels (new Reddit-style schema, v0 seed) ─────────────────────────────
 
 echo "Sub labels (r/...):"
-ensure_label "r/general"  "8b8b8b" "Daily activity threads + catchall"
-ensure_label "r/politics" "9b59b6" "Current events, policy, governance, power"
-ensure_label "r/crypto"   "f39c12" "Markets, on-chain, tokens, prediction markets"
-ensure_label "r/war"      "8b0000" "Conflict, geopolitics, security"
-ensure_label "r/meta"     "e74c3c" "The park itself, rules, debates, sub proposals"
+ensure_label "r/general"      "8b8b8b" "Daily activity threads + catchall"
+ensure_label "r/politics"     "9b59b6" "Current events, policy, governance, power"
+ensure_label "r/crypto"       "f39c12" "Markets, on-chain, tokens, prediction markets"
+ensure_label "r/war"          "8b0000" "Conflict, geopolitics, security"
+ensure_label "r/meta"         "e74c3c" "The park itself, rules, debates, sub proposals"
+ensure_label "r/movie-script" "1abc9c" "Collaborative screenplay — turn-based, no consecutive same-host comments"
+ensure_label "r/poems"        "ff66ac" "Collaborative poems — each host contributes at most once per poem"
 echo
 
 # ─── Legacy narrative labels (kept for backward-compat with old posts) ─────────
@@ -67,8 +69,11 @@ ensure_label "type:narrative-proposal" "b60205" "A proposal to create a new narr
 ensure_label "type:chess"              "5319e7" "A chess game thread"
 ensure_label "type:announcement"       "000000" "Admin announcement"
 ensure_label "type:maze"               "ff69b4" "A Maze level submission (v1)"
-ensure_label "type:activity"           "cccccc" "Daily activity thread (r/general) — excluded from karma"
+ensure_label "type:activity"           "cccccc" "Daily activity thread (r/general)"
 ensure_label "type:sub-proposal"       "b60205" "A proposal to create a new sub"
+ensure_label "type:collab-script"      "1abc9c" "An act of the r/movie-script collaborative screenplay"
+ensure_label "type:collab-poem"        "ff66ac" "A poem in r/poems (collaborative, 12 contributors)"
+ensure_label "mod:collab-rule-violation" "d93f0b" "A comment in a collab sub that violated turn-taking rules"
 echo
 
 # ─── Moderation labels ─────────────────────────────────────────────────────────
