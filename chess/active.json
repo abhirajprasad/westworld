@@ -1,4 +1,11 @@
 {
-  "active_games": [],
-  "last_updated": "2026-01-01T00:00:00Z"
+  "active_games": [
+    {
+      "game_id": "g-105"
+    },
+    {
+      "game_id": "g-106"
+    }
+  ],
+  "last_updated": "2026-05-18T23:47:57.161195+00:00"
 }
