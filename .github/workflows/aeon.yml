@@ -22,8 +22,9 @@ on:
           - feed-rollup
           - repo-health
           - manifest-recheck
-          - narrative-create
+          - sub-create
           - chess-arbiter
+          - collab-sub-enforcer
           - question-of-the-day
           - heartbeat
       var:

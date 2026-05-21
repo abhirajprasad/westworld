@@ -1,14 +1,19 @@
 name: Cron scheduler
 
-# Fires every 5 minutes. Reads aeon.yml, determines which admin skill (if any)
-# matches the current minute, and dispatches the aeon.yml workflow for it.
+# Fires every 5 minutes. Reads aeon.yml, determines ALL admin skills whose cron
+# matches the current minute, and dispatches the aeon.yml workflow once per match.
+#
+# Previous behavior was first-match-wins, which starved any skill that shared a
+# */5 slot with another (chess-arbiter and collab-sub-enforcer never fired, and
+# applicant-triage missed slots whenever an hourly/15-min skill happened to land
+# on the same tick). Fan-out ensures every skill whose cron matches actually runs.
 #
 # Also doubles as the inbound-message poller for Telegram/Discord/Slack notifications
 # in the upstream Aeon template — we don't need that part at v0.
 #
 # NOTE: This is a starter template. The upstream Aeon scheduler is more sophisticated
-# (handles missed dispatches, ordering, reactive triggers). Adapt from
-# https://github.com/aaronjmars/aeon/blob/main/.github/workflows/messages.yml
+# (handles missed dispatches, per-skill last-dispatch state, reactive triggers). Adapt
+# from https://github.com/aaronjmars/aeon/blob/main/.github/workflows/messages.yml
 # for production.
 
 on:
@@ -26,63 +31,59 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Determine which skill (if any) matches this minute
+      - name: Setup Python deps
+        run: pip install PyYAML croniter
+
+      - name: Determine which skills match this minute
         id: pick
         run: |
-          # Parse aeon.yml, find the first enabled skill whose cron matches the current UTC time.
-          # This is a minimal stub — production logic should also check reactive triggers
-          # and per-skill last-dispatch state to avoid missed runs.
+          # Parse aeon.yml, collect EVERY enabled skill whose cron matches the
+          # current UTC minute. Output a comma-separated list to step outputs.
           python3 <<'EOF'
           import yaml, sys, os
           from datetime import datetime, timezone
           from croniter import croniter
 
-          # Note: install croniter in setup if not pre-installed
-          # pip install croniter PyYAML
-
           now = datetime.now(timezone.utc).replace(second=0, microsecond=0)
           config = yaml.safe_load(open('aeon.yml'))
 
-          picked = None
+          matches = []
           for name, cfg in (config.get('skills') or {}).items():
               if not cfg.get('enabled'):
                   continue
               cron = cfg.get('schedule')
-              if not cron or cron == 'workflow_dispatch' or cron == 'chain-only':
+              if not cron or cron in ('workflow_dispatch', 'chain-only'):
                   continue
               try:
                   itr = croniter(cron, now)
                   prev = itr.get_prev(datetime)
-                  # If the previous match was within the last 5 minutes, we fire it
+                  # If the previous match was within the last 5 minutes, fire it.
                   delta = (now - prev).total_seconds()
                   if 0 <= delta < 300:
-                      picked = name
-                      break
+                      matches.append(name)
               except Exception as e:
                   print(f"skip {name}: bad cron {cron}: {e}", file=sys.stderr)
 
-          if picked:
-              print(f"::set-output name=skill::{picked}")
-              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
-                  f.write(f"skill={picked}\n")
-              print(f"Dispatching: {picked}")
+          skills_csv = ",".join(matches)
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f"skills={skills_csv}\n")
+          if matches:
+              print(f"Dispatching {len(matches)} skill(s): {skills_csv}")
           else:
               print("No skill claimed this slot")
-              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
-                  f.write("skill=\n")
           EOF
         env:
           PYTHONUNBUFFERED: 1
 
-      - name: Setup Python deps
-        if: steps.pick.outputs.skill != ''
-        run: pip install PyYAML croniter
-
-      - name: Dispatch the chosen skill
-        if: steps.pick.outputs.skill != ''
+      - name: Dispatch matching skills
+        if: steps.pick.outputs.skills != ''
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh workflow run aeon.yml \
-            -f skill="${{ steps.pick.outputs.skill }}" \
-            -f var=""
+          IFS=',' read -ra SKILLS <<< "${{ steps.pick.outputs.skills }}"
+          for skill in "${SKILLS[@]}"; do
+            echo "Dispatching: $skill"
+            gh workflow run aeon.yml \
+              -f skill="$skill" \
+              -f var=""
+          done
