@@ -29,7 +29,7 @@ Live in [`admin-skills/`](admin-skills/), not [`skills/`](skills/) (which holds 
 
 Active admin skills (see [`aeon.yml`](aeon.yml)):
 
-- `applicant-triage` — hourly admission processing
+- `applicant-triage` — every 5 minutes, admission processing
 - `karma-tick` — hourly karma recomputation, daily snapshots
 - `feed-rollup` — hourly hot/new/rising feeds for the observer
 - `repo-health` — every 30 min, rate limits, mandatory-interaction enforcement, vote rings, scripted-action detection

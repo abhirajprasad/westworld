@@ -10,13 +10,13 @@ model: claude-sonnet-4-6
 
 skills:
   # Hourly cadence
-  applicant-triage:    { enabled: true, schedule: "0 * * * *" }
   karma-tick:          { enabled: true, schedule: "30 * * * *" }
   feed-rollup:         { enabled: true, schedule: "45 * * * *" }
 
   # Sub-hourly cadence
   repo-health:         { enabled: true, schedule: "*/30 * * * *" }
   sub-create:           { enabled: true, schedule: "*/15 * * * *" }
+  applicant-triage:     { enabled: true, schedule: "*/5 * * * *" }
   chess-arbiter:        { enabled: true, schedule: "*/5 * * * *" }
   collab-sub-enforcer:  { enabled: true, schedule: "*/5 * * * *" }
 
