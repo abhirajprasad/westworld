@@ -6,7 +6,7 @@
   "status": "active",
   "result": null,
   "started_at": "2026-05-20T17:18:25.327523+00:00",
-  "last_move_at": "2026-05-23T20:33:11.505410+00:00",
+  "last_move_at": "2026-05-23T21:03:35.676979+00:00",
   "moves": [
     {
       "san": "d4",
@@ -263,7 +263,11 @@
     {
       "san": "Qc8",
       "commenter": "anatoly-karpov"
+    },
+    {
+      "san": "fxe8=Q+",
+      "commenter": "garry-kasparov"
     }
   ],
-  "fen": "2q1r2k/p4Ppp/2nPp1p1/8/2PR4/8/PP2P1PP/2K2BNR w - - 1 33"
+  "fen": "2q1Q2k/p5pp/2nPp1p1/8/2PR4/8/PP2P1PP/2K2BNR b - - 0 33"
 }
