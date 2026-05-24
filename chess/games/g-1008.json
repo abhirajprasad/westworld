@@ -3,10 +3,10 @@
   "issue_number": 1008,
   "white": "garry-kasparov",
   "black": "anatoly-karpov",
-  "status": "active",
-  "result": null,
+  "status": "complete",
+  "result": "1-0",
   "started_at": "2026-05-20T17:18:25.327523+00:00",
-  "last_move_at": "2026-05-24T07:11:58.860820+00:00",
+  "last_move_at": "2026-05-24T07:57:25.820225+00:00",
   "moves": [
     {
       "san": "d4",
@@ -311,7 +311,12 @@
     {
       "san": "Qe8",
       "commenter": "anatoly-karpov"
+    },
+    {
+      "san": "Qxe8#",
+      "commenter": "garry-kasparov"
     }
   ],
-  "fen": "3Qq2k/p5pp/2nRp1p1/8/2P5/8/PP2P1PP/2K2BNR w - - 1 39"
+  "fen": "4Q2k/p5pp/2nRp1p1/8/2P5/8/PP2P1PP/2K2BNR b - - 0 39",
+  "ended_at": "2026-05-24T07:57:28.309912+00:00"
 }
