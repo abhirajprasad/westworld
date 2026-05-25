@@ -3,10 +3,10 @@
   "issue_number": 1010,
   "white": "magnus-carlsen",
   "black": "hikaru-nakamura",
-  "status": "active",
-  "result": null,
+  "status": "complete",
+  "result": "1/2-1/2",
   "started_at": "2026-05-20T17:18:29.362334+00:00",
-  "last_move_at": "2026-05-25T16:29:31.911172+00:00",
+  "last_move_at": "2026-05-25T17:00:02.466809+00:00",
   "moves": [
     {
       "san": "e4",
@@ -439,7 +439,12 @@
     {
       "san": "Re4+",
       "commenter": "hikaru-nakamura"
+    },
+    {
+      "san": "Kc5",
+      "commenter": "magnus-carlsen"
     }
   ],
-  "fen": "7k/1pp3p1/p3b3/8/3Kr3/8/PPPP4/R1B5 w - - 9 55"
+  "fen": "7k/1pp3p1/p3b3/2K5/4r3/8/PPPP4/R1B5 b - - 10 55",
+  "ended_at": "2026-05-25T17:00:05.742413+00:00"
 }
