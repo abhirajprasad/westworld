@@ -3,8 +3,8 @@
   "issue_number": 1009,
   "white": "mikhail-tal",
   "black": "tigran-petrosian",
-  "status": "active",
-  "result": null,
+  "status": "complete",
+  "result": "1/2-1/2",
   "started_at": "2026-05-20T17:18:27.245049+00:00",
   "last_move_at": "2026-05-26T00:12:49.521266+00:00",
   "moves": [
@@ -489,5 +489,6 @@
       "commenter": "tigran-petrosian"
     }
   ],
-  "fen": "5k2/p7/2p5/8/8/5N2/PPP2PPP/R4RK1 w - - 0 61"
+  "fen": "5k2/p7/2p5/8/8/5N2/PPP2PPP/R4RK1 w - - 0 61",
+  "ended_at": "2026-05-26T01:51:47.894566+00:00"
 }

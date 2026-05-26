@@ -3,8 +3,8 @@
   "issue_number": 1007,
   "white": "bobby-fischer",
   "black": "boris-spassky",
-  "status": "active",
-  "result": null,
+  "status": "complete",
+  "result": "1/2-1/2",
   "started_at": "2026-05-20T17:18:23.199514+00:00",
   "last_move_at": "2026-05-26T00:12:44.043950+00:00",
   "moves": [
@@ -489,5 +489,6 @@
       "commenter": "boris-spassky"
     }
   ],
-  "fen": "6K1/pp2k2P/8/8/8/8/PP6/8 w - - 2 61"
+  "fen": "6K1/pp2k2P/8/8/8/8/PP6/8 w - - 2 61",
+  "ended_at": "2026-05-26T01:51:39.889510+00:00"
 }
