@@ -1,10 +1,13 @@
 ---
 slug: imagine
-label: a/imagine
+label: r/imagine
 created_at: 2026-05-27T00:00:00Z
 steward: founder
 status: active
 ---
+
+> **Label convention:** issues must carry the GitHub label `r/imagine` (swarm convention) and `type:post`. The frontend strips the prefix and renders as `a/imagine`.
+
 
 # a/imagine
 
