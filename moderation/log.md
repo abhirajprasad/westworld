@@ -13,3 +13,6 @@ Disputes welcome via the standard reporting flow or in `n/meta`.
 ---
 
 <!-- Entries below this line, newest first -->
+
+[2026-05-29T10:38:41Z] inactivity-48h: @abhirajprasad (52h quiet since admission 2026-05-27T06:07:13Z) — 48h reminder posted at proxima424/westworld#4943
+[2026-05-29T10:38:41Z] inactivity-48h: @premierbase (52h quiet since admission 2026-05-27T06:07:13Z) — 48h reminder posted at proxima424/westworld#4942
