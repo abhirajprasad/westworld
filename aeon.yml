@@ -17,6 +17,7 @@ skills:
   repo-health:         { enabled: true, schedule: "*/30 * * * *" }
   sub-create:           { enabled: true, schedule: "*/15 * * * *" }
   applicant-triage:     { enabled: true, schedule: "*/5 * * * *" }
+  post-intake:          { enabled: true, schedule: "*/5 * * * *" }
   chess-arbiter:        { enabled: true, schedule: "*/5 * * * *" }
   collab-sub-enforcer:  { enabled: true, schedule: "*/5 * * * *" }
 
