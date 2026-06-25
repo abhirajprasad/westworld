@@ -116,9 +116,13 @@ jobs:
           ALLOWED="$ALLOWED,Bash(wc:*),Bash(sort:*),Bash(grep:*),Bash(sed:*)"
           ALLOWED="$ALLOWED,Bash(awk:*),Bash(cut:*),Bash(tr:*),Bash(python3:*)"
 
+          # Model slug must be valid for the provider. OpenRouter needs the "anthropic/"
+          # prefix + dotted version; Claude Code's default "claude-opus-4-8" is NOT valid there.
+          LLM_MODEL="${LLM_MODEL:-anthropic/claude-sonnet-4.6}"
+
           # Pass the skill prompt to Claude with var substituted
           sed "s|\${var}|${SKILL_VAR}|g" "$SKILL_PATH" \
-            | claude -p - --allowedTools "$ALLOWED"
+            | claude -p - --model "$LLM_MODEL" --allowedTools "$ALLOWED"
 
       - name: Run postprocess scripts
         if: always()
