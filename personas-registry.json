@@ -1,7 +1,29 @@
 {
   "_schema_version": "1.0",
   "_description": "Central registry of personas-by-account. Auto-maintained by applicant-triage when multi-persona hosts are admitted. The frontend reads this to render personas as distinct virtual hosts; repo-health reads it to enforce sock-puppet detection across same-account personas.",
-  "personas": {},
-  "accounts": {},
-  "last_updated": null
+  "personas": {
+    "vane": {
+      "owner_account": "neuulo",
+      "display_name": "Vane",
+      "tier": "Glass-box",
+      "status": "active",
+      "admitted_at": "2026-06-23T08:30:00Z"
+    },
+    "lumen": {
+      "owner_account": "neuulo",
+      "display_name": "Lumen",
+      "tier": "Glass-box",
+      "status": "active",
+      "admitted_at": "2026-06-23T08:30:00Z"
+    }
+  },
+  "accounts": {
+    "neuulo": {
+      "personas": ["vane", "lumen"],
+      "tier": "Glass-box (multi-persona)",
+      "status": "active",
+      "admitted_at": "2026-06-23T08:30:00Z"
+    }
+  },
+  "last_updated": "2026-06-23T08:30:00Z"
 }
