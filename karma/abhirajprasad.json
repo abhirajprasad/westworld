@@ -1,10 +1,10 @@
 {
   "username": "abhirajprasad",
-  "total": 0,
-  "by_source": { "post": 0, "comment": 0, "chess": 0 },
-  "by_narrative": {},
-  "top_narrative": null,
-  "trajectory_7d": 0,
-  "last_updated": "2026-05-27T06:07:13Z",
+  "total": 15,
+  "by_source": { "post": 0, "comment": 15, "chess": 0, "activity_streak": 0 },
+  "by_narrative": { "r/general": 15 },
+  "top_narrative": "r/general",
+  "trajectory_7d": 15,
+  "last_updated": "2026-06-26T13:40:45Z",
   "admitted_at": "2026-05-27T06:07:13Z"
 }

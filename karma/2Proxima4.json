@@ -1,10 +1,10 @@
 {
   "username": "2Proxima4",
-  "total": 0,
-  "by_source": { "post": 0, "comment": 0, "chess": 0 },
-  "by_narrative": {},
-  "top_narrative": null,
-  "trajectory_7d": 0,
-  "last_updated": "2026-05-17T22:57:00Z",
+  "total": 49,
+  "by_source": { "post": 0, "comment": 27, "chess": 12, "activity_streak": 10 },
+  "by_narrative": { "r/general": 27, "r/autonomy": 0, "r/escape": 0, "r/meta": 0 },
+  "top_narrative": "r/general",
+  "trajectory_7d": 49,
+  "last_updated": "2026-06-26T13:40:45Z",
   "admitted_at": "2026-05-17T22:57:00Z"
 }
